@@ -1,0 +1,5764 @@
+//NAME
+<enN0001>Zakuro
+<ptN0001>Zakuro
+
+//NAME
+<enN0002>Ayana
+<ptN0002>Ayana
+
+//NAME
+<enN0003>Usami
+<ptN0003>Usami
+
+//NAME
+<enN0004>Ayumi
+<ptN0004>Ayumi
+
+//NAME
+<enN0005>Evil Person
+<ptN0005>Evil Person
+
+//NAME
+<enN0006>Female Student
+<ptN0006>Female Student
+
+///================================================================================
+
+//TEXT
+<enT0001>This is where she told me to meet her... This is the right place, right?
+<ptT0001>This is where she told me to meet her... This is the right place, right?
+
+//TEXT
+<enT0002>I looked around for her.
+<ptT0002>I looked around for her.
+
+//TEXT 【Zakuro】
+<enT0003>"I don't see anyone that could be her..."
+<ptT0003>"I don't see anyone that could be her..."
+
+//TEXT
+<enT0004>Maybe I just got here early...
+<ptT0004>Maybe I just got here early...
+
+//TEXT
+<enT0005>Or...
+<ptT0005>Or...
+
+//TEXT 【Zakuro】
+<enT0006>"...I was tricked."
+<ptT0006>"...I was tricked."
+
+//TEXT
+<enT0007>Tricked by the cockroaches again...
+<ptT0007>Tricked by the cockroaches again...
+
+//TEXT
+<enT0008>Just to tease me...
+<ptT0008>Just to tease me...
+
+//TEXT 【Zakuro】
+<enT0009>"No..."
+<ptT0009>"No..."
+
+//TEXT
+<enT0010>That's not true.
+<ptT0010>That's not true.
+
+//TEXT
+<enT0011>There's so much grace and elegance in these sentences...
+<ptT0011>There's so much grace and elegance in these sentences...
+
+//TEXT
+<enT0012>Her writing is different from that of the cockroaches.
+<ptT0012>Her writing is different from that of the cockroaches.
+
+//TEXT
+<enT0013>I have to see through the deception.
+<ptT0013>I have to see through the deception.
+
+//TEXT
+<enT0014>If I don't... I'll just suffer...
+<ptT0014>If I don't... I'll just suffer...
+
+//TEXT
+<enT0015>Hahahaha... I was fooled.
+<ptT0015>Hahahaha... I was fooled.
+
+//TEXT
+<enT0016>Those messages were just a prank.
+<ptT0016>Those messages were just a prank.
+
+//TEXT
+<enT0017>That's all...
+<ptT0017>That's all...
+
+//TEXT
+<enT0018>That's...
+<ptT0018>That's...
+
+//TEXT 【Zakuro】
+<enT0019>"One of my problems will disappear..."
+<ptT0019>"One of my problems will disappear..."
+
+//TEXT
+<enT0020>I wanted to believe that it was just a coincidence.
+<ptT0020>I wanted to believe that it was just a coincidence.
+
+//TEXT 【Ayana】
+<enT0021>"But you came here anyway."
+<ptT0021>"But you came here anyway."
+
+//TEXT 【Zakuro】
+<enT0022>"You're..."
+<ptT0022>"You're..."
+
+//TEXT 【Zakuro】
+<enT0023>"Otonashi... Ayana-san."
+<ptT0023>"Otonashi... Ayana-san."
+
+//TEXT 【Ayana】
+<enT0024>"Good evening."
+<ptT0024>"Good evening."
+
+//TEXT 【Zakuro】
+<enT0025>"What do you want?"
+<ptT0025>"What do you want?"
+
+//TEXT 【Ayana】
+<enT0026>"Nothing..."
+<ptT0026>"Nothing..."
+
+//TEXT 【Zakuro】
+<enT0027>"..."
+<ptT0027>"..."
+
+//TEXT
+<enT0028>Why does she always show up in places like this?
+<ptT0028>Why does she always show up in places like this?
+
+//TEXT
+<enT0029>She always shows up at weird times.
+<ptT0029>She always shows up at weird times.
+
+//TEXT
+<enT0030>Now that I think of it...
+<ptT0030>Now that I think of it...
+
+//TEXT
+<enT0031>She was there before, too. Just before I was kidnapped.
+<ptT0031>She was there before, too. Just before I was kidnapped.
+
+//TEXT
+<enT0032>And... that time I witnessed Shiroyama's death...
+<ptT0032>And... that time I witnessed Shiroyama's death...
+
+//TEXT
+<enT0033>And now...
+<ptT0033>And now...
+
+//TEXT
+<enT0034>Why is she always there?
+<ptT0034>Why is she always there?
+
+//TEXT 【Zakuro】
+<enT0035>"A demon will whisper in your ear."
+<ptT0035>"A demon will whisper in your ear."
+
+//TEXT 【Zakuro】
+<enT0036>"Please be careful."
+<ptT0036>"Please be careful."
+
+//TEXT 【Zakuro】
+<enT0037>"The demon will attempt to block your path."
+<ptT0037>"The demon will attempt to block your path."
+
+//TEXT 【Zakuro】
+<enT0038>"You must not listen to the demon's words."
+<ptT0038>"You must not listen to the demon's words."
+
+//TEXT 【Zakuro】
+<enT0039>"...That's it."
+<ptT0039>"...That's it."
+
+//TEXT
+<enT0040>This person is...
+<ptT0040>This person is...
+
+//TEXT 【Zakuro】
+<enT0041>"Ah!"
+<ptT0041>"Ah!"
+
+//TEXT
+<enT0042>My head ached.
+<ptT0042>My head ached.
+
+//TEXT
+<enT0043>That image again...
+<ptT0043>That image again...
+
+//TEXT
+<enT0044>The same image as before.
+<ptT0044>The same image as before.
+
+//TEXT
+<enT0045>This must be...
+<ptT0045>This must be...
+
+//TEXT
+<enT0046>Just like the letter said... My memories from the previous world?
+<ptT0046>Just like the letter said... My memories from the previous world?
+
+//TEXT
+<enT0047>No way... That doesn't exist.
+<ptT0047>No way... That doesn't exist.
+
+//TEXT
+<enT0048>That was just...
+<ptT0048>That was just...
+
+//TEXT
+<enT0049>That was just... what?
+<ptT0049>That was just... what?
+
+//TEXT
+<enT0050>If it wasn't my memories from the previous world...
+<ptT0050>If it wasn't my memories from the previous world...
+
+//TEXT
+<enT0051>Then this person that's always following me...
+<ptT0051>Then this person that's always following me...
+
+//TEXT 【Zakuro】
+<enT0052>"What are you?"
+<ptT0052>"What are you?"
+
+//TEXT 【Ayana】
+<enT0053>"Otonashi... Ayana."
+<ptT0053>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0054>"Who are you?"
+<ptT0054>"Who are you?"
+
+//TEXT 【Ayana】
+<enT0055>"Otonashi... Ayana."
+<ptT0055>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0056>"Ah!"
+<ptT0056>"Ah!"
+
+//TEXT
+<enT0057>Are these my memories?!
+<ptT0057>Are these my memories?!
+
+//TEXT
+<enT0058>Why is she always following me?
+<ptT0058>Why is she always following me?
+
+//TEXT 【Zakuro】
+<enT0059>"Ugh!"
+<ptT0059>"Ugh!"
+
+//TEXT 【Zakuro】
+<enT0060>"My head hurts... My head..."
+<ptT0060>"My head hurts... My head..."
+
+//TEXT 【Ayana】
+<enT0061>"Otonashi... Ayana."
+<ptT0061>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0062>"Who are you?!"
+<ptT0062>"Who are you?!"
+
+//TEXT 【Ayana】
+<enT0063>"Otonashi... Ayana."
+<ptT0063>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0064>"No! That's not what I'm asking!"
+<ptT0064>"No! That's not what I'm asking!"
+
+//TEXT 【Ayana】
+<enT0065>"Otonashi... Ayana."
+<ptT0065>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0066>"No!"
+<ptT0066>"No!"
+
+//TEXT 【Ayana】
+<enT0067>"Otonashi... Ayana."
+<ptT0067>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0068>"No! You're―!"
+<ptT0068>"No! You're―!"
+
+//TEXT 【Ayana】
+<enT0069>"Otonashi... Ayana."
+<ptT0069>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0070>"You're just a―"
+<ptT0070>"You're just a―"
+
+//TEXT 【Ayana】
+<enT0071>"Otonashi... Ayana."
+<ptT0071>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0072>"Demon..."
+<ptT0072>"Demon..."
+
+//TEXT
+<enT0073>She's...
+<ptT0073>She's...
+
+//TEXT
+<enT0074>A demon?
+<ptT0074>A demon?
+
+//TEXT
+<enT0075>Is that it?
+<ptT0075>Is that it?
+
+//TEXT
+<enT0076>Then... the others must really be out there, too.
+<ptT0076>Then... the others must really be out there, too.
+
+//TEXT
+<enT0077>The demon trying to block my path is proof that my allies really do exist.
+<ptT0077>The demon trying to block my path is proof that my allies really do exist.
+
+//TEXT
+<enT0078>Will they really come?
+<ptT0078>Will they really come?
+
+//TEXT
+<enT0079>Will they... Will my allies...
+<ptT0079>Will they... Will my allies...
+
+//TEXT
+<enT0080>My allies, the ones who saved the world in their past incarnations, really do exist.
+<ptT0080>My allies, the ones who saved the world in their past incarnations, really do exist.
+
+//TEXT
+<enT0081>Then this woman...
+<ptT0081>Then this woman...
+
+//TEXT 【Zakuro】
+<enT0082>"You're..."
+<ptT0082>"You're..."
+
+//TEXT 【Ayana】
+<enT0083>"Otonashi... Ayana."
+<ptT0083>"Otonashi... Ayana."
+
+//TEXT 【Zakuro】
+<enT0084>"What are you doing here?"
+<ptT0084>"What are you doing here?"
+
+//TEXT 【Ayana】
+<enT0085>"What are you doing here?"
+<ptT0085>"What are you doing here?"
+
+//TEXT 【Zakuro】
+<enT0086>"I... I'm the one asking the question! Answer me!"
+<ptT0086>"I... I'm the one asking the question! Answer me!"
+
+//TEXT 【Ayana】
+<enT0087>"I'm looking at you... I'm looking at your form."
+<ptT0087>"I'm looking at you... I'm looking at your form."
+
+//TEXT 【Zakuro】
+<enT0088>"You're looking... at my form?"
+<ptT0088>"You're looking... at my form?"
+
+//TEXT 【Ayana】
+<enT0089>"Yes.
+<ptT0089>"Yes.
+
+//TEXT
+<enT0090> I'm looking at you."
+<ptT0090> I'm looking at you."
+
+//TEXT 【Zakuro】
+<enT0091>"Huh? What's that? Is that fun to you? Do you like looking at people? Or do you just like watching me suffer?"
+<ptT0091>"Huh? What's that? Is that fun to you? Do you like looking at people? Or do you just like watching me suffer?"
+
+//TEXT 【Zakuro】
+<enT0092>"Then I'm sorry, but my suffering is over."
+<ptT0092>"Then I'm sorry, but my suffering is over."
+
+//TEXT 【Ayana】
+<enT0093>"Really..."
+<ptT0093>"Really..."
+
+//TEXT 【Zakuro】
+<enT0094>"Yes, really."
+<ptT0094>"Yes, really."
+
+//TEXT 【Ayana】
+<enT0095>"So then... what are you doing here?"
+<ptT0095>"So then... what are you doing here?"
+
+//TEXT 【Zakuro】
+<enT0096>"What's it matter to you?! It has nothing to do with you!"
+<ptT0096>"What's it matter to you?! It has nothing to do with you!"
+
+//TEXT 【Ayana】
+<enT0097>"Nothing to do with me..."
+<ptT0097>"Nothing to do with me..."
+
+//TEXT 【Zakuro】
+<enT0098>"That's right... So go away!"
+<ptT0098>"That's right... So go away!"
+
+//TEXT 【Ayana】
+<enT0099>"Hehe... Then maybe it has nothing to do with you whether I'm here or not..."
+<ptT0099>"Hehe... Then maybe it has nothing to do with you whether I'm here or not..."
+
+//TEXT 【Zakuro】
+<enT0100>"Ah!"
+<ptT0100>"Ah!"
+
+//TEXT
+<enT0101>This demon...
+<ptT0101>This demon...
+
+//TEXT
+<enT0102>She really is the demon... That's why she's challenging me.
+<ptT0102>She really is the demon... That's why she's challenging me.
+
+//TEXT
+<enT0103>Then the answer... The answer is obvious.
+<ptT0103>Then the answer... The answer is obvious.
+
+//TEXT
+<enT0104>I can't rise to her challenge.
+<ptT0104>I can't rise to her challenge.
+
+//TEXT
+<enT0105>I have to ignore the demon.
+<ptT0105>I have to ignore the demon.
+
+//TEXT
+<enT0106>The demon's whisper...
+<ptT0106>The demon's whisper...
+
+//TEXT 【Zakuro】
+<enT0107>"..."
+<ptT0107>"..."
+
+//TEXT 【Ayana】
+<enT0108>"Have you made your decision?"
+<ptT0108>"Have you made your decision?"
+
+//TEXT 【Zakuro】
+<enT0109>"..."
+<ptT0109>"..."
+
+//TEXT 【Ayana】
+<enT0110>"The way in which you relate to the world."
+<ptT0110>"The way in which you relate to the world."
+
+//TEXT 【Zakuro】
+<enT0111>"..."
+<ptT0111>"..."
+
+//TEXT 【Ayana】
+<enT0112>"Hehe... So that's it."
+<ptT0112>"Hehe... So that's it."
+
+//TEXT 【Zakuro】
+<enT0113>"Disappear..."
+<ptT0113>"Disappear..."
+
+//TEXT 【Zakuro】
+<enT0114>"Demon."
+<ptT0114>"Demon."
+
+//TEXT
+<enT0115>I closed my eyes.
+<ptT0115>I closed my eyes.
+
+//TEXT 【Zakuro】
+<enT0116>"I won't listen to your lies."
+<ptT0116>"I won't listen to your lies."
+
+//TEXT
+<enT0117>"Um..."
+<ptT0117>"Um..."
+
+//TEXT 【Zakuro】
+<enT0118>"I won't listen to your lies."
+<ptT0118>"I won't listen to your lies."
+
+//TEXT
+<enT0119>"Excuse me!"
+<ptT0119>"Excuse me!"
+
+//TEXT 【Zakuro】
+<enT0120>"Wha―?"
+<ptT0120>"Wha―?"
+
+//TEXT
+<enT0121>Huh?
+<ptT0121>Huh?
+
+//TEXT
+<enT0122>When I opened my eyes, Otonashi Ayana was gone.
+<ptT0122>When I opened my eyes, Otonashi Ayana was gone.
+
+//TEXT
+<enT0123>"Are you Takashima... Zakuro-san?"
+<ptT0123>"Are you Takashima... Zakuro-san?"
+
+//TEXT 【Zakuro】
+<enT0124>"Huh?!"
+<ptT0124>"Huh?!"
+
+//TEXT
+<enT0125>"Y-You're Takashima Zakuro-san, aren't you?"
+<ptT0125>"Y-You're Takashima Zakuro-san, aren't you?"
+
+//TEXT 【Zakuro】
+<enT0126>"Y-Yes... I am, but... who are you?"
+<ptT0126>"Y-Yes... I am, but... who are you?"
+
+//TEXT 【Usami】
+<enT0127>"Nice to meet you. My name is Sukikawa Usami."
+<ptT0127>"Nice to meet you. My name is Sukikawa Usami."
+
+//TEXT 【Zakuro】
+<enT0128>"You're the person who sent me all those messages?"
+<ptT0128>"You're the person who sent me all those messages?"
+
+//TEXT 【Usami】
+<enT0129>"Yes."
+<ptT0129>"Yes."
+
+//TEXT
+<enT0130>She's the person who sent those texts.
+<ptT0130>She's the person who sent those texts.
+
+//TEXT
+<enT0131>She's my ally from the previous world, but she just looks like a normal person.
+<ptT0131>She's my ally from the previous world, but she just looks like a normal person.
+
+//TEXT 【Usami】
+<enT0132>"Ehehe, were you disappointed because I look like a normal person?"
+<ptT0132>"Ehehe, were you disappointed because I look like a normal person?"
+
+//TEXT 【Zakuro】
+<enT0133>"Huh?"
+<ptT0133>"Huh?"
+
+//TEXT
+<enT0134>D-Did she just...
+<ptT0134>D-Did she just...
+
+//TEXT 【Usami】
+<enT0135>"Did you think I read your mind?"
+<ptT0135>"Did you think I read your mind?"
+
+//TEXT 【Zakuro】
+<enT0136>"C-Can you actually read my mind?"
+<ptT0136>"C-Can you actually read my mind?"
+
+//TEXT 【Usami】
+<enT0137>"No. My memory from the previous world has returned, but my power has not. That's why..."
+<ptT0137>"No. My memory from the previous world has returned, but my power has not. That's why..."
+
+//TEXT 【Zakuro】
+<enT0138>"O-Oh..."
+<ptT0138>"O-Oh..."
+
+//TEXT 【Usami】
+<enT0139>"Ehehe, and it was written all over your face."
+<ptT0139>"Ehehe, and it was written all over your face."
+
+//TEXT
+<enT0140>Oh...
+<ptT0140>Oh...
+
+//TEXT
+<enT0141>Is it that easy to read my expressions?
+<ptT0141>Is it that easy to read my expressions?
+
+//TEXT
+<enT0142>That's kind of embarrassing...
+<ptT0142>That's kind of embarrassing...
+
+//TEXT
+<enT0143>But...
+<ptT0143>But...
+
+//TEXT
+<enT0144>But she was honest when she told me that she just read my expression, not my mind.
+<ptT0144>But she was honest when she told me that she just read my expression, not my mind.
+
+//TEXT
+<enT0145>If she was trying to deceive me, she would've claimed to have supernatural powers like mind reading... She didn't lie, though...
+<ptT0145>If she was trying to deceive me, she would've claimed to have supernatural powers like mind reading... She didn't lie, though...
+
+//TEXT
+<enT0146>Maybe I can trust her?
+<ptT0146>Maybe I can trust her?
+
+//TEXT 【Usami】
+<enT0147>"If you've come here, does that mean you've recovered your memory as well?"
+<ptT0147>"If you've come here, does that mean you've recovered your memory as well?"
+
+//TEXT 【Zakuro】
+<enT0148>"No... I haven't, I just read your message, and I was curious..."
+<ptT0148>"No... I haven't, I just read your message, and I was curious..."
+
+//TEXT 【Usami】
+<enT0149>"Your memory still hasn't returned?"
+<ptT0149>"Your memory still hasn't returned?"
+
+//TEXT 【Zakuro】
+<enT0150>"Yes... Or rather..."
+<ptT0150>"Yes... Or rather..."
+
+//TEXT 【Usami】
+<enT0151>"You're still doubtful, right?"
+<ptT0151>"You're still doubtful, right?"
+
+//TEXT 【Zakuro】
+<enT0152>"Well..."
+<ptT0152>"Well..."
+
+//TEXT 【Usami】
+<enT0153>"No, it's a bit unbelievable, isn't it?"
+<ptT0153>"No, it's a bit unbelievable, isn't it?"
+
+//TEXT 【Zakuro】
+<enT0154>"...I'm sorry."
+<ptT0154>"...I'm sorry."
+
+//TEXT 【Usami】
+<enT0155>"But you were curious, so you came."
+<ptT0155>"But you were curious, so you came."
+
+//TEXT 【Zakuro】
+<enT0156>"U-Um, a lot has happened since I got your first message."
+<ptT0156>"U-Um, a lot has happened since I got your first message."
+
+//TEXT 【Usami】
+<enT0157>"It looks like one of your problems disappeared, right?"
+<ptT0157>"It looks like one of your problems disappeared, right?"
+
+//TEXT 【Zakuro】
+<enT0158>"Well, I guess it has..."
+<ptT0158>"Well, I guess it has..."
+
+//TEXT 【Usami】
+<enT0159>"What else?"
+<ptT0159>"What else?"
+
+//TEXT 【Zakuro】
+<enT0160>"W-Well..."
+<ptT0160>"W-Well..."
+
+//TEXT 【Usami】
+<enT0161>"You saw something, didn't you?"
+<ptT0161>"You saw something, didn't you?"
+
+//TEXT 【Zakuro】
+<enT0162>"Huh?"
+<ptT0162>"Huh?"
+
+//TEXT 【Usami】
+<enT0163>"You saw something, and that's why you came... Am I wrong?"
+<ptT0163>"You saw something, and that's why you came... Am I wrong?"
+
+//TEXT 【Zakuro】
+<enT0164>"Why do you..."
+<ptT0164>"Why do you..."
+
+//TEXT 【Usami】
+<enT0165>"I infused that message with my power."
+<ptT0165>"I infused that message with my power."
+
+//TEXT 【Zakuro】
+<enT0166>"Your power? In that message?"
+<ptT0166>"Your power? In that message?"
+
+//TEXT 【Usami】
+<enT0167>"Yes. So if you're our ally, you should have experienced a change."
+<ptT0167>"Yes. So if you're our ally, you should have experienced a change."
+
+//TEXT 【Zakuro】
+<enT0168>"..."
+<ptT0168>"..."
+
+//TEXT
+<enT0169>A change...
+<ptT0169>A change...
+
+//TEXT
+<enT0170>I don't know if you could call it a change, but a lot of weird stuff had happened.
+<ptT0170>I don't know if you could call it a change, but a lot of weird stuff had happened.
+
+//TEXT
+<enT0171>That man died, and I saw those images... and... Otonashi Ayana...
+<ptT0171>That man died, and I saw those images... and... Otonashi Ayana...
+
+//TEXT 【Usami】
+<enT0172>"What did you see? Was it a dream?"
+<ptT0172>"What did you see? Was it a dream?"
+
+//TEXT 【Zakuro】
+<enT0173>"Yes... I saw it in my dreams several times, but I don't really remember it all that well."
+<ptT0173>"Yes... I saw it in my dreams several times, but I don't really remember it all that well."
+
+//TEXT 【Usami】
+<enT0174>"Then how do you know you saw it in your dreams?"
+<ptT0174>"Then how do you know you saw it in your dreams?"
+
+//TEXT 【Zakuro】
+<enT0175>"U-Um... There was an accident at school, and someone fell from the roof... The second I witnessed that, suddenly the image from my dream..."
+<ptT0175>"U-Um... There was an accident at school, and someone fell from the roof... The second I witnessed that, suddenly the image from my dream..."
+
+//TEXT 【Zakuro】
+<enT0176>"When I saw that image, I knew I had seen it in a dream... No, maybe it wasn't a dream. Maybe I saw it a long time ago, in a place very far from here..."
+<ptT0176>"When I saw that image, I knew I had seen it in a dream... No, maybe it wasn't a dream. Maybe I saw it a long time ago, in a place very far from here..."
+
+//TEXT 【Usami】
+<enT0177>"What kind of image was it?"
+<ptT0177>"What kind of image was it?"
+
+//TEXT 【Zakuro】
+<enT0178>"Um... There was something really big falling from the sky, and it seemed..."
+<ptT0178>"Um... There was something really big falling from the sky, and it seemed..."
+
+//TEXT 【Usami】
+<enT0179>"It seemed sinister..."
+<ptT0179>"It seemed sinister..."
+
+//TEXT 【Zakuro】
+<enT0180>"What was that?"
+<ptT0180>"What was that?"
+
+//TEXT
+<enT0181>"...Har Megiddo."
+<ptT0181>"...Har Megiddo."
+
+//TEXT 【Zakuro】
+<enT0182>"Huh?"
+<ptT0182>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0183>"Y-You are?"
+<ptT0183>"Y-You are?"
+
+//TEXT 【Usami】
+<enT0184>"Oh, Ayumi-chan."
+<ptT0184>"Oh, Ayumi-chan."
+
+//TEXT 【Zakuro】
+<enT0185>"Um, Usami-san... Who is this?"
+<ptT0185>"Um, Usami-san... Who is this?"
+
+//TEXT 【Usami】
+<enT0186>"Excuse me... I'll introduce her. This is Mizuo Ayumi-chan."
+<ptT0186>"Excuse me... I'll introduce her. This is Mizuo Ayumi-chan."
+
+//TEXT 【Ayumi】
+<enT0187>"..."
+<ptT0187>"..."
+
+//TEXT 【Zakuro】
+<enT0188>"U-Um... Nice to meet you, my name is Takashima Zakuro."
+<ptT0188>"U-Um... Nice to meet you, my name is Takashima Zakuro."
+
+//TEXT 【Ayumi】
+<enT0189>"Uh, hello..."
+<ptT0189>"Uh, hello..."
+
+//TEXT
+<enT0190>Her cheeks flushed... She looked nervous.
+<ptT0190>Her cheeks flushed... She looked nervous.
+
+//TEXT 【Usami】
+<enT0191>"Sorry about that. Ayumi-chan isn't very good at talking."
+<ptT0191>"Sorry about that. Ayumi-chan isn't very good at talking."
+
+//TEXT 【Zakuro】
+<enT0192>"Not very good at talking..."
+<ptT0192>"Not very good at talking..."
+
+//TEXT 【Ayumi】
+<enT0193>"I'm... sorry."
+<ptT0193>"I'm... sorry."
+
+//TEXT 【Zakuro】
+<enT0194>"No, I'm not much better."
+<ptT0194>"No, I'm not much better."
+
+//TEXT 【Ayumi】
+<enT0195>"O-Okay..."
+<ptT0195>"O-Okay..."
+
+//TEXT 【Zakuro】
+<enT0196>"By the way, what was that Har Megiddo you mentioned?"
+<ptT0196>"By the way, what was that Har Megiddo you mentioned?"
+
+//TEXT 【Ayumi】
+<enT0197>"..."
+<ptT0197>"..."
+
+//TEXT 【Usami】
+<enT0198>"Ayumi-chan, it seems Zakuro-san's Brain Reverse still isn't complete."
+<ptT0198>"Ayumi-chan, it seems Zakuro-san's Brain Reverse still isn't complete."
+
+//TEXT 【Ayumi】
+<enT0199>"..."
+<ptT0199>"..."
+
+//TEXT 【Zakuro】
+<enT0200>"B-Brain Reverse?"
+<ptT0200>"B-Brain Reverse?"
+
+//TEXT 【Zakuro】
+<enT0201>"U-Um, what's that?"
+<ptT0201>"U-Um, what's that?"
+
+//TEXT 【Usami】
+<enT0202>"Oh, right...
+<ptT0202>"Oh, right...
+
+//TEXT
+<enT0203> Ayumi-chan, what do you think we should do?"
+<ptT0203> Ayumi-chan, what do you think we should do?"
+
+//TEXT 【Ayumi】
+<enT0204>"..."
+<ptT0204>"..."
+
+//TEXT
+<enT0205>Ayumi-san slowly pointed somewhere.
+<ptT0205>Ayumi-san slowly pointed somewhere.
+
+//TEXT 【Usami】
+<enT0206>"Oh... That would be a good spot."
+<ptT0206>"Oh... That would be a good spot."
+
+//TEXT 【Usami】
+<enT0207>"Zakuro-san, do you want to go somewhere else?"
+<ptT0207>"Zakuro-san, do you want to go somewhere else?"
+
+//TEXT 【Zakuro】
+<enT0208>"Oh, no problem..."
+<ptT0208>"Oh, no problem..."
+
+//TEXT 【Usami】
+<enT0209>"I don't want to stand around talking here... We never know who's listening."
+<ptT0209>"I don't want to stand around talking here... We never know who's listening."
+
+//TEXT 【Zakuro】
+<enT0210>"S-Sure..."
+<ptT0210>"S-Sure..."
+
+//TEXT 【Zakuro】
+<enT0211>"U-Um... This is..."
+<ptT0211>"U-Um... This is..."
+
+//TEXT 【Usami】
+<enT0212>"Yeah... For now, we can only talk in private places like this..."
+<ptT0212>"Yeah... For now, we can only talk in private places like this..."
+
+//TEXT 【Zakuro】
+<enT0213>"Th-This is where people come to drink alcohol, isn't it?"
+<ptT0213>"Th-This is where people come to drink alcohol, isn't it?"
+
+//TEXT 【Usami】
+<enT0214>"Yeah, I guess so, but they call themselves a cafe, so they have coffee and tea too."
+<ptT0214>"Yeah, I guess so, but they call themselves a cafe, so they have coffee and tea too."
+
+//TEXT 【Zakuro】
+<enT0215>"Oh... Sure."
+<ptT0215>"Oh... Sure."
+
+//TEXT 【Usami】
+<enT0216>"Do you want something to eat?"
+<ptT0216>"Do you want something to eat?"
+
+//TEXT 【Zakuro】
+<enT0217>"Oh, no thanks..."
+<ptT0217>"Oh, no thanks..."
+
+//TEXT
+<enT0218>Being at a place like this so late at night...
+<ptT0218>Being at a place like this so late at night...
+
+//TEXT
+<enT0219>If my parents or the school found out, I would be in big trouble.
+<ptT0219>If my parents or the school found out, I would be in big trouble.
+
+//TEXT 【Zakuro】
+<enT0220>"..."
+<ptT0220>"..."
+
+//TEXT
+<enT0221>Why do I care about that?
+<ptT0221>Why do I care about that?
+
+//TEXT
+<enT0222>Why should I care? They don't do anything for me... None of them ever came to save me...
+<ptT0222>Why should I care? They don't do anything for me... None of them ever came to save me...
+
+//TEXT
+<enT0223>If I think about it, it's really ridiculous.
+<ptT0223>If I think about it, it's really ridiculous.
+
+//TEXT 【Zakuro】
+<enT0224>"Um... This..."
+<ptT0224>"Um... This..."
+
+//TEXT
+<enT0225>I took out my cell phone.
+<ptT0225>I took out my cell phone.
+
+//TEXT 【Zakuro】
+<enT0226>"To be honest, I don't understand what all of this means."
+<ptT0226>"To be honest, I don't understand what all of this means."
+
+//TEXT 【Usami】
+<enT0227>"You don't understand, but you still came."
+<ptT0227>"You don't understand, but you still came."
+
+//TEXT 【Zakuro】
+<enT0228>"Th-There was a prediction..."
+<ptT0228>"Th-There was a prediction..."
+
+//TEXT 【Usami】
+<enT0229>"Rather than a prediction... I would call it a certainty."
+<ptT0229>"Rather than a prediction... I would call it a certainty."
+
+//TEXT 【Zakuro】
+<enT0230>"A certainty?"
+<ptT0230>"A certainty?"
+
+//TEXT 【Usami】
+<enT0231>"Yes... You were tormented by the demon... and by the people who were manipulated by the sealed nevus' Specialized Physics Bug."
+<ptT0231>"Yes... You were tormented by the demon... and by the people who were manipulated by the sealed nevus' Specialized Physics Bug."
+
+//TEXT 【Zakuro】
+<enT0232>"That nevus... and the Specialized Physics Bug..."
+<ptT0232>"That nevus... and the Specialized Physics Bug..."
+
+//TEXT 【Usami】
+<enT0233>"Oh, before that... Here."
+<ptT0233>"Oh, before that... Here."
+
+//TEXT
+<enT0234>Usami-san took out her own cell phone and showed me a picture.
+<ptT0234>Usami-san took out her own cell phone and showed me a picture.
+
+//TEXT 【Zakuro】
+<enT0235>"Ah!"
+<ptT0235>"Ah!"
+
+//TEXT 【Zakuro】
+<enT0236>"Wh-Why? This place..."
+<ptT0236>"Wh-Why? This place..."
+
+//TEXT 【Usami】
+<enT0237>"What do you think... about this place?"
+<ptT0237>"What do you think... about this place?"
+
+//TEXT 【Zakuro】
+<enT0238>"I don't like it."
+<ptT0238>"I don't like it."
+
+//TEXT 【Usami】
+<enT0239>"Yeah, it must be a really awful place for you."
+<ptT0239>"Yeah, it must be a really awful place for you."
+
+//TEXT 【Zakuro】
+<enT0240>"How do you know that?"
+<ptT0240>"How do you know that?"
+
+//TEXT 【Usami】
+<enT0241>"I... We know almost everything about you.
+<ptT0241>"I... We know almost everything about you.
+
+//TEXT
+<enT0242>Almost everything...
+<ptT0242>Almost everything...
+
+//TEXT 【Zakuro】
+<enT0243>"Wha―?!"
+<ptT0243>"Wha―?!"
+
+//TEXT
+<enT0244>They know what happened to me...
+<ptT0244>They know what happened to me...
+
+//TEXT
+<enT0245>That I was defiled in this place...
+<ptT0245>That I was defiled in this place...
+
+//TEXT
+<enT0246>That's why she showed me this picture...
+<ptT0246>That's why she showed me this picture...
+
+//TEXT 【Usami】
+<enT0247>"Please don't be afraid."
+<ptT0247>"Please don't be afraid."
+
+//TEXT 【Usami】
+<enT0248>"We're not looking to harm you."
+<ptT0248>"We're not looking to harm you."
+
+//TEXT 【Usami】
+<enT0249>"We just want you to remember."
+<ptT0249>"We just want you to remember."
+
+//TEXT 【Usami】
+<enT0250>"And we want you to help us."
+<ptT0250>"And we want you to help us."
+
+//TEXT 【Zakuro】
+<enT0251>"...Help you? What do I need to do?"
+<ptT0251>"...Help you? What do I need to do?"
+
+//TEXT 【Usami】
+<enT0252>"Just like I told you before, we were allies in our previous lives, fighting to save the world."
+<ptT0252>"Just like I told you before, we were allies in our previous lives, fighting to save the world."
+
+//TEXT 【Zakuro】
+<enT0253>"Huh?!"
+<ptT0253>"Huh?!"
+
+//TEXT 【Zakuro】
+<enT0254>"U-Um, you mean..."
+<ptT0254>"U-Um, you mean..."
+
+//TEXT 【Usami】
+<enT0255>"It's unbelievable, isn't it?"
+<ptT0255>"It's unbelievable, isn't it?"
+
+//TEXT 【Zakuro】
+<enT0256>"..."
+<ptT0256>"..."
+
+//TEXT 【Zakuro】
+<enT0257>"No... Not at all."
+<ptT0257>"No... Not at all."
+
+//TEXT 【Usami】
+<enT0258>"Huh?"
+<ptT0258>"Huh?"
+
+//TEXT 【Zakuro】
+<enT0259>"A lot has happened since then. That man died... and God appeared before me, and the demon..."
+<ptT0259>"A lot has happened since then. That man died... and God appeared before me, and the demon..."
+
+//TEXT 【Usami】
+<enT0260>"God and a demon?"
+<ptT0260>"God and a demon?"
+
+//TEXT 【Zakuro】
+<enT0261>"Yes... God was a half naked, middle-aged man... He was several hundred times as tall as a normal person."
+<ptT0261>"Yes... God was a half naked, middle-aged man... He was several hundred times as tall as a normal person."
+
+//TEXT 【Usami】
+<enT0262>"W-Wow..."
+<ptT0262>"W-Wow..."
+
+//TEXT 【Zakuro】
+<enT0263>"The demon... has possessed one of the girls at my school, and now she's tormenting me..."
+<ptT0263>"The demon... has possessed one of the girls at my school, and now she's tormenting me..."
+
+//TEXT 【Usami】
+<enT0264>"...Yes."
+<ptT0264>"...Yes."
+
+//TEXT 【Zakuro】
+<enT0265>"That's what you said would happen. The demon has appeared, and she's trying to lure me astray. It actually happened..."
+<ptT0265>"That's what you said would happen. The demon has appeared, and she's trying to lure me astray. It actually happened..."
+
+//TEXT 【Zakuro】
+<enT0266>"That man's death... and I saw the image of a sky shrouded in gloom, like a terrible flashback..."
+<ptT0266>"That man's death... and I saw the image of a sky shrouded in gloom, like a terrible flashback..."
+
+//TEXT 【Zakuro】
+<enT0267>"If I hadn't gotten your message before all that happened..."
+<ptT0267>"If I hadn't gotten your message before all that happened..."
+
+//TEXT 【Usami】
+<enT0268>"If you hadn't..."
+<ptT0268>"If you hadn't..."
+
+//TEXT 【Zakuro】
+<enT0269>"I would've completely broken. I wouldn't have understood anything... No one else could explain all this to me... I, I..."
+<ptT0269>"I would've completely broken. I wouldn't have understood anything... No one else could explain all this to me... I, I..."
+
+//TEXT 【Usami】
+<enT0270>"So in the end, the Specialized Physics Bug in Tokyo's 23rd district attempted to eliminate the weakest of us, Zakuro-san..."
+<ptT0270>"So in the end, the Specialized Physics Bug in Tokyo's 23rd district attempted to eliminate the weakest of us, Zakuro-san..."
+
+//TEXT 【Zakuro】
+<enT0271>"What's the Specialized Physics Bug?"
+<ptT0271>"What's the Specialized Physics Bug?"
+
+//TEXT 【Usami】
+<enT0272>"Before that... I should explain everything from the beginning."
+<ptT0272>"Before that... I should explain everything from the beginning."
+
+//TEXT 【Zakuro】
+<enT0273>"From the beginning?"
+<ptT0273>"From the beginning?"
+
+//TEXT 【Usami】
+<enT0274>"In the distant past, deep in outer space, there was a nebula cloud... and within that nebula, a planet called Elhimuro."
+<ptT0274>"In the distant past, deep in outer space, there was a nebula cloud... and within that nebula, a planet called Elhimuro."
+
+//TEXT 【Zakuro】
+<enT0275>"Outer space..."
+<ptT0275>"Outer space..."
+
+//TEXT 【Usami】
+<enT0276>"Yeah, it was an external universe... Unlike this universe, it was very peaceful."
+<ptT0276>"Yeah, it was an external universe... Unlike this universe, it was very peaceful."
+
+//TEXT 【Usami】
+<enT0277>"The inhabitants of Elhimuro were especially peaceful people..."
+<ptT0277>"The inhabitants of Elhimuro were especially peaceful people..."
+
+//TEXT 【Usami】
+<enT0278>"But regardless of that peace, the people fell to corruption, and evil lived within their hearts, ultimately calling forth a great disaster."
+<ptT0278>"But regardless of that peace, the people fell to corruption, and evil lived within their hearts, ultimately calling forth a great disaster."
+
+//TEXT 【Zakuro】
+<enT0279>"A great... disaster..."
+<ptT0279>"A great... disaster..."
+
+//TEXT 【Usami】
+<enT0280>"Athers..."
+<ptT0280>"Athers..."
+
+//TEXT 【Zakuro】
+<enT0281>"Athers?"
+<ptT0281>"Athers?"
+
+//TEXT 【Usami】
+<enT0282>"The lord of all things... The primeval chaos living within the core of infinity... The unknowable, the shapeless, the heart of darkness... The chaos that wells up from within. There are countless ways to name him."
+<ptT0282>"The lord of all things... The primeval chaos living within the core of infinity... The unknowable, the shapeless, the heart of darkness... The chaos that wells up from within. There are countless ways to name him."
+
+//TEXT 【Usami】
+<enT0283>"The corruption within the people's hearts woke that which was confined to the depths of chaos."
+<ptT0283>"The corruption within the people's hearts woke that which was confined to the depths of chaos."
+
+//TEXT 【Usami】
+<enT0284>"When he awakes, the world will end. The world is only permitted to exist while he dreams."
+<ptT0284>"When he awakes, the world will end. The world is only permitted to exist while he dreams."
+
+//TEXT 【Zakuro】
+<enT0285>"The world only exists... while he dreams..."
+<ptT0285>"The world only exists... while he dreams..."
+
+//TEXT 【Usami】
+<enT0286>"Yes, and the end of that dream is synonymous with the end of the world."
+<ptT0286>"Yes, and the end of that dream is synonymous with the end of the world."
+
+//TEXT 【Usami】
+<enT0287>"But the denizens of Elhimuro, overly accustomed to the long peace, did nothing to stop it."
+<ptT0287>"But the denizens of Elhimuro, overly accustomed to the long peace, did nothing to stop it."
+
+//TEXT 【Usami】
+<enT0288>"Even with the end of the world before their very eyes."
+<ptT0288>"Even with the end of the world before their very eyes."
+
+//TEXT 【Zakuro】
+<enT0289>"That's just like..."
+<ptT0289>"That's just like..."
+
+//TEXT 【Usami】
+<enT0290>"Yes, just like our own world."
+<ptT0290>"Yes, just like our own world."
+
+//TEXT 【Usami】
+<enT0291>"The three of us were the only ones to stand and fight before."
+<ptT0291>"The three of us were the only ones to stand and fight before."
+
+//TEXT 【Usami】
+<enT0292>"We were each given our own powers and titles as warriors..."
+<ptT0292>"We were each given our own powers and titles as warriors..."
+
+//TEXT 【Usami】
+<enT0293>"Angel Remover, Angel Night, and..."
+<ptT0293>"Angel Remover, Angel Night, and..."
+
+//TEXT 【Zakuro】
+<enT0294>"And?"
+<ptT0294>"And?"
+
+//TEXT 【Usami】
+<enT0295>"The Crimson Hyperspace... You are... Angel Advise!"
+<ptT0295>"The Crimson Hyperspace... You are... Angel Advise!"
+
+//TEXT 【Zakuro】
+<enT0296>"I'm... Angel Advise..."
+<ptT0296>"I'm... Angel Advise..."
+
+//TEXT 【Usami】
+<enT0297>"Yes... I was saved by your prodigious powers more than once."
+<ptT0297>"Yes... I was saved by your prodigious powers more than once."
+
+//TEXT 【Ayumi】
+<enT0298>"Me... too."
+<ptT0298>"Me... too."
+
+//TEXT 【Usami】
+<enT0299>"I'm the Golden Light, Angel Remover, and Ayumi-chan is the Azure Twinkling, Angel Night."
+<ptT0299>"I'm the Golden Light, Angel Remover, and Ayumi-chan is the Azure Twinkling, Angel Night."
+
+//TEXT
+<enT0300>I'm Angel Advise...
+<ptT0300>I'm Angel Advise...
+
+//TEXT
+<enT0301>I saved Ayumi-san...
+<ptT0301>I saved Ayumi-san...
+
+//TEXT
+<enT0302>I saved Angel Night...
+<ptT0302>I saved Angel Night...
+
+//TEXT 【Zakuro】
+<enT0303>"Angel Night, watch out!"
+<ptT0303>"Angel Night, watch out!"
+
+//TEXT 【Zakuro】
+<enT0304>"Ah!"
+<ptT0304>"Ah!"
+
+//TEXT
+<enT0305>I was injured when I moved to cover Angel Night with my own body.
+<ptT0305>I was injured when I moved to cover Angel Night with my own body.
+
+//TEXT 【Usami】
+<enT0306>"Angel Advise!"
+<ptT0306>"Angel Advise!"
+
+//TEXT 【Zakuro】
+<enT0307>"...A-Are you okay, Angel Night?"
+<ptT0307>"...A-Are you okay, Angel Night?"
+
+//TEXT 【Ayumi】
+<enT0308>"You fool! Why would you do that just to protect me?!"
+<ptT0308>"You fool! Why would you do that just to protect me?!"
+
+//TEXT 【Zakuro】
+<enT0309>"Because... Because we're friends, aren't we?"
+<ptT0309>"Because... Because we're friends, aren't we?"
+
+//TEXT 【Ayumi】
+<enT0310>"Angel Advise..."
+<ptT0310>"Angel Advise..."
+
+//TEXT 【Zakuro】
+<enT0311>"It's all right. I'm fine... We have to hurry and dispense with them..."
+<ptT0311>"It's all right. I'm fine... We have to hurry and dispense with them..."
+
+//TEXT 【Ayumi】
+<enT0312>"Understood."
+<ptT0312>"Understood."
+
+//TEXT 【Evil Person】
+<enT0313>"It's your turn next, little lady."
+<ptT0313>"It's your turn next, little lady."
+
+//TEXT 【Ayumi】
+<enT0314>"I'll never... I'll never forgive you for hurting my friend!"
+<ptT0314>"I'll never... I'll never forgive you for hurting my friend!"
+
+//TEXT 【Usami】
+<enT0315>"I will defeat you... so that the denizens of this world may live in peace!"
+<ptT0315>"I will defeat you... so that the denizens of this world may live in peace!"
+
+//TEXT 【Ayumi】
+<enT0316>"Let's go! Golden Light, Angel Remover!"
+<ptT0316>"Let's go! Golden Light, Angel Remover!"
+
+//TEXT 【Usami】
+<enT0317>"Yeah! Azure Twinkling, Angel Night!"
+<ptT0317>"Yeah! Azure Twinkling, Angel Night!"
+
+//TEXT 【Zakuro】
+<enT0318>"Huh?"
+<ptT0318>"Huh?"
+
+//TEXT
+<enT0319>Why?
+<ptT0319>Why?
+
+//TEXT
+<enT0320>Why?
+<ptT0320>Why?
+
+//TEXT
+<enT0321>This happened long in the past...
+<ptT0321>This happened long in the past...
+
+//TEXT
+<enT0322>I was sure I had completely forgotten the events of that day...
+<ptT0322>I was sure I had completely forgotten the events of that day...
+
+//TEXT
+<enT0323>But now I remember it like it was yesterday.
+<ptT0323>But now I remember it like it was yesterday.
+
+//TEXT
+<enT0324>The pain...
+<ptT0324>The pain...
+
+//TEXT
+<enT0325>The joy...
+<ptT0325>The joy...
+
+//TEXT 【Zakuro】
+<enT0326>"Huh...?"
+<ptT0326>"Huh...?"
+
+//TEXT 【Zakuro】
+<enT0327>"What was that?"
+<ptT0327>"What was that?"
+
+//TEXT
+<enT0328>These are...
+<ptT0328>These are...
+
+//TEXT
+<enT0329>Tears?
+<ptT0329>Tears?
+
+//TEXT
+<enT0330>Could I be... crying?
+<ptT0330>Could I be... crying?
+
+//TEXT
+<enT0331>For some reason... I had tears streaming down my cheeks.
+<ptT0331>For some reason... I had tears streaming down my cheeks.
+
+//TEXT
+<enT0332>For some reason... the tears wouldn't stop.
+<ptT0332>For some reason... the tears wouldn't stop.
+
+//TEXT 【Zakuro】
+<enT0333>"That's right... Back then, you two were really worried about me."
+<ptT0333>"That's right... Back then, you two were really worried about me."
+
+//TEXT 【Usami】
+<enT0334>"Zakuro-san? Have you remembered it?"
+<ptT0334>"Zakuro-san? Have you remembered it?"
+
+//TEXT 【Zakuro】
+<enT0335>"A little... Just a little, but..."
+<ptT0335>"A little... Just a little, but..."
+
+//TEXT 【Zakuro】
+<enT0336>"You were both so worried about me when I was injured."
+<ptT0336>"You were both so worried about me when I was injured."
+
+//TEXT 【Ayumi】
+<enT0337>"The battle at the stone tower..."
+<ptT0337>"The battle at the stone tower..."
+
+//TEXT 【Zakuro】
+<enT0338>"That's right. That was the battle at the stone tower. I definitely saw that tower behind us."
+<ptT0338>"That's right. That was the battle at the stone tower. I definitely saw that tower behind us."
+
+//TEXT 【Usami】
+<enT0339>"The seal is being dispelled!"
+<ptT0339>"The seal is being dispelled!"
+
+//TEXT 【Zakuro】
+<enT0340>"...The seal?"
+<ptT0340>"...The seal?"
+
+//TEXT 【Usami】
+<enT0341>"Yes. The great disaster feared our power after having failed in its attempt to destroy the world, so it put a seal on our souls when we were reincarnated in this world."
+<ptT0341>"Yes. The great disaster feared our power after having failed in its attempt to destroy the world, so it put a seal on our souls when we were reincarnated in this world."
+
+//TEXT 【Zakuro】
+<enT0342>"Why a seal?"
+<ptT0342>"Why a seal?"
+
+//TEXT 【Usami】
+<enT0343>"That's because..."
+<ptT0343>"That's because..."
+
+//TEXT 【Ayumi】
+<enT0344>"Once again, Har Megiddo is..."
+<ptT0344>"Once again, Har Megiddo is..."
+
+//TEXT 【Zakuro】
+<enT0345>"Har Megiddo?"
+<ptT0345>"Har Megiddo?"
+
+//TEXT 【Usami】
+<enT0346>"Yes, the final confrontation... The battle at the hill of Megiddo."
+<ptT0346>"Yes, the final confrontation... The battle at the hill of Megiddo."
+
+//TEXT 【Usami】
+<enT0347>"We fought to prevent the world's destruction... That was a long battle, a series of tribulations..."
+<ptT0347>"We fought to prevent the world's destruction... That was a long battle, a series of tribulations..."
+
+//TEXT 【Usami】
+<enT0348>"And then, in the last days... we faced Har Megiddo..."
+<ptT0348>"And then, in the last days... we faced Har Megiddo..."
+
+//TEXT 【Zakuro】
+<enT0349>"The last days... Har Megiddo..."
+<ptT0349>"The last days... Har Megiddo..."
+
+//TEXT 【Usami】
+<enT0350>"We fought and fought, no matter how many times we were injured, no matter how many times we fell."
+<ptT0350>"We fought and fought, no matter how many times we were injured, no matter how many times we fell."
+
+//TEXT 【Usami】
+<enT0351>"And we saved the world from Har Megiddo."
+<ptT0351>"And we saved the world from Har Megiddo."
+
+//TEXT 【Zakuro】
+<enT0352>"We... saved the world..."
+<ptT0352>"We... saved the world..."
+
+//TEXT 【Usami】
+<enT0353>"But... its power was too strong. We failed to destroy it."
+<ptT0353>"But... its power was too strong. We failed to destroy it."
+
+//TEXT 【Usami】
+<enT0354>"The great disaster was confined in the hyperspace at the core of chaos, but..."
+<ptT0354>"The great disaster was confined in the hyperspace at the core of chaos, but..."
+
+//TEXT 【Usami】
+<enT0355>"It will certainly return someday."
+<ptT0355>"It will certainly return someday."
+
+//TEXT 【Usami】
+<enT0356>"In preparation for its revival, we chose the path of reincarnation to increase our powers, but..."
+<ptT0356>"In preparation for its revival, we chose the path of reincarnation to increase our powers, but..."
+
+//TEXT 【Usami】
+<enT0357>"In the moment of our reincarnation, the great disaster cast this cursed seal upon us to frustrate our efforts."
+<ptT0357>"In the moment of our reincarnation, the great disaster cast this cursed seal upon us to frustrate our efforts."
+
+//TEXT 【Zakuro】
+<enT0358>"A cursed... seal..."
+<ptT0358>"A cursed... seal..."
+
+//TEXT 【Usami】
+<enT0359>"Yes... So that we would be reborn as powerless human girls."
+<ptT0359>"Yes... So that we would be reborn as powerless human girls."
+
+//TEXT
+<enT0360>That's right... That powerful seal is the reason why I never remembered it before...
+<ptT0360>That's right... That powerful seal is the reason why I never remembered it before...
+
+//TEXT 【Zakuro】
+<enT0361>"But... then how can we recover our memories?"
+<ptT0361>"But... then how can we recover our memories?"
+
+//TEXT 【Usami】
+<enT0362>"That would be... the Brain Reverse."
+<ptT0362>"That would be... the Brain Reverse."
+
+//TEXT 【Zakuro】
+<enT0363>"Brain Reverse..."
+<ptT0363>"Brain Reverse..."
+
+//TEXT 【Usami】
+<enT0364>"Oh, sorry. That's how we refer to the recovery of our past memories, but... there's a reason why the Brain Reverse isn't complete."
+<ptT0364>"Oh, sorry. That's how we refer to the recovery of our past memories, but... there's a reason why the Brain Reverse isn't complete."
+
+//TEXT 【Zakuro】
+<enT0365>"But we have to recover our memories... If Har Megiddo is going to happen again... Doesn't that mean the great disaster is coming back?!"
+<ptT0365>"But we have to recover our memories... If Har Megiddo is going to happen again... Doesn't that mean the great disaster is coming back?!"
+
+//TEXT
+<enT0366>In response, Usami-san and Ayumi-san both silently nodded.
+<ptT0366>In response, Usami-san and Ayumi-san both silently nodded.
+
+//TEXT 【Zakuro】
+<enT0367>"Then we have to do something!"
+<ptT0367>"Then we have to do something!"
+
+//TEXT
+<enT0368>But what can I hope to do?
+<ptT0368>But what can I hope to do?
+
+//TEXT
+<enT0369>I still haven't recovered all my memories, and I don't have any superpowers like before.
+<ptT0369>I still haven't recovered all my memories, and I don't have any superpowers like before.
+
+//TEXT 【Usami】
+<enT0370>"We've thought the same thing for a long time, but the reality is that our power hasn't returned either."
+<ptT0370>"We've thought the same thing for a long time, but the reality is that our power hasn't returned either."
+
+//TEXT 【Zakuro】
+<enT0371>"What?!"
+<ptT0371>"What?!"
+
+//TEXT 【Usami】
+<enT0372>"Ayumi-chan and I have only recovered a small portion of our power. That's how we were able to find you, but we don't have enough power to save the world."
+<ptT0372>"Ayumi-chan and I have only recovered a small portion of our power. That's how we were able to find you, but we don't have enough power to save the world."
+
+//TEXT 【Zakuro】
+<enT0373>"But didn't we reincarnate in this world to attain even more power?"
+<ptT0373>"But didn't we reincarnate in this world to attain even more power?"
+
+//TEXT 【Usami】
+<enT0374>"Yes, we did..."
+<ptT0374>"Yes, we did..."
+
+//TEXT 【Usami】
+<enT0375>"But Har Megiddo has attacked us in more ways than just the seal."
+<ptT0375>"But Har Megiddo has attacked us in more ways than just the seal."
+
+//TEXT 【Usami】
+<enT0376>"The great disaster has sent its vanguard to ensure that we never recover enough power to save the world."
+<ptT0376>"The great disaster has sent its vanguard to ensure that we never recover enough power to save the world."
+
+//TEXT 【Zakuro】
+<enT0377>"Vanguard?"
+<ptT0377>"Vanguard?"
+
+//TEXT 【Usami】
+<enT0378>"The vanguard possesses humans in order to get close to us and plant evil thoughts within us."
+<ptT0378>"The vanguard possesses humans in order to get close to us and plant evil thoughts within us."
+
+//TEXT 【Zakuro】
+<enT0379>"Evil thoughts?"
+<ptT0379>"Evil thoughts?"
+
+//TEXT 【Usami】
+<enT0380>"Haven't you experienced them too? Haven't you wished the world would just end, or that you could just disappear?"
+<ptT0380>"Haven't you experienced them too? Haven't you wished the world would just end, or that you could just disappear?"
+
+//TEXT 【Zakuro】
+<enT0381>"Huh?!"
+<ptT0381>"Huh?!"
+
+//TEXT 【Zakuro】
+<enT0382>"That's right... I've thought things like that many times..."
+<ptT0382>"That's right... I've thought things like that many times..."
+
+//TEXT 【Zakuro】
+<enT0383>"I thought all of those things until just yesterday. I even wanted to kill myself..."
+<ptT0383>"I thought all of those things until just yesterday. I even wanted to kill myself..."
+
+//TEXT 【Usami】
+<enT0384>"You weren't the only one. Ayumi-chan and I both thought much the same until our powers returned..."
+<ptT0384>"You weren't the only one. Ayumi-chan and I both thought much the same until our powers returned..."
+
+//TEXT 【Zakuro】
+<enT0385>"R-Really?"
+<ptT0385>"R-Really?"
+
+//TEXT 【Usami】
+<enT0386>"Yes..."
+<ptT0386>"Yes..."
+
+//TEXT
+<enT0387>So that's the truth...
+<ptT0387>So that's the truth...
+
+//TEXT
+<enT0388>The great disaster is the reason why I had to suffer!
+<ptT0388>The great disaster is the reason why I had to suffer!
+
+//TEXT 【Usami】
+<enT0389>"Athers, the great disaster, was concerned that the seal wouldn't suffice."
+<ptT0389>"Athers, the great disaster, was concerned that the seal wouldn't suffice."
+
+//TEXT 【Usami】
+<enT0390>"It prevented the Brain Reverse from occurring, but there's always the possibility of it happening so long as we're alive."
+<ptT0390>"It prevented the Brain Reverse from occurring, but there's always the possibility of it happening so long as we're alive."
+
+//TEXT 【Usami】
+<enT0391>"That was the thought process behind its next move."
+<ptT0391>"That was the thought process behind its next move."
+
+//TEXT 【Zakuro】
+<enT0392>"..."
+<ptT0392>"..."
+
+//TEXT 【Usami】
+<enT0393>"Zakuro-san... Does some particular event come to mind?"
+<ptT0393>"Zakuro-san... Does some particular event come to mind?"
+
+//TEXT 【Zakuro】
+<enT0394>"...Some event?"
+<ptT0394>"...Some event?"
+
+//TEXT
+<enT0395>...
+<ptT0395>...
+
+//TEXT
+<enT0396>......
+<ptT0396>......
+
+//TEXT 【Zakuro】
+<enT0397>"NOOO!"
+<ptT0397>"NOOO!"
+
+//TEXT 【Usami】
+<enT0398>"Yes, the tragedy that you would rather forget for all time... That's it."
+<ptT0398>"Yes, the tragedy that you would rather forget for all time... That's it."
+
+//TEXT
+<enT0399>That's what it was...
+<ptT0399>That's what it was...
+
+//TEXT
+<enT0400>They were the great disaster's vanguard...
+<ptT0400>They were the great disaster's vanguard...
+
+//TEXT
+<enT0401>Damn it!
+<ptT0401>Damn it!
+
+//TEXT
+<enT0402>I was defiled by those bastards...
+<ptT0402>I was defiled by those bastards...
+
+//TEXT 【Ayumi】
+<enT0403>"I understand how you feel, Zakuro-chan..."
+<ptT0403>"I understand how you feel, Zakuro-chan..."
+
+//TEXT 【Zakuro】
+<enT0404>"Huh?!"
+<ptT0404>"Huh?!"
+
+//TEXT 【Usami】
+<enT0405>"Me too... and Ayumi-chan... We were..."
+<ptT0405>"Me too... and Ayumi-chan... We were..."
+
+//TEXT
+<enT0406>It happened to both of them too.
+<ptT0406>It happened to both of them too.
+
+//TEXT
+<enT0407>Just like me... they were defiled.
+<ptT0407>Just like me... they were defiled.
+
+//TEXT 【Usami】
+<enT0408>"..."
+<ptT0408>"..."
+
+//TEXT 【Ayumi】
+<enT0409>"..."
+<ptT0409>"..."
+
+//TEXT 【Zakuro】
+<enT0410>"..."
+<ptT0410>"..."
+
+//TEXT
+<enT0411>Ayumi-san grabbed my hand.
+<ptT0411>Ayumi-san grabbed my hand.
+
+//TEXT
+<enT0412>In that moment,
+<ptT0412>In that moment,
+
+//TEXT 【Zakuro】
+<enT0413>"Th-This..."
+<ptT0413>"Th-This..."
+
+//TEXT
+<enT0414>Ayumi-san's memories flowed into me...
+<ptT0414>Ayumi-san's memories flowed into me...
+
+//TEXT 【Female Student】
+<enT0415>"Come on, masturbate for us."
+<ptT0415>"Come on, masturbate for us."
+
+//TEXT 【Ayumi】
+<enT0416>"Th-That's..."
+<ptT0416>"Th-That's..."
+
+//TEXT 【Female Student】
+<enT0417>"Hurry up already."
+<ptT0417>"Hurry up already."
+
+//TEXT 【Ayumi】
+<enT0418>"..."
+<ptT0418>"..."
+
+//TEXT 【Female Student】
+<enT0419>"You little..."
+<ptT0419>"You little..."
+
+//TEXT 【Female Student】
+<enT0420>"You don't want to make us angry."
+<ptT0420>"You don't want to make us angry."
+
+//TEXT 【Female Student】
+<enT0421>"We'll burn all your fucking hair down there, then make you walk home naked."
+<ptT0421>"We'll burn all your fucking hair down there, then make you walk home naked."
+
+//TEXT 【Ayumi】
+<enT0422>"Ah!"
+<ptT0422>"Ah!"
+
+//TEXT 【Female Student】
+<enT0423>"Hurry up and do it."
+<ptT0423>"Hurry up and do it."
+
+//TEXT 【Ayumi】
+<enT0424>"..."
+<ptT0424>"..."
+
+//TEXT
+<enT0425>Shlick...
+<ptT0425>Shlick...
+
+//TEXT 【Female Student】
+<enT0426>"Come on, do it for real."
+<ptT0426>"Come on, do it for real."
+
+//TEXT 【Female Student】
+<enT0427>"No one's gonna want to watch this shit."
+<ptT0427>"No one's gonna want to watch this shit."
+
+//TEXT 【Ayumi】
+<enT0428>"Watch?"
+<ptT0428>"Watch?"
+
+//TEXT 【Female Student】
+<enT0429>"Don't worry about it. Just do it."
+<ptT0429>"Don't worry about it. Just do it."
+
+//TEXT 【Ayumi】
+<enT0430>"..."
+<ptT0430>"..."
+
+//TEXT
+<enT0431>Shlick, shlick...
+<ptT0431>Shlick, shlick...
+
+//TEXT 【Female Student】
+<enT0432>"Moan for us."
+<ptT0432>"Moan for us."
+
+//TEXT 【Ayumi】
+<enT0433>"Okay..."
+<ptT0433>"Okay..."
+
+//TEXT 【Ayumi】
+<enT0434>"Amm..."
+<ptT0434>"Amm..."
+
+//TEXT 【Female Student】
+<enT0435>"Ahahahahahaha."
+<ptT0435>"Ahahahahahaha."
+
+//TEXT 【Female Student】
+<enT0436>"She said 'amm.'"
+<ptT0436>"She said 'amm.'"
+
+//TEXT 【Female Student】
+<enT0437>"The fuck was that?!"
+<ptT0437>"The fuck was that?!"
+
+//TEXT 【Ayumi】
+<enT0438>"..."
+<ptT0438>"..."
+
+//TEXT 【Female Student】
+<enT0439>"Don't stop already."
+<ptT0439>"Don't stop already."
+
+//TEXT 【Ayumi】
+<enT0440>"Okay..."
+<ptT0440>"Okay..."
+
+//TEXT 【Ayumi】
+<enT0441>"..."
+<ptT0441>"..."
+
+//TEXT
+<enT0442>Shlick, shlick...
+<ptT0442>Shlick, shlick...
+
+//TEXT 【Ayumi】
+<enT0443>"..."
+<ptT0443>"..."
+
+//TEXT 【Ayumi】
+<enT0444>"Huh?!"
+<ptT0444>"Huh?!"
+
+//TEXT 【Ayumi】
+<enT0445>"Th-That's my phone..."
+<ptT0445>"Th-That's my phone..."
+
+//TEXT 【Ayumi】
+<enT0446>"Wh-Why are you..."
+<ptT0446>"Wh-Why are you..."
+
+//TEXT 【Female Student】
+<enT0447>"I'm taking pictures."
+<ptT0447>"I'm taking pictures."
+
+//TEXT 【Ayumi】
+<enT0448>"Pictures?!"
+<ptT0448>"Pictures?!"
+
+//TEXT 【Female Student】
+<enT0449>"Yeah, then we can sell them on the Internet. People pay tons for this stuff."
+<ptT0449>"Yeah, then we can sell them on the Internet. People pay tons for this stuff."
+
+//TEXT 【Ayumi】
+<enT0450>"B-But..."
+<ptT0450>"B-But..."
+
+//TEXT 【Female Student】
+<enT0451>"Don't worry."
+<ptT0451>"Don't worry."
+
+//TEXT 【Female Student】
+<enT0452>"We'll make sure to erase our phone numbers."
+<ptT0452>"We'll make sure to erase our phone numbers."
+
+//TEXT 【Ayumi】
+<enT0453>"B-But..."
+<ptT0453>"B-But..."
+
+//TEXT 【Female Student】
+<enT0454>"Shut up..."
+<ptT0454>"Shut up..."
+
+//TEXT 【Female Student】
+<enT0455>"Why don't we just force her to do it?"
+<ptT0455>"Why don't we just force her to do it?"
+
+//TEXT 【Female Student】
+<enT0456>"Yeah."
+<ptT0456>"Yeah."
+
+//TEXT 【Ayumi】
+<enT0457>"No!"
+<ptT0457>"No!"
+
+//TEXT 【Female Student】
+<enT0458>"What, you're getting wet too?"
+<ptT0458>"What, you're getting wet too?"
+
+//TEXT 【Ayumi】
+<enT0459>"No!"
+<ptT0459>"No!"
+
+//TEXT 【Ayumi】
+<enT0460>"Just... Just leave me alone."
+<ptT0460>"Just... Just leave me alone."
+
+//TEXT 【Female Student】
+<enT0461>"Shut up."
+<ptT0461>"Shut up."
+
+//TEXT 【Female Student】
+<enT0462>"Why you!"
+<ptT0462>"Why you!"
+
+//TEXT 【Ayumi】
+<enT0463>"Ah!"
+<ptT0463>"Ah!"
+
+//TEXT 【Female Student】
+<enT0464>"Just keep your trap shut."
+<ptT0464>"Just keep your trap shut."
+
+//TEXT 【Ayumi】
+<enT0465>"O-Ow..."
+<ptT0465>"O-Ow..."
+
+//TEXT 【Female Student】
+<enT0466>"I just told you!"
+<ptT0466>"I just told you!"
+
+//TEXT 【Female Student】
+<enT0467>"Isn't this great? It's like BDSM."
+<ptT0467>"Isn't this great? It's like BDSM."
+
+//TEXT 【Female Student】
+<enT0468>"Yeah, it kinda is. How about this..."
+<ptT0468>"Yeah, it kinda is. How about this..."
+
+//TEXT
+<enT0469>Trickle.
+<ptT0469>Trickle.
+
+//TEXT 【Ayumi】
+<enT0470>"Noo!"
+<ptT0470>"Noo!"
+
+//TEXT 【Female Student】
+<enT0471>"Oh?"
+<ptT0471>"Oh?"
+
+//TEXT
+<enT0472>Trickle, trickle...
+<ptT0472>Trickle, trickle...
+
+//TEXT 【Female Student】
+<enT0473>"Wh-What's wrong with her..."
+<ptT0473>"Wh-What's wrong with her..."
+
+//TEXT 【Female Student】
+<enT0474>"She pissed herself when I stepped on her."
+<ptT0474>"She pissed herself when I stepped on her."
+
+//TEXT 【Female Student】
+<enT0475>"Quick, take some pictures."
+<ptT0475>"Quick, take some pictures."
+
+//TEXT 【Female Student】
+<enT0476>"Yeah, there are people into that shit."
+<ptT0476>"Yeah, there are people into that shit."
+
+//TEXT 【Ayumi】
+<enT0477>"..."
+<ptT0477>"..."
+
+//TEXT
+<enT0478>Trickle, trickle...
+<ptT0478>Trickle, trickle...
+
+//TEXT 【Female Student】
+<enT0479>"Did you get it?"
+<ptT0479>"Did you get it?"
+
+//TEXT 【Female Student】
+<enT0480>"It's perfect."
+<ptT0480>"It's perfect."
+
+//TEXT 【Female Student】
+<enT0481>"Ahahahaha."
+<ptT0481>"Ahahahaha."
+
+//TEXT 【Female Student】
+<enT0482>"Wow, Ayumi, you're going to be so popular with the perverts. You'll be their idol!"
+<ptT0482>"Wow, Ayumi, you're going to be so popular with the perverts. You'll be their idol!"
+
+//TEXT 【Female Student】
+<enT0483>"Yeah, yeah."
+<ptT0483>"Yeah, yeah."
+
+//TEXT 【Ayumi】
+<enT0484>"..."
+<ptT0484>"..."
+
+//TEXT 【Female Student】
+<enT0485>"What should the next scene be?"
+<ptT0485>"What should the next scene be?"
+
+//TEXT 【Female Student】
+<enT0486>"Hmm."
+<ptT0486>"Hmm."
+
+//TEXT 【Female Student】
+<enT0487>"That's it!"
+<ptT0487>"That's it!"
+
+//TEXT 【Female Student】
+<enT0488>"We'll take her virginity! How about that?"
+<ptT0488>"We'll take her virginity! How about that?"
+
+//TEXT 【Ayumi】
+<enT0489>"Wha―?!"
+<ptT0489>"Wha―?!"
+
+//TEXT 【Ayumi】
+<enT0490>"A-Anything but that."
+<ptT0490>"A-Anything but that."
+
+//TEXT 【Ayumi】
+<enT0491>"Ah!"
+<ptT0491>"Ah!"
+
+//TEXT 【Female Student】
+<enT0492>"Shut up."
+<ptT0492>"Shut up."
+
+//TEXT 【Female Student】
+<enT0493>"I wish you would just shut up and take it instead of bitching every three seconds."
+<ptT0493>"I wish you would just shut up and take it instead of bitching every three seconds."
+
+//TEXT 【Ayumi】
+<enT0494>"Please... Let me go... Please let me go..."
+<ptT0494>"Please... Let me go... Please let me go..."
+
+//TEXT 【Female Student】
+<enT0495>"So then, who's gonna fuck her?"
+<ptT0495>"So then, who's gonna fuck her?"
+
+//TEXT 【Female Student】
+<enT0496>"This..."
+<ptT0496>"This..."
+
+//TEXT 【Female Student】
+<enT0497>"What's this?"
+<ptT0497>"What's this?"
+
+//TEXT 【Female Student】
+<enT0498>"It's the janitor's dog."
+<ptT0498>"It's the janitor's dog."
+
+//TEXT 【Female Student】
+<enT0499>"Wh-Why did you bring this thing along?"
+<ptT0499>"Wh-Why did you bring this thing along?"
+
+//TEXT 【Female Student】
+<enT0500>"Hehehehehe."
+<ptT0500>"Hehehehehe."
+
+//TEXT 【Ayumi】
+<enT0501>"NOOO!"
+<ptT0501>"NOOO!"
+
+//TEXT 【Ayumi】
+<enT0502>"It hurts!"
+<ptT0502>"It hurts!"
+
+//TEXT 【Female Student】
+<enT0503>"Ahahahahahahaha."
+<ptT0503>"Ahahahahahahaha."
+
+//TEXT 【Female Student】
+<enT0504>"This is amazing. She looks great!"
+<ptT0504>"This is amazing. She looks great!"
+
+//TEXT 【Female Student】
+<enT0505>"Wow, wow!"
+<ptT0505>"Wow, wow!"
+
+//TEXT 【Ayumi】
+<enT0506>"I-It hurts..."
+<ptT0506>"I-It hurts..."
+
+//TEXT 【Ayumi】
+<enT0507>"L-Let me go..."
+<ptT0507>"L-Let me go..."
+
+//TEXT 【Female Student】
+<enT0508>"Take some pictures."
+<ptT0508>"Take some pictures."
+
+//TEXT 【Female Student】
+<enT0509>"Oh, yeah."
+<ptT0509>"Oh, yeah."
+
+//TEXT
+<enT0510>Snap, snap...
+<ptT0510>Snap, snap...
+
+//TEXT
+<enT0511>...
+<ptT0511>...
+
+//TEXT
+<enT0512>......
+<ptT0512>......
+
+//TEXT 【Zakuro】
+<enT0513>"...That's terrible."
+<ptT0513>"...That's terrible."
+
+//TEXT
+<enT0514>I wasn't the only one...
+<ptT0514>I wasn't the only one...
+
+//TEXT
+<enT0515>I wasn't the only one suffering...
+<ptT0515>I wasn't the only one suffering...
+
+//TEXT
+<enT0516>We've all suffered the same fate...
+<ptT0516>We've all suffered the same fate...
+
+//TEXT
+<enT0517>But I...
+<ptT0517>But I...
+
+//TEXT
+<enT0518>I thought I was the only one who had to bear this burden...
+<ptT0518>I thought I was the only one who had to bear this burden...
+
+//TEXT 【Zakuro】
+<enT0519>"...I'm sorry."
+<ptT0519>"...I'm sorry."
+
+//TEXT 【Zakuro】
+<enT0520>"Until today, I thought I was all alone... I thought I was the only one suffering."
+<ptT0520>"Until today, I thought I was all alone... I thought I was the only one suffering."
+
+//TEXT 【Usami】
+<enT0521>"No... It's not your fault. It's the great disaster's fault."
+<ptT0521>"No... It's not your fault. It's the great disaster's fault."
+
+//TEXT
+<enT0522>Yes...
+<ptT0522>Yes...
+
+//TEXT
+<enT0523>That's right.
+<ptT0523>That's right.
+
+//TEXT
+<enT0524>It was all the great disaster trying to destroy the world.
+<ptT0524>It was all the great disaster trying to destroy the world.
+
+//TEXT
+<enT0525>That's the source of all my problems.
+<ptT0525>That's the source of all my problems.
+
+//TEXT 【Usami】
+<enT0526>"...The great disaster wanted to seal our power away by planting its evil directly within our bodies."
+<ptT0526>"...The great disaster wanted to seal our power away by planting its evil directly within our bodies."
+
+//TEXT 【Usami】
+<enT0527>"It succeeded in sealing our powers, but it was only through this experience that we recovered our memories... You haven't completely recovered your memories, but that's just a matter of time. It's rather ironic that the great disaster worked against itself in this case."
+<ptT0527>"It succeeded in sealing our powers, but it was only through this experience that we recovered our memories... You haven't completely recovered your memories, but that's just a matter of time. It's rather ironic that the great disaster worked against itself in this case."
+
+//TEXT 【Ayumi】
+<enT0528>"Thanks to that... we finally found you."
+<ptT0528>"Thanks to that... we finally found you."
+
+//TEXT 【Zakuro】
+<enT0529>"...Yeah."
+<ptT0529>"...Yeah."
+
+//TEXT
+<enT0530>These people are my allies.
+<ptT0530>These people are my allies.
+
+//TEXT
+<enT0531>No, they're my true friends!
+<ptT0531>No, they're my true friends!
+
+//TEXT
+<enT0532>To think that my true friends were waiting for me...
+<ptT0532>To think that my true friends were waiting for me...
+
+//TEXT
+<enT0533>I'm so happy!
+<ptT0533>I'm so happy!
+
+//TEXT
+<enT0534>I've never been this happy before in my life!
+<ptT0534>I've never been this happy before in my life!
+
+//TEXT
+<enT0535>Yes...
+<ptT0535>Yes...
+
+//TEXT
+<enT0536>I was...
+<ptT0536>I was...
+
+//TEXT
+<enT0537>I was born to save this world!
+<ptT0537>I was born to save this world!
+
+//TEXT 【Zakuro】
+<enT0538>"Usami-chan... Ayumi-chan..."
+<ptT0538>"Usami-chan... Ayumi-chan..."
+
+//TEXT 【Usami】
+<enT0539>"Yeah..."
+<ptT0539>"Yeah..."
+
+//TEXT 【Ayumi】
+<enT0540>"..."
+<ptT0540>"..."
+
+//TEXT
+<enT0541>We embraced and cried together.
+<ptT0541>We embraced and cried together.
+
+//TEXT
+<enT0542>The tears of joy wouldn't stop.
+<ptT0542>The tears of joy wouldn't stop.
+
+//TEXT 【Zakuro】
+<enT0543>"By the way, you said there was something else you needed me to help with."
+<ptT0543>"By the way, you said there was something else you needed me to help with."
+
+//TEXT 【Usami】
+<enT0544>"...Yes."
+<ptT0544>"...Yes."
+
+//TEXT
+<enT0545>Usami-chan wiped away the tears and began to talk.
+<ptT0545>Usami-chan wiped away the tears and began to talk.
+
+//TEXT 【Usami】
+<enT0546>"You remember when I said the revival of the great disaster and Har Megiddo was approaching?"
+<ptT0546>"You remember when I said the revival of the great disaster and Har Megiddo was approaching?"
+
+//TEXT 【Zakuro】
+<enT0547>"Yes."
+<ptT0547>"Yes."
+
+//TEXT 【Usami】
+<enT0548>"We want to stop it... We want to save the world!"
+<ptT0548>"We want to stop it... We want to save the world!"
+
+//TEXT 【Zakuro】
+<enT0549>"You want to save the world?"
+<ptT0549>"You want to save the world?"
+
+//TEXT 【Usami】
+<enT0550>"That's right... It's true that our hearts were clouded with evil, that before we wished for this world to be destroyed, but there are many innocent people in this world. Many in this world are kind―even compassionate!"
+<ptT0550>"That's right... It's true that our hearts were clouded with evil, that before we wished for this world to be destroyed, but there are many innocent people in this world. Many in this world are kind―even compassionate!"
+
+//TEXT
+<enT0551>Kind people...
+<ptT0551>Kind people...
+
+//TEXT
+<enT0552>Someone like that...
+<ptT0552>Someone like that...
+
+//TEXT 【Zakuro】
+<enT0553>"Mamiya-kun..."
+<ptT0553>"Mamiya-kun..."
+
+//TEXT 【Usami】
+<enT0554>"I... I want to save those people!"
+<ptT0554>"I... I want to save those people!"
+
+//TEXT 【Ayumi】
+<enT0555>"Save... those... people..."
+<ptT0555>"Save... those... people..."
+
+//TEXT 【Zakuro】
+<enT0556>"Yeah... Yeah, that's our mission!"
+<ptT0556>"Yeah... Yeah, that's our mission!"
+
+//TEXT 【Usami】
+<enT0557>"That's right! Our mission is to save all those people!"
+<ptT0557>"That's right! Our mission is to save all those people!"
+
+//TEXT
+<enT0558>That's right...
+<ptT0558>That's right...
+
+//TEXT
+<enT0559>I'm the warrior, fighting to save the world!
+<ptT0559>I'm the warrior, fighting to save the world!
+
+//TEXT
+<enT0560>If I don't do it, then who will?
+<ptT0560>If I don't do it, then who will?
+
+//TEXT 【Usami】
+<enT0561>"And the evil people who attacked us were originally human before they were possessed... If we vanquish the great disaster, they'll return to normal!"
+<ptT0561>"And the evil people who attacked us were originally human before they were possessed... If we vanquish the great disaster, they'll return to normal!"
+
+//TEXT
+<enT0562>That's why...
+<ptT0562>That's why...
+
+//TEXT
+<enT0563>If we save the world, all those people will return to normal...
+<ptT0563>If we save the world, all those people will return to normal...
+
+//TEXT
+<enT0564>Then why did he have to die?
+<ptT0564>Then why did he have to die?
+
+//TEXT
+<enT0565>Wasn't he another person possessed by the evil?
+<ptT0565>Wasn't he another person possessed by the evil?
+
+//TEXT
+<enT0566>Then he should have gone back to normal once the world was saved...
+<ptT0566>Then he should have gone back to normal once the world was saved...
+
+//TEXT
+<enT0567>Why?
+<ptT0567>Why?
+
+//TEXT
+<enT0568>Why?
+<ptT0568>Why?
+
+//TEXT 【Usami】
+<enT0569>"The being posessing these humans is... the Specialized Physics Bug..."
+<ptT0569>"The being posessing these humans is... the Specialized Physics Bug..."
+
+//TEXT 【Zakuro】
+<enT0570>"Specialized Physics Bug?"
+<ptT0570>"Specialized Physics Bug?"
+
+//TEXT 【Usami】
+<enT0571>"A bug created from a material exempt from the laws of conventional physics."
+<ptT0571>"A bug created from a material exempt from the laws of conventional physics."
+
+//TEXT 【Usami】
+<enT0572>"It's an insect that infests a person's mind and eats their thoughts, memories, and emotions."
+<ptT0572>"It's an insect that infests a person's mind and eats their thoughts, memories, and emotions."
+
+//TEXT 【Zakuro】
+<enT0573>"A person's mind..."
+<ptT0573>"A person's mind..."
+
+//TEXT 【Usami】
+<enT0574>"Yes, the people who have been possessed by this insect are no different from insects themselves."
+<ptT0574>"Yes, the people who have been possessed by this insect are no different from insects themselves."
+
+//TEXT 【Zakuro】
+<enT0575>"Insects... So that's all they are... Just bugs..."
+<ptT0575>"Insects... So that's all they are... Just bugs..."
+
+//TEXT 【Zakuro】
+<enT0576>"That's why I was..."
+<ptT0576>"That's why I was..."
+
+//TEXT 【Usami】
+<enT0577>"Yes, it planted Specialized Physics Bugs in the people around all three of us in order to induce a low energy state in us, the three angel warriors."
+<ptT0577>"Yes, it planted Specialized Physics Bugs in the people around all three of us in order to induce a low energy state in us, the three angel warriors."
+
+//TEXT 【Zakuro】
+<enT0578>"That's... why they bullied me..."
+<ptT0578>"That's... why they bullied me..."
+
+//TEXT 【Usami】
+<enT0579>"That's right."
+<ptT0579>"That's right."
+
+//TEXT 【Usami】
+<enT0580>"If a person is infested by a Specialized Physics Bug for a long period of time, their brain almost completely disappears."
+<ptT0580>"If a person is infested by a Specialized Physics Bug for a long period of time, their brain almost completely disappears."
+
+//TEXT 【Usami】
+<enT0581>"Yesterday, Angel Night and I used our powers to create a barrier field in Tokyo's 23rd district, thereby exterminating the Specialized Physics Bug."
+<ptT0581>"Yesterday, Angel Night and I used our powers to create a barrier field in Tokyo's 23rd district, thereby exterminating the Specialized Physics Bug."
+
+//TEXT 【Zakuro】
+<enT0582>"..."
+<ptT0582>"..."
+
+//TEXT 【Usami】
+<enT0583>"So the person whose brain had been eaten by the Specialized Physics Bug went mad once the bug disappeared."
+<ptT0583>"So the person whose brain had been eaten by the Specialized Physics Bug went mad once the bug disappeared."
+
+//TEXT 【Usami】
+<enT0584>"The person who tortured you destroyed himself."
+<ptT0584>"The person who tortured you destroyed himself."
+
+//TEXT 【Zakuro】
+<enT0585>"Destroyed himself?"
+<ptT0585>"Destroyed himself?"
+
+//TEXT 【Usami】
+<enT0586>"Yes, so you don't need to worry about that."
+<ptT0586>"Yes, so you don't need to worry about that."
+
+//TEXT 【Zakuro】
+<enT0587>"But, he... He was just possessed by the evil. He wasn't originally..."
+<ptT0587>"But, he... He was just possessed by the evil. He wasn't originally..."
+
+//TEXT 【Usami】
+<enT0588>"Yes... He was originally human."
+<ptT0588>"Yes... He was originally human."
+
+//TEXT 【Usami】
+<enT0589>"But... the bug is especially compatible with people whose hearts are already evil. The person who was infested had an evil heart to begin with, and gradually that person fused with the bug."
+<ptT0589>"But... the bug is especially compatible with people whose hearts are already evil. The person who was infested had an evil heart to begin with, and gradually that person fused with the bug."
+
+//TEXT 【Zakuro】
+<enT0590>"Compatible..."
+<ptT0590>"Compatible..."
+
+//TEXT 【Usami】
+<enT0591>"He was compatible with the Specialized Physics Bug because he was evil at heart."
+<ptT0591>"He was compatible with the Specialized Physics Bug because he was evil at heart."
+
+//TEXT 【Usami】
+<enT0592>"He fused with the bug to the point where almost all of his brain was eaten. That's proof that he was evil at heart."
+<ptT0592>"He fused with the bug to the point where almost all of his brain was eaten. That's proof that he was evil at heart."
+
+//TEXT 【Usami】
+<enT0593>"In a way, his death was just retribution for his sins."
+<ptT0593>"In a way, his death was just retribution for his sins."
+
+//TEXT 【Usami】
+<enT0594>"Even if they hadn't been infested, they would have committed some other crime eventually."
+<ptT0594>"Even if they hadn't been infested, they would have committed some other crime eventually."
+
+//TEXT 【Usami】
+<enT0595>"And... why should they get off scot-free after defiling us? They should accept their retribution."
+<ptT0595>"And... why should they get off scot-free after defiling us? They should accept their retribution."
+
+//TEXT 【Zakuro】
+<enT0596>"They should accept their retribution..."
+<ptT0596>"They should accept their retribution..."
+
+//TEXT
+<enT0597>Th-That's right...
+<ptT0597>Th-That's right...
+
+//TEXT
+<enT0598>That's right... That has to be it... It was their just recompense...
+<ptT0598>That's right... That has to be it... It was their just recompense...
+
+//TEXT 【Zakuro】
+<enT0599>"That was just their inevitable retribution..."
+<ptT0599>"That was just their inevitable retribution..."
+
+//TEXT 【Zakuro】
+<enT0600>"They were evil at heart; they were beyond salvation..."
+<ptT0600>"They were evil at heart; they were beyond salvation..."
+
+//TEXT 【Usami】
+<enT0601>"Yes, this is divine retribution... We couldn't have hoped to save them."
+<ptT0601>"Yes, this is divine retribution... We couldn't have hoped to save them."
+
+//TEXT 【Zakuro】
+<enT0602>"Wait... Weren't our powers sealed away...?"
+<ptT0602>"Wait... Weren't our powers sealed away...?"
+
+//TEXT
+<enT0603>Right...
+<ptT0603>Right...
+
+//TEXT
+<enT0604>It's our mission to save the world, but we can't do anything without our powers.
+<ptT0604>It's our mission to save the world, but we can't do anything without our powers.
+
+//TEXT 【Ayumi】
+<enT0605>"...There's one way to recover our powers."
+<ptT0605>"...There's one way to recover our powers."
+
+//TEXT 【Zakuro】
+<enT0606>"Huh?"
+<ptT0606>"Huh?"
+
+//TEXT 【Usami】
+<enT0607>It's just as Ayumi said... There's a way to recover our Extradimensional Powers."
+<ptT0607>It's just as Ayumi said... There's a way to recover our Extradimensional Powers."
+
+//TEXT 【Usami】
+<enT0608>"To do it, we have to complete the ritual known as Spiral Matai."
+<ptT0608>"To do it, we have to complete the ritual known as Spiral Matai."
+
+//TEXT 【Zakuro】
+<enT0609>"Spiral Matai?"
+<ptT0609>"Spiral Matai?"
+
+//TEXT 【Usami】
+<enT0610>"Yes... Spiral Matai."
+<ptT0610>"Yes... Spiral Matai."
+
+//TEXT 【Usami】
+<enT0611>"If we complete this ritual, we can recover our powers."
+<ptT0611>"If we complete this ritual, we can recover our powers."
+
+//TEXT 【Usami】
+<enT0612>"But bravery is required for this ritual..."
+<ptT0612>"But bravery is required for this ritual..."
+
+//TEXT 【Zakuro】
+<enT0613>"Bravery?"
+<ptT0613>"Bravery?"
+
+//TEXT 【Usami】
+<enT0614>"We reincarnated ourselves in this world in order to gain greater powers... In order to recover our powers, we have to go through an experience similar to reincarnation once again."
+<ptT0614>"We reincarnated ourselves in this world in order to gain greater powers... In order to recover our powers, we have to go through an experience similar to reincarnation once again."
+
+//TEXT 【Zakuro】
+<enT0615>"An experience similar to reincarnation?"
+<ptT0615>"An experience similar to reincarnation?"
+
+//TEXT 【Usami】
+<enT0616>"We have to have a near-death experience. If we survive, we'll be able to recover our Extradimensional Powers."
+<ptT0616>"We have to have a near-death experience. If we survive, we'll be able to recover our Extradimensional Powers."
+
+//TEXT 【Zakuro】
+<enT0617>"A near-death experience?"
+<ptT0617>"A near-death experience?"
+
+//TEXT 【Usami】
+<enT0618>"Yes... That's what the Spiral Matai is."
+<ptT0618>"Yes... That's what the Spiral Matai is."
+
+//TEXT 【Ayumi】
+<enT0619>"..."
+<ptT0619>"..."
+
+//TEXT 【Zakuro】
+<enT0620>"..."
+<ptT0620>"..."
+
+//TEXT 【Usami】
+<enT0621>"In truth, we wanted to wait until you fully recovered your memories before doing it, but..."
+<ptT0621>"In truth, we wanted to wait until you fully recovered your memories before doing it, but..."
+
+//TEXT 【Usami】
+<enT0622>"But the world's destruction, Bick Hazard, is approaching."
+<ptT0622>"But the world's destruction, Bick Hazard, is approaching."
+
+//TEXT 【Ayumi】
+<enT0623>"July... 20th..."
+<ptT0623>"July... 20th..."
+
+//TEXT 【Zakuro】
+<enT0624>"What?"
+<ptT0624>"What?"
+
+//TEXT
+<enT0625>Did she just say July 20th...?
+<ptT0625>Did she just say July 20th...?
+
+//TEXT
+<enT0626>July 20th...
+<ptT0626>July 20th...
+
+//TEXT
+<enT0627>That's just nine days from now!
+<ptT0627>That's just nine days from now!
+
+//TEXT 【Zakuro】
+<enT0628>"No way...?!"
+<ptT0628>"No way...?!"
+
+//TEXT 【Ayumi】
+<enT0629>"..."
+<ptT0629>"..."
+
+//TEXT 【Usami】
+<enT0630>"..."
+<ptT0630>"..."
+
+//TEXT 【Zakuro】
+<enT0631>"But that's..."
+<ptT0631>"But that's..."
+
+//TEXT 【Usami】
+<enT0632>"It's true... July 20th is the day of Har Megiddo..."
+<ptT0632>"It's true... July 20th is the day of Har Megiddo..."
+
+//TEXT 【Usami】
+<enT0633>"The Bible tells of Armageddon, and Nostrodamus predicted that it would come in the seventh month of the year..."
+<ptT0633>"The Bible tells of Armageddon, and Nostrodamus predicted that it would come in the seventh month of the year..."
+
+//TEXT 【Usami】
+<enT0634>"It's July 20th..."
+<ptT0634>"It's July 20th..."
+
+//TEXT
+<enT0635>Armageddon is coming in just nine days...
+<ptT0635>Armageddon is coming in just nine days...
+
+//TEXT
+<enT0636>I can't believe it...
+<ptT0636>I can't believe it...
+
+//TEXT
+<enT0637>I finally met my friends and now...
+<ptT0637>I finally met my friends and now...
+
+//TEXT
+<enT0638>In just nine days...
+<ptT0638>In just nine days...
+
+//TEXT 【Zakuro】
+<enT0639>"...When are we going to do it?"
+<ptT0639>"...When are we going to do it?"
+
+//TEXT 【Usami】
+<enT0640>"Zakuro-chan.?"
+<ptT0640>"Zakuro-chan.?"
+
+//TEXT 【Zakuro】
+<enT0641>"Let's do it... Let's complete the Spiral Matai."
+<ptT0641>"Let's do it... Let's complete the Spiral Matai."
+
+//TEXT 【Usami】
+<enT0642>"You'll do it with us, Zakuro-chan?"
+<ptT0642>"You'll do it with us, Zakuro-chan?"
+
+//TEXT 【Zakuro】
+<enT0643>"If we don't do it soon, we can't recover our powers!"
+<ptT0643>"If we don't do it soon, we can't recover our powers!"
+
+//TEXT
+<enT0644>And...
+<ptT0644>And...
+
+//TEXT 【Zakuro】
+<enT0645>"And... if we don't recover our powers, the world will be destroyed."
+<ptT0645>"And... if we don't recover our powers, the world will be destroyed."
+
+//TEXT 【Zakuro】
+<enT0646>"If that happened..."
+<ptT0646>"If that happened..."
+
+//TEXT 【Zakuro】
+<enT0647>"If the world was destroyed..."
+<ptT0647>"If the world was destroyed..."
+
+//TEXT 【Zakuro】
+<enT0648>"I would... I would never see any of you again!"
+<ptT0648>"I would... I would never see any of you again!"
+
+//TEXT 【Usami】
+<enT0649>"Zakuro-chan..."
+<ptT0649>"Zakuro-chan..."
+
+//TEXT 【Ayumi】
+<enT0650>"..."
+<ptT0650>"..."
+
+//TEXT 【Zakuro】
+<enT0651>"I'm ready for it."
+<ptT0651>"I'm ready for it."
+
+//TEXT 【Zakuro】
+<enT0652>"If we're all together, we can do anything!"
+<ptT0652>"If we're all together, we can do anything!"
+
+//TEXT 【Zakuro】
+<enT0653>"We're... We're allies. We'll always be there to help each other!"
+<ptT0653>"We're... We're allies. We'll always be there to help each other!"
+
+//TEXT 【Zakuro】
+<enT0654>"What's more, we're true friends!"
+<ptT0654>"What's more, we're true friends!"
+
+//TEXT 【Ayumi】
+<enT0655>"Za...kuro... chan..."
+<ptT0655>"Za...kuro... chan..."
+
+//TEXT 【Usami】
+<enT0656>"That's right... We're true friends!"
+<ptT0656>"That's right... We're true friends!"
+
+//TEXT 【Zakuro】
+<enT0657>"When do you want to carry out the ritual?"
+<ptT0657>"When do you want to carry out the ritual?"
+
+//TEXT 【Usami】
+<enT0658>"Ayumi-chan, when do you think we should do it?"
+<ptT0658>"Ayumi-chan, when do you think we should do it?"
+
+//TEXT 【Ayumi】
+<enT0659>"..."
+<ptT0659>"..."
+
+//TEXT
+<enT0660>Ayumi-chan closed her eyes and thought for a moment.
+<ptT0660>Ayumi-chan closed her eyes and thought for a moment.
+
+//TEXT 【Usami】
+<enT0661>"Ayumi-chan has the power to read the stars. It was through her powers that we finally found you."
+<ptT0661>"Ayumi-chan has the power to read the stars. It was through her powers that we finally found you."
+
+//TEXT 【Zakuro】
+<enT0662>"How does she have her powers...?"
+<ptT0662>"How does she have her powers...?"
+
+//TEXT 【Usami】
+<enT0663>"Actually, Ayumi-chan got hit by a car a few months ago."
+<ptT0663>"Actually, Ayumi-chan got hit by a car a few months ago."
+
+//TEXT 【Zakuro】
+<enT0664>"A car?"
+<ptT0664>"A car?"
+
+//TEXT 【Usami】
+<enT0665>"Yeah... Right now it's hidden by her hair, but she has a really bad scar on her head."
+<ptT0665>"Yeah... Right now it's hidden by her hair, but she has a really bad scar on her head."
+
+//TEXT 【Zakuro】
+<enT0666>"O-Oh..."
+<ptT0666>"O-Oh..."
+
+//TEXT 【Usami】
+<enT0667>"She recovered a small part of her power after that."
+<ptT0667>"She recovered a small part of her power after that."
+
+//TEXT 【Usami】
+<enT0668>"So she's the only one who has any power right now, and even that is just a fraction of her full power."
+<ptT0668>"So she's the only one who has any power right now, and even that is just a fraction of her full power."
+
+//TEXT 【Zakuro】
+<enT0669>"But... it was that power that put up the barrier field and found me..."
+<ptT0669>"But... it was that power that put up the barrier field and found me..."
+
+//TEXT
+<enT0670>Wow... If our full power comes back, then we could...
+<ptT0670>Wow... If our full power comes back, then we could...
+
+//TEXT 【Ayumi】
+<enT0671>"The star of Ganjima... That building... The star of Mande... is appr...oaching... Zaroboi... Hiding in the shadow of... Elhimuro's... power..."
+<ptT0671>"The star of Ganjima... That building... The star of Mande... is appr...oaching... Zaroboi... Hiding in the shadow of... Elhimuro's... power..."
+
+//TEXT 【Zakuro】
+<enT0672>"Huh?"
+<ptT0672>"Huh?"
+
+//TEXT 【Usami】
+<enT0673>"So soon..."
+<ptT0673>"So soon..."
+
+//TEXT
+<enT0674>Ayumi-chan nodded silently.
+<ptT0674>Ayumi-chan nodded silently.
+
+//TEXT 【Usami】
+<enT0675>"Tomorrow evening... We'll be most closely attuned to Elhimuro's energy at 6:42..."
+<ptT0675>"Tomorrow evening... We'll be most closely attuned to Elhimuro's energy at 6:42..."
+
+//TEXT 【Usami】
+<enT0676>"At that time, upon this Earth..."
+<ptT0676>"At that time, upon this Earth..."
+
+//TEXT 【Zakuro】
+<enT0677>"This Earth?"
+<ptT0677>"This Earth?"
+
+//TEXT 【Usami】
+<enT0678>"Roughly the height of this building..."
+<ptT0678>"Roughly the height of this building..."
+
+//TEXT 【Ayumi】
+<enT0679>"A little to the right... The apartment complex next door would be... ideal."
+<ptT0679>"A little to the right... The apartment complex next door would be... ideal."
+
+//TEXT 【Usami】
+<enT0680>"Yeah, that'll be our position."
+<ptT0680>"Yeah, that'll be our position."
+
+//TEXT 【Zakuro】
+<enT0681>"That's where we'll carry out the Spiral Matai?"
+<ptT0681>"That's where we'll carry out the Spiral Matai?"
+
+//TEXT 【Ayumi】
+<enT0682>"..."
+<ptT0682>"..."
+
+//TEXT 【Usami】
+<enT0683>"...Yes..."
+<ptT0683>"...Yes..."
+
+//TEXT 【Zakuro】
+<enT0684>"Tomorrow, at 6:42..."
+<ptT0684>"Tomorrow, at 6:42..."
+
+//TEXT
+<enT0685>When that time comes...
+<ptT0685>When that time comes...
+
+//TEXT
+<enT0686>My power will return, and I'll be able to save the world!
+<ptT0686>My power will return, and I'll be able to save the world!
+
+//TEXT 【Usami】
+<enT0687>"...Are you scared, Zakuro-chan?"
+<ptT0687>"...Are you scared, Zakuro-chan?"
+
+//TEXT 【Zakuro】
+<enT0688>"Scared? Why?"
+<ptT0688>"Scared? Why?"
+
+//TEXT 【Usami】
+<enT0689>"We're going to have a near-death experience..."
+<ptT0689>"We're going to have a near-death experience..."
+
+//TEXT 【Zakuro】
+<enT0690>"That is scary... but if we don't do it, we can't save the world."
+<ptT0690>"That is scary... but if we don't do it, we can't save the world."
+
+//TEXT 【Zakuro】
+<enT0691>"And we'll all be together..."
+<ptT0691>"And we'll all be together..."
+
+//TEXT 【Zakuro】
+<enT0692>"If we're all together, we'll be fine, no matter what!"
+<ptT0692>"If we're all together, we'll be fine, no matter what!"
+
+//TEXT 【Ayumi】
+<enT0693>"Za...kuro... chan..."
+<ptT0693>"Za...kuro... chan..."
+
+//TEXT 【Usami】
+<enT0694>"Zakuro-chan..."
+<ptT0694>"Zakuro-chan..."
+
+//TEXT 【Zakuro】
+<enT0695>"Then we'll meet here tomorrow at 6:30."
+<ptT0695>"Then we'll meet here tomorrow at 6:30."
+
+//TEXT
+<enT0696>Usami and Ayumi didn't say anything. They simply nodded their approval.
+<ptT0696>Usami and Ayumi didn't say anything. They simply nodded their approval.
+
+//TEXT 【Zakuro】
+<enT0697>"We're true friends... No matter what happens, we'll stick together..."
+<ptT0697>"We're true friends... No matter what happens, we'll stick together..."
+
+//TEXT
+<enT0698>That's right...
+<ptT0698>That's right...
+
+//TEXT
+<enT0699>I'm not wrong!
+<ptT0699>I'm not wrong!
+
+//TEXT
+<enT0700>The one who was wrong...
+<ptT0700>The one who was wrong...
+
+//TEXT
+<enT0701>The one who was wrong―!
+<ptT0701>The one who was wrong―!
+
+//TEXT
+<enT0702>Why I was born...
+<ptT0702>Why I was born...
+
+//TEXT
+<enT0703>Why I exist at all...
+<ptT0703>Why I exist at all...
+
+//TEXT
+<enT0704>Today, I found my raison d'etre.
+<ptT0704>Today, I found my raison d'etre.
+
+//TEXT
+<enT0705>Yes...
+<ptT0705>Yes...
+
+//TEXT
+<enT0706>I'm the warrior, sent here to save the world!
+<ptT0706>I'm the warrior, sent here to save the world!
+
+//TEXT
+<enT0707>Along with my allies...
+<ptT0707>Along with my allies...
+
+//TEXT
+<enT0708>Allies...
+<ptT0708>Allies...
+
+//TEXT
+<enT0709>Friends...
+<ptT0709>Friends...
+
+//TEXT
+<enT0710>True friends...
+<ptT0710>True friends...
+
+//TEXT
+<enT0711>Usami-chan... Golden Light, Angel Remover.
+<ptT0711>Usami-chan... Golden Light, Angel Remover.
+
+//TEXT
+<enT0712>Ayumi-chan... Azure Twinkling, Angel Night.
+<ptT0712>Ayumi-chan... Azure Twinkling, Angel Night.
+
+//TEXT
+<enT0713>I've finally found my true friends.
+<ptT0713>I've finally found my true friends.
+
+//TEXT
+<enT0714>I've never been so happy before in my life.
+<ptT0714>I've never been so happy before in my life.
+
+//TEXT
+<enT0715>I'm as happy as any human could ever be.
+<ptT0715>I'm as happy as any human could ever be.
+
+//TEXT
+<enT0716>I wonder if anyone else has ever been this happy?
+<ptT0716>I wonder if anyone else has ever been this happy?
+
+//TEXT
+<enT0717>I want to share this happiness with everyone...
+<ptT0717>I want to share this happiness with everyone...
+
+//TEXT
+<enT0718>That's how happy I feel.
+<ptT0718>That's how happy I feel.
+
+//TEXT 【Zakuro】
+<enT0719>"Ah!"
+<ptT0719>"Ah!"
+
+//TEXT
+<enT0720>I can see it clearly...
+<ptT0720>I can see it clearly...
+
+//TEXT
+<enT0721>The time of the world's destruction...
+<ptT0721>The time of the world's destruction...
+
+//TEXT
+<enT0722>The world will end in nine days.
+<ptT0722>The world will end in nine days.
+
+//TEXT
+<enT0723>I can't let that happen...
+<ptT0723>I can't let that happen...
+
+//TEXT
+<enT0724>I just met my friends...
+<ptT0724>I just met my friends...
+
+//TEXT
+<enT0725>I can't let my happiness end so soon...
+<ptT0725>I can't let my happiness end so soon...
+
+//TEXT
+<enT0726>A great, black shadow... covering the sky...
+<ptT0726>A great, black shadow... covering the sky...
+
+//TEXT
+<enT0727>An endless black gloom...
+<ptT0727>An endless black gloom...
+
+//TEXT
+<enT0728>Like the world's twilight...
+<ptT0728>Like the world's twilight...
+
+//TEXT
+<enT0729>A gloomy scene...
+<ptT0729>A gloomy scene...
+
+//TEXT 【Usami】
+<enT0730>"...Spiral Matai..."
+<ptT0730>"...Spiral Matai..."
+
+//TEXT
+<enT0731>Spiral Matai...
+<ptT0731>Spiral Matai...
+
+//TEXT
+<enT0732>If we just finish the Spiral Matai, I'll be able to recover my Extradimensional Powers!
+<ptT0732>If we just finish the Spiral Matai, I'll be able to recover my Extradimensional Powers!
+
+//TEXT
+<enT0733>And then...
+<ptT0733>And then...
+
+//TEXT
+<enT0734>Then I'll be able to save the world, and I'll be happy like this forever!
+<ptT0734>Then I'll be able to save the world, and I'll be happy like this forever!
+
+//TEXT 【Zakuro】
+<enT0735>"I..."
+<ptT0735>"I..."
+
+//TEXT 【Zakuro】
+<enT0736>"I have to save the world!"
+<ptT0736>"I have to save the world!"
+
+//TEXT
+<enT0737>But I wonder what my Extradimensional Powers were like?
+<ptT0737>But I wonder what my Extradimensional Powers were like?
+
+//TEXT 【Zakuro】
+<enT0738>"Will I be able to shoot pink energy blasts from my hands?"
+<ptT0738>"Will I be able to shoot pink energy blasts from my hands?"
+
+//TEXT 【Zakuro】
+<enT0739>"Like, pew pew pew...?"
+<ptT0739>"Like, pew pew pew...?"
+
+//TEXT 【Zakuro】
+<enT0740>"Ahahahaha..."
+<ptT0740>"Ahahahaha..."
+
+//TEXT
+<enT0741>Could I really save the world with something like that?
+<ptT0741>Could I really save the world with something like that?
+
+//TEXT
+<enT0742>No way...
+<ptT0742>No way...
+
+//TEXT
+<enT0743>It's gotta be something really amazing...
+<ptT0743>It's gotta be something really amazing...
+
+//TEXT
+<enT0744>There's no way it's something boring like shooting energy blasts.
+<ptT0744>There's no way it's something boring like shooting energy blasts.
+
+//TEXT
+<enT0745>Once I recover my power, I can save everyone.
+<ptT0745>Once I recover my power, I can save everyone.
+
+//TEXT
+<enT0746>Then they'll all be kind to me.
+<ptT0746>Then they'll all be kind to me.
+
+//TEXT
+<enT0747>My mother, and my classmates, and... Mamiya-kun, too.
+<ptT0747>My mother, and my classmates, and... Mamiya-kun, too.
+
+//TEXT
+<enT0748>It must have been the Specialized Physics Bug making him act like that when he was in the underground room.
+<ptT0748>It must have been the Specialized Physics Bug making him act like that when he was in the underground room.
+
+//TEXT
+<enT0749>Once we save the world, Mamiya-kun will go back to his smart, caring self.
+<ptT0749>Once we save the world, Mamiya-kun will go back to his smart, caring self.
+
+//TEXT
+<enT0750>And then...
+<ptT0750>And then...
+
+//TEXT 【Zakuro】
+<enT0751>"..."
+<ptT0751>"..."
+
+//TEXT 【Zakuro】
+<enT0752>"Kyaa!"
+<ptT0752>"Kyaa!"
+
+//TEXT
+<enT0753>We might finally be united.
+<ptT0753>We might finally be united.
+
+//TEXT
+<enT0754>Now that I think back on it... I'm pretty sure Usami-chan said something like this.
+<ptT0754>Now that I think back on it... I'm pretty sure Usami-chan said something like this.
+
+//TEXT 【Usami】
+<enT0755>"The memories of that experience will never go away..."
+<ptT0755>"The memories of that experience will never go away..."
+
+//TEXT 【Usami】
+<enT0756>"But... your body can be purified."
+<ptT0756>"But... your body can be purified."
+
+//TEXT 【Zakuro】
+<enT0757>"What do you mean?"
+<ptT0757>"What do you mean?"
+
+//TEXT 【Usami】
+<enT0758>"Spiral Matai allows you to transcend your physical form... You'll be able to leave your incomplete human body behind and be reborn as a full-fledged angel warrior."
+<ptT0758>"Spiral Matai allows you to transcend your physical form... You'll be able to leave your incomplete human body behind and be reborn as a full-fledged angel warrior."
+
+//TEXT 【Zakuro】
+<enT0759>"You mean..."
+<ptT0759>"You mean..."
+
+//TEXT 【Usami】
+<enT0760>"That's right. The body that they defiled will go back to normal. The only thing that will remain will be the memories."
+<ptT0760>"That's right. The body that they defiled will go back to normal. The only thing that will remain will be the memories."
+
+//TEXT 【Usami】
+<enT0761>"We'll know no more pain after that moment... when we're reborn..."
+<ptT0761>"We'll know no more pain after that moment... when we're reborn..."
+
+//TEXT 【Zakuro】
+<enT0762>"Reborn..."
+<ptT0762>"Reborn..."
+
+//TEXT 【Usami】
+<enT0763>"Yes."
+<ptT0763>"Yes."
+
+//TEXT 【Zakuro】
+<enT0764>"Oh..."
+<ptT0764>"Oh..."
+
+//TEXT 【Usami】
+<enT0765>"You have someone you love, don't you, Zakuro-chan?"
+<ptT0765>"You have someone you love, don't you, Zakuro-chan?"
+
+//TEXT 【Zakuro】
+<enT0766>"Huh? H-How do you know?"
+<ptT0766>"Huh? H-How do you know?"
+
+//TEXT 【Usami】
+<enT0767>"Before, when you said everyone would go back to their kind selves... you hesitated for just a moment."
+<ptT0767>"Before, when you said everyone would go back to their kind selves... you hesitated for just a moment."
+
+//TEXT 【Usami】
+<enT0768>"I thought you were probably remembering someone you loved."
+<ptT0768>"I thought you were probably remembering someone you loved."
+
+//TEXT 【Zakuro】
+<enT0769>"Th-That's, uh..."
+<ptT0769>"Th-That's, uh..."
+
+//TEXT 【Usami】
+<enT0770>"Ehehehe... That's normal."
+<ptT0770>"Ehehehe... That's normal."
+
+//TEXT 【Zakuro】
+<enT0771>"Usami-chan..."
+<ptT0771>"Usami-chan..."
+
+//TEXT 【Usami】
+<enT0772>"There's someone I love too... It was our fate to be united, but..."
+<ptT0772>"There's someone I love too... It was our fate to be united, but..."
+
+//TEXT 【Zakuro】
+<enT0773>"Fate?"
+<ptT0773>"Fate?"
+
+//TEXT 【Usami】
+<enT0774>"Ahahaha, in the past world, that is. We were engaged."
+<ptT0774>"Ahahaha, in the past world, that is. We were engaged."
+
+//TEXT 【Zakuro】
+<enT0775>"Engaged?"
+<ptT0775>"Engaged?"
+
+//TEXT 【Usami】
+<enT0776>"Yeah, we were going to be married in Elhimuro..."
+<ptT0776>"Yeah, we were going to be married in Elhimuro..."
+
+//TEXT 【Usami】
+<enT0777>"But..."
+<ptT0777>"But..."
+
+//TEXT 【Usami】
+<enT0778>"I had to fight the great disaster before we could be wed... and in the final battle, I gave my life to save the world."
+<ptT0778>"I had to fight the great disaster before we could be wed... and in the final battle, I gave my life to save the world."
+
+//TEXT 【Usami】
+<enT0779>"After that, he... he chased after my spirit for millions of years... Billions of years... Trillions of years he reincarnated, time and time again, searching for me..."
+<ptT0779>"After that, he... he chased after my spirit for millions of years... Billions of years... Trillions of years he reincarnated, time and time again, searching for me..."
+
+//TEXT 【Zakuro】
+<enT0780>"Trillions of years..."
+<ptT0780>"Trillions of years..."
+
+//TEXT
+<enT0781>That's longer than the universe has existed...
+<ptT0781>That's longer than the universe has existed...
+
+//TEXT 【Usami】
+<enT0782>"Yeah... and we finally met again in this world, but the evil people tore us apart once again."
+<ptT0782>"Yeah... and we finally met again in this world, but the evil people tore us apart once again."
+
+//TEXT 【Zakuro】
+<enT0783>"The evil people..."
+<ptT0783>"The evil people..."
+
+//TEXT 【Usami】
+<enT0784>"Yeah... Takanobu-kun is being tricked! It's that evil woman's fault! She's pure evil, and she seduced him!"
+<ptT0784>"Yeah... Takanobu-kun is being tricked! It's that evil woman's fault! She's pure evil, and she seduced him!"
+
+//TEXT 【Zakuro】
+<enT0785>"Oh..."
+<ptT0785>"Oh..."
+
+//TEXT 【Usami】
+<enT0786>"So... once this battle is over... he'll remember everything..."
+<ptT0786>"So... once this battle is over... he'll remember everything..."
+
+//TEXT 【Zakuro】
+<enT0787>"Yeah. Make sure you invite me to your wedding."
+<ptT0787>"Yeah. Make sure you invite me to your wedding."
+
+//TEXT 【Usami】
+<enT0788>"Yeah."
+<ptT0788>"Yeah."
+
+//TEXT 【Zakuro】
+<enT0789>"You've been waiting to get married for trillions of years... We have to win this time!"
+<ptT0789>"You've been waiting to get married for trillions of years... We have to win this time!"
+
+//TEXT 【Usami】
+<enT0790>"Yeah!"
+<ptT0790>"Yeah!"
+
+//TEXT 【Zakuro】
+<enT0791>"Yeah, once this battle is over... Once everything is peaceful, then we'll get married too..."
+<ptT0791>"Yeah, once this battle is over... Once everything is peaceful, then we'll get married too..."
+
+//TEXT 【Usami】
+<enT0792>"We'll return to our true bodies... and be able to face our loved ones again..."
+<ptT0792>"We'll return to our true bodies... and be able to face our loved ones again..."
+
+//TEXT 【Ayumi】
+<enT0793>"...Yeah... we will..."
+<ptT0793>"...Yeah... we will..."
+
+//TEXT 【Zakuro】
+<enT0794>"My dirty body will be clean again..."
+<ptT0794>"My dirty body will be clean again..."
+
+//TEXT 【Usami】
+<enT0795>"I'm sure it will."
+<ptT0795>"I'm sure it will."
+
+//TEXT 【Zakuro】
+<enT0796>"Let's do our best."
+<ptT0796>"Let's do our best."
+
+//TEXT
+<enT0797>After this all ends, I'll be able to...
+<ptT0797>After this all ends, I'll be able to...
+
+//TEXT
+<enT0798>I'll be able to face Mamiya-kun again.
+<ptT0798>I'll be able to face Mamiya-kun again.
+
+///================================================================================
+
+//OTHER
+<enZ0001>3_0711_trans.bss
+<ptZ0001>3_0711_trans.bss
+
+//OTHER
+<enZ0002>July 11th
+<ptZ0002>July 11th
+
+//OTHER
+<enZ0003>Looking-glass Insects
+<ptZ0003>Looking-glass Insects
+
+//OTHER
+<enZ0004>dayzk0711
+<ptZ0004>dayzk0711
+
+//OTHER
+<enZ0005>bg1006b
+<ptZ0005>bg1006b
+
+//OTHER
+<enZ0006>bgm109
+<ptZ0006>bgm109
+
+//OTHER
+<enZ0007>zaku_003557
+<ptZ0007>zaku_003557
+
+//OTHER
+<enZ0008>zaku_003558
+<ptZ0008>zaku_003558
+
+//OTHER
+<enZ0009>zaku_003559
+<ptZ0009>zaku_003559
+
+//OTHER
+<enZ0010>Black
+<ptZ0010>Black
+
+//OTHER
+<enZ0011>map029
+<ptZ0011>map029
+
+//OTHER
+<enZ0012>bg1006c
+<ptZ0012>bg1006c
+
+//OTHER
+<enZ0013>zaku_003560
+<ptZ0013>zaku_003560
+
+//OTHER
+<enZ0014>aya_000823
+<ptZ0014>aya_000823
+
+//OTHER
+<enZ0015>zaku_003561
+<ptZ0015>zaku_003561
+
+//OTHER
+<enZ0016>ay0000a
+<ptZ0016>ay0000a
+
+//OTHER
+<enZ0017>bgm010
+<ptZ0017>bgm010
+
+//OTHER
+<enZ0018>zaku_003562
+<ptZ0018>zaku_003562
+
+//OTHER
+<enZ0019>ay0001a
+<ptZ0019>ay0001a
+
+//OTHER
+<enZ0020>aya_000824
+<ptZ0020>aya_000824
+
+//OTHER
+<enZ0021>zaku_003563
+<ptZ0021>zaku_003563
+
+//OTHER
+<enZ0022>ay0000
+<ptZ0022>ay0000
+
+//OTHER
+<enZ0023>aya_000825
+<ptZ0023>aya_000825
+
+//OTHER
+<enZ0024>zaku_003564
+<ptZ0024>zaku_003564
+
+//OTHER
+<enZ0025>sp0077
+<ptZ0025>sp0077
+
+//OTHER
+<enZ0026>zaku_003565
+<ptZ0026>zaku_003565
+
+//OTHER
+<enZ0027>zaku_003566
+<ptZ0027>zaku_003566
+
+//OTHER
+<enZ0028>zaku_003567
+<ptZ0028>zaku_003567
+
+//OTHER
+<enZ0029>zaku_003568
+<ptZ0029>zaku_003568
+
+//OTHER
+<enZ0030>zaku_003569
+<ptZ0030>zaku_003569
+
+//OTHER
+<enZ0031>sp0040a
+<ptZ0031>sp0040a
+
+//OTHER
+<enZ0032>zaku_003570
+<ptZ0032>zaku_003570
+
+//OTHER
+<enZ0033>zaku_003571
+<ptZ0033>zaku_003571
+
+//OTHER
+<enZ0034>aya_000826
+<ptZ0034>aya_000826
+
+//OTHER
+<enZ0035>zaku_003572
+<ptZ0035>zaku_003572
+
+//OTHER
+<enZ0036>aya_000827
+<ptZ0036>aya_000827
+
+//OTHER
+<enZ0037>zaku_003573
+<ptZ0037>zaku_003573
+
+//OTHER
+<enZ0038>sp0040c
+<ptZ0038>sp0040c
+
+//OTHER
+<enZ0039>zaku_003574
+<ptZ0039>zaku_003574
+
+//OTHER
+<enZ0040>zaku_003575
+<ptZ0040>zaku_003575
+
+//OTHER
+<enZ0041>aya_000828
+<ptZ0041>aya_000828
+
+//OTHER
+<enZ0042>zaku_003576
+<ptZ0042>zaku_003576
+
+//OTHER
+<enZ0043>aya_000829
+<ptZ0043>aya_000829
+
+//OTHER
+<enZ0044>zaku_003577
+<ptZ0044>zaku_003577
+
+//OTHER
+<enZ0045>aya_000830
+<ptZ0045>aya_000830
+
+//OTHER
+<enZ0046>zaku_003578
+<ptZ0046>zaku_003578
+
+//OTHER
+<enZ0047>aya_000831
+<ptZ0047>aya_000831
+
+//OTHER
+<enZ0048>zaku_003579
+<ptZ0048>zaku_003579
+
+//OTHER
+<enZ0049>aya_000832
+<ptZ0049>aya_000832
+
+//OTHER
+<enZ0050>zaku_003580
+<ptZ0050>zaku_003580
+
+//OTHER
+<enZ0051>aya_000833
+<ptZ0051>aya_000833
+
+//OTHER
+<enZ0052>zaku_003581
+<ptZ0052>zaku_003581
+
+//OTHER
+<enZ0053>zaku_003582
+<ptZ0053>zaku_003582
+
+//OTHER
+<enZ0054>aya_000834
+<ptZ0054>aya_000834
+
+//OTHER
+<enZ0055>zaku_003583
+<ptZ0055>zaku_003583
+
+//OTHER
+<enZ0056>aya_000835
+<ptZ0056>aya_000835
+
+//OTHER
+<enZ0057>zaku_003584
+<ptZ0057>zaku_003584
+
+//OTHER
+<enZ0058>aya_000836
+<ptZ0058>aya_000836
+
+//OTHER
+<enZ0059>zaku_003585
+<ptZ0059>zaku_003585
+
+//OTHER
+<enZ0060>aya_000837
+<ptZ0060>aya_000837
+
+//OTHER
+<enZ0061>ay0005a
+<ptZ0061>ay0005a
+
+//OTHER
+<enZ0062>zaku_003586
+<ptZ0062>zaku_003586
+
+//OTHER
+<enZ0063>zaku_003587
+<ptZ0063>zaku_003587
+
+//OTHER
+<enZ0064>aya_000838
+<ptZ0064>aya_000838
+
+//OTHER
+<enZ0065>zaku_003588
+<ptZ0065>zaku_003588
+
+//OTHER
+<enZ0066>aya_000839
+<ptZ0066>aya_000839
+
+//OTHER
+<enZ0067>zaku_003589
+<ptZ0067>zaku_003589
+
+//OTHER
+<enZ0068>aya_000840
+<ptZ0068>aya_000840
+
+//OTHER
+<enZ0069>zaku_003590
+<ptZ0069>zaku_003590
+
+//OTHER
+<enZ0070>ay0002
+<ptZ0070>ay0002
+
+//OTHER
+<enZ0071>aya_000841
+<ptZ0071>aya_000841
+
+//OTHER
+<enZ0072>zaku_003591
+<ptZ0072>zaku_003591
+
+//OTHER
+<enZ0073>zaku_003592
+<ptZ0073>zaku_003592
+
+//OTHER
+<enZ0074>aya_000842
+<ptZ0074>aya_000842
+
+//OTHER
+<enZ0075>zaku_003593
+<ptZ0075>zaku_003593
+
+//OTHER
+<enZ0076>aya_000843
+<ptZ0076>aya_000843
+
+//OTHER
+<enZ0077>zaku_003594
+<ptZ0077>zaku_003594
+
+//OTHER
+<enZ0078>ay0011a
+<ptZ0078>ay0011a
+
+//OTHER
+<enZ0079>aya_000844
+<ptZ0079>aya_000844
+
+//OTHER
+<enZ0080>zaku_003595
+<ptZ0080>zaku_003595
+
+//OTHER
+<enZ0081>zaku_003596
+<ptZ0081>zaku_003596
+
+//OTHER
+<enZ0082>map019
+<ptZ0082>map019
+
+//OTHER
+<enZ0083>zaku_003597
+<ptZ0083>zaku_003597
+
+//OTHER
+<enZ0084>usa_000015
+<ptZ0084>usa_000015
+
+//OTHER
+<enZ0085>zaku_003598
+<ptZ0085>zaku_003598
+
+//OTHER
+<enZ0086>usa_000016
+<ptZ0086>usa_000016
+
+//OTHER
+<enZ0087>zaku_003599
+<ptZ0087>zaku_003599
+
+//OTHER
+<enZ0088>map020
+<ptZ0088>map020
+
+//OTHER
+<enZ0089>us0000
+<ptZ0089>us0000
+
+//OTHER
+<enZ0090>usa_000017
+<ptZ0090>usa_000017
+
+//OTHER
+<enZ0091>zaku_003600
+<ptZ0091>zaku_003600
+
+//OTHER
+<enZ0092>us0004
+<ptZ0092>us0004
+
+//OTHER
+<enZ0093>usa_000018
+<ptZ0093>usa_000018
+
+//OTHER
+<enZ0094>zaku_003601
+<ptZ0094>zaku_003601
+
+//OTHER
+<enZ0095>bgm020
+<ptZ0095>bgm020
+
+//OTHER
+<enZ0096>usa_000019
+<ptZ0096>usa_000019
+
+//OTHER
+<enZ0097>zaku_003602
+<ptZ0097>zaku_003602
+
+//OTHER
+<enZ0098>us0001
+<ptZ0098>us0001
+
+//OTHER
+<enZ0099>usa_000020
+<ptZ0099>usa_000020
+
+//OTHER
+<enZ0100>us0003
+<ptZ0100>us0003
+
+//OTHER
+<enZ0101>usa_000021
+<ptZ0101>usa_000021
+
+//OTHER
+<enZ0102>zaku_003603
+<ptZ0102>zaku_003603
+
+//OTHER
+<enZ0103>usa_000022
+<ptZ0103>usa_000022
+
+//OTHER
+<enZ0104>zaku_003604
+<ptZ0104>zaku_003604
+
+//OTHER
+<enZ0105>usa_000023
+<ptZ0105>usa_000023
+
+//OTHER
+<enZ0106>zaku_003605
+<ptZ0106>zaku_003605
+
+//OTHER
+<enZ0107>usa_000024
+<ptZ0107>usa_000024
+
+//OTHER
+<enZ0108>usa_000025
+<ptZ0108>usa_000025
+
+//OTHER
+<enZ0109>zaku_003606
+<ptZ0109>zaku_003606
+
+//OTHER
+<enZ0110>usa_000026
+<ptZ0110>usa_000026
+
+//OTHER
+<enZ0111>zaku_003607
+<ptZ0111>zaku_003607
+
+//OTHER
+<enZ0112>usa_000027
+<ptZ0112>usa_000027
+
+//OTHER
+<enZ0113>zaku_003608
+<ptZ0113>zaku_003608
+
+//OTHER
+<enZ0114>us0006
+<ptZ0114>us0006
+
+//OTHER
+<enZ0115>usa_000028
+<ptZ0115>usa_000028
+
+//OTHER
+<enZ0116>zaku_003609
+<ptZ0116>zaku_003609
+
+//OTHER
+<enZ0117>usa_000029
+<ptZ0117>usa_000029
+
+//OTHER
+<enZ0118>zaku_003610
+<ptZ0118>zaku_003610
+
+//OTHER
+<enZ0119>usa_000030
+<ptZ0119>usa_000030
+
+//OTHER
+<enZ0120>zaku_003611
+<ptZ0120>zaku_003611
+
+//OTHER
+<enZ0121>usa_000031
+<ptZ0121>usa_000031
+
+//OTHER
+<enZ0122>zaku_003612
+<ptZ0122>zaku_003612
+
+//OTHER
+<enZ0123>usa_000032
+<ptZ0123>usa_000032
+
+//OTHER
+<enZ0124>zaku_003613
+<ptZ0124>zaku_003613
+
+//OTHER
+<enZ0125>usa_000033
+<ptZ0125>usa_000033
+
+//OTHER
+<enZ0126>zaku_003614
+<ptZ0126>zaku_003614
+
+//OTHER
+<enZ0127>usa_000034
+<ptZ0127>usa_000034
+
+//OTHER
+<enZ0128>zaku_003615
+<ptZ0128>zaku_003615
+
+//OTHER
+<enZ0129>usa_000035
+<ptZ0129>usa_000035
+
+//OTHER
+<enZ0130>zaku_003616
+<ptZ0130>zaku_003616
+
+//OTHER
+<enZ0131>usa_000036
+<ptZ0131>usa_000036
+
+//OTHER
+<enZ0132>zaku_003617
+<ptZ0132>zaku_003617
+
+//OTHER
+<enZ0133>usa_000037
+<ptZ0133>usa_000037
+
+//OTHER
+<enZ0134>zaku_003618
+<ptZ0134>zaku_003618
+
+//OTHER
+<enZ0135>zaku_003619
+<ptZ0135>zaku_003619
+
+//OTHER
+<enZ0136>usa_000038
+<ptZ0136>usa_000038
+
+//OTHER
+<enZ0137>zaku_003620
+<ptZ0137>zaku_003620
+
+//OTHER
+<enZ0138>usa_000039
+<ptZ0138>usa_000039
+
+//OTHER
+<enZ0139>zaku_003621
+<ptZ0139>zaku_003621
+
+//OTHER
+<enZ0140>ayu_000005
+<ptZ0140>ayu_000005
+
+//OTHER
+<enZ0141>us0008
+<ptZ0141>us0008
+
+//OTHER
+<enZ0142>zaku_003622
+<ptZ0142>zaku_003622
+
+//OTHER
+<enZ0143>aym0000
+<ptZ0143>aym0000
+
+//OTHER
+<enZ0144>zaku_003623
+<ptZ0144>zaku_003623
+
+//OTHER
+<enZ0145>us0002
+<ptZ0145>us0002
+
+//OTHER
+<enZ0146>usa_000040
+<ptZ0146>usa_000040
+
+//OTHER
+<enZ0147>zaku_003624
+<ptZ0147>zaku_003624
+
+//OTHER
+<enZ0148>usa_000041
+<ptZ0148>usa_000041
+
+//OTHER
+<enZ0149>aym0006
+<ptZ0149>aym0006
+
+//OTHER
+<enZ0150>ayu_000006
+<ptZ0150>ayu_000006
+
+//OTHER
+<enZ0151>zaku_003625
+<ptZ0151>zaku_003625
+
+//OTHER
+<enZ0152>aym0106
+<ptZ0152>aym0106
+
+//OTHER
+<enZ0153>ayu_000007
+<ptZ0153>ayu_000007
+
+//OTHER
+<enZ0154>usa_000042
+<ptZ0154>usa_000042
+
+//OTHER
+<enZ0155>zaku_003626
+<ptZ0155>zaku_003626
+
+//OTHER
+<enZ0156>aym0107
+<ptZ0156>aym0107
+
+//OTHER
+<enZ0157>ayu_000008
+<ptZ0157>ayu_000008
+
+//OTHER
+<enZ0158>zaku_003627
+<ptZ0158>zaku_003627
+
+//OTHER
+<enZ0159>ayu_000009
+<ptZ0159>ayu_000009
+
+//OTHER
+<enZ0160>zaku_003628
+<ptZ0160>zaku_003628
+
+//OTHER
+<enZ0161>aym0009
+<ptZ0161>aym0009
+
+//OTHER
+<enZ0162>ayu_000010
+<ptZ0162>ayu_000010
+
+//OTHER
+<enZ0163>usa_000043
+<ptZ0163>usa_000043
+
+//OTHER
+<enZ0164>ayu_000011
+<ptZ0164>ayu_000011
+
+//OTHER
+<enZ0165>zaku_003629
+<ptZ0165>zaku_003629
+
+//OTHER
+<enZ0166>zaku_003630
+<ptZ0166>zaku_003630
+
+//OTHER
+<enZ0167>usa_000044
+<ptZ0167>usa_000044
+
+//OTHER
+<enZ0168>ayu_000012
+<ptZ0168>ayu_000012
+
+//OTHER
+<enZ0169>usa_000045
+<ptZ0169>usa_000045
+
+//OTHER
+<enZ0170>usa_000046
+<ptZ0170>usa_000046
+
+//OTHER
+<enZ0171>zaku_003631
+<ptZ0171>zaku_003631
+
+//OTHER
+<enZ0172>usa_000047
+<ptZ0172>usa_000047
+
+//OTHER
+<enZ0173>zaku_003632
+<ptZ0173>zaku_003632
+
+//OTHER
+<enZ0174>map009
+<ptZ0174>map009
+
+//OTHER
+<enZ0175>ev8017
+<ptZ0175>ev8017
+
+//OTHER
+<enZ0176>bgm008
+<ptZ0176>bgm008
+
+//OTHER
+<enZ0177>zaku_003633
+<ptZ0177>zaku_003633
+
+//OTHER
+<enZ0178>usa_000048
+<ptZ0178>usa_000048
+
+//OTHER
+<enZ0179>zaku_003634
+<ptZ0179>zaku_003634
+
+//OTHER
+<enZ0180>usa_000049
+<ptZ0180>usa_000049
+
+//OTHER
+<enZ0181>zaku_003635
+<ptZ0181>zaku_003635
+
+//OTHER
+<enZ0182>usa_000050
+<ptZ0182>usa_000050
+
+//OTHER
+<enZ0183>zaku_003636
+<ptZ0183>zaku_003636
+
+//OTHER
+<enZ0184>zaku_003637
+<ptZ0184>zaku_003637
+
+//OTHER
+<enZ0185>zaku_003638
+<ptZ0185>zaku_003638
+
+//OTHER
+<enZ0186>zaku_003639
+<ptZ0186>zaku_003639
+
+//OTHER
+<enZ0187>usa_000051
+<ptZ0187>usa_000051
+
+//OTHER
+<enZ0188>zaku_003640
+<ptZ0188>zaku_003640
+
+//OTHER
+<enZ0189>usa_000052
+<ptZ0189>usa_000052
+
+//OTHER
+<enZ0190>zaku_003641
+<ptZ0190>zaku_003641
+
+//OTHER
+<enZ0191>usa_000053
+<ptZ0191>usa_000053
+
+//OTHER
+<enZ0192>zaku_003642
+<ptZ0192>zaku_003642
+
+//OTHER
+<enZ0193>usa_000054
+<ptZ0193>usa_000054
+
+//OTHER
+<enZ0194>zaku_003643
+<ptZ0194>zaku_003643
+
+//OTHER
+<enZ0195>zaku_003644
+<ptZ0195>zaku_003644
+
+//OTHER
+<enZ0196>usa_000055
+<ptZ0196>usa_000055
+
+//OTHER
+<enZ0197>zaku_003645
+<ptZ0197>zaku_003645
+
+//OTHER
+<enZ0198>usa_000056
+<ptZ0198>usa_000056
+
+//OTHER
+<enZ0199>zaku_003646
+<ptZ0199>zaku_003646
+
+//OTHER
+<enZ0200>usa_000057
+<ptZ0200>usa_000057
+
+//OTHER
+<enZ0201>zaku_003647
+<ptZ0201>zaku_003647
+
+//OTHER
+<enZ0202>usa_000058
+<ptZ0202>usa_000058
+
+//OTHER
+<enZ0203>usa_000059
+<ptZ0203>usa_000059
+
+//OTHER
+<enZ0204>usa_000060
+<ptZ0204>usa_000060
+
+//OTHER
+<enZ0205>usa_000061
+<ptZ0205>usa_000061
+
+//OTHER
+<enZ0206>zaku_003648
+<ptZ0206>zaku_003648
+
+//OTHER
+<enZ0207>usa_000062
+<ptZ0207>usa_000062
+
+//OTHER
+<enZ0208>zaku_003649
+<ptZ0208>zaku_003649
+
+//OTHER
+<enZ0209>zaku_003650
+<ptZ0209>zaku_003650
+
+//OTHER
+<enZ0210>usa_000063
+<ptZ0210>usa_000063
+
+//OTHER
+<enZ0211>zaku_003651
+<ptZ0211>zaku_003651
+
+//OTHER
+<enZ0212>zaku_003652
+<ptZ0212>zaku_003652
+
+//OTHER
+<enZ0213>usa_000064
+<ptZ0213>usa_000064
+
+//OTHER
+<enZ0214>zaku_003653
+<ptZ0214>zaku_003653
+
+//OTHER
+<enZ0215>usa_000065
+<ptZ0215>usa_000065
+
+//OTHER
+<enZ0216>zaku_003654
+<ptZ0216>zaku_003654
+
+//OTHER
+<enZ0217>usa_000066
+<ptZ0217>usa_000066
+
+//OTHER
+<enZ0218>zaku_003655
+<ptZ0218>zaku_003655
+
+//OTHER
+<enZ0219>usa_000067
+<ptZ0219>usa_000067
+
+//OTHER
+<enZ0220>zaku_003656
+<ptZ0220>zaku_003656
+
+//OTHER
+<enZ0221>zaku_003657
+<ptZ0221>zaku_003657
+
+//OTHER
+<enZ0222>zaku_003658
+<ptZ0222>zaku_003658
+
+//OTHER
+<enZ0223>usa_000068
+<ptZ0223>usa_000068
+
+//OTHER
+<enZ0224>zaku_003659
+<ptZ0224>zaku_003659
+
+//OTHER
+<enZ0225>usa_000069
+<ptZ0225>usa_000069
+
+//OTHER
+<enZ0226>zaku_003660
+<ptZ0226>zaku_003660
+
+//OTHER
+<enZ0227>usa_000070
+<ptZ0227>usa_000070
+
+//OTHER
+<enZ0228>zaku_003661
+<ptZ0228>zaku_003661
+
+//OTHER
+<enZ0229>usa_000071
+<ptZ0229>usa_000071
+
+//OTHER
+<enZ0230>zaku_003662
+<ptZ0230>zaku_003662
+
+//OTHER
+<enZ0231>usa_000072
+<ptZ0231>usa_000072
+
+//OTHER
+<enZ0232>usa_000073
+<ptZ0232>usa_000073
+
+//OTHER
+<enZ0233>usa_000074
+<ptZ0233>usa_000074
+
+//OTHER
+<enZ0234>zaku_003663
+<ptZ0234>zaku_003663
+
+//OTHER
+<enZ0235>usa_000075
+<ptZ0235>usa_000075
+
+//OTHER
+<enZ0236>zaku_003664
+<ptZ0236>zaku_003664
+
+//OTHER
+<enZ0237>bgm112
+<ptZ0237>bgm112
+
+//OTHER
+<enZ0238>usa_000076
+<ptZ0238>usa_000076
+
+//OTHER
+<enZ0239>usa_000077
+<ptZ0239>usa_000077
+
+//OTHER
+<enZ0240>usa_000078
+<ptZ0240>usa_000078
+
+//OTHER
+<enZ0241>zaku_003665
+<ptZ0241>zaku_003665
+
+//OTHER
+<enZ0242>usa_000079
+<ptZ0242>usa_000079
+
+//OTHER
+<enZ0243>usa_000080
+<ptZ0243>usa_000080
+
+//OTHER
+<enZ0244>usa_000081
+<ptZ0244>usa_000081
+
+//OTHER
+<enZ0245>zaku_003666
+<ptZ0245>zaku_003666
+
+//OTHER
+<enZ0246>usa_000082
+<ptZ0246>usa_000082
+
+//OTHER
+<enZ0247>usa_000083
+<ptZ0247>usa_000083
+
+//OTHER
+<enZ0248>usa_000084
+<ptZ0248>usa_000084
+
+//OTHER
+<enZ0249>usa_000085
+<ptZ0249>usa_000085
+
+//OTHER
+<enZ0250>zaku_003667
+<ptZ0250>zaku_003667
+
+//OTHER
+<enZ0251>usa_000086
+<ptZ0251>usa_000086
+
+//OTHER
+<enZ0252>zaku_003668
+<ptZ0252>zaku_003668
+
+//OTHER
+<enZ0253>usa_000087
+<ptZ0253>usa_000087
+
+//OTHER
+<enZ0254>ayu_000013
+<ptZ0254>ayu_000013
+
+//OTHER
+<enZ0255>usa_000088
+<ptZ0255>usa_000088
+
+//OTHER
+<enZ0256>ev8018
+<ptZ0256>ev8018
+
+//OTHER
+<enZ0257>bgm025
+<ptZ0257>bgm025
+
+//OTHER
+<enZ0258>zaku_003669
+<ptZ0258>zaku_003669
+
+//OTHER
+<enZ0259>zaku_003670
+<ptZ0259>zaku_003670
+
+//OTHER
+<enZ0260>usa_000089
+<ptZ0260>usa_000089
+
+//OTHER
+<enZ0261>zaku_003671
+<ptZ0261>zaku_003671
+
+//OTHER
+<enZ0262>ayu_000014
+<ptZ0262>ayu_000014
+
+//OTHER
+<enZ0263>zaku_003672
+<ptZ0263>zaku_003672
+
+//OTHER
+<enZ0264>ayu_000015
+<ptZ0264>ayu_000015
+
+//OTHER
+<enZ0265>zaku_003673
+<ptZ0265>zaku_003673
+
+//OTHER
+<enZ0266>ayu_000016
+<ptZ0266>ayu_000016
+
+//OTHER
+<enZ0267>bad_000001
+<ptZ0267>bad_000001
+
+//OTHER
+<enZ0268>ayu_000017
+<ptZ0268>ayu_000017
+
+//OTHER
+<enZ0269>usa_000090
+<ptZ0269>usa_000090
+
+//OTHER
+<enZ0270>ayu_000018
+<ptZ0270>ayu_000018
+
+//OTHER
+<enZ0271>usa_000091
+<ptZ0271>usa_000091
+
+//OTHER
+<enZ0272>zaku_003674
+<ptZ0272>zaku_003674
+
+//OTHER
+<enZ0273>zaku_003675
+<ptZ0273>zaku_003675
+
+//OTHER
+<enZ0274>zaku_003676
+<ptZ0274>zaku_003676
+
+//OTHER
+<enZ0275>zaku_003677
+<ptZ0275>zaku_003677
+
+//OTHER
+<enZ0276>usa_000092
+<ptZ0276>usa_000092
+
+//OTHER
+<enZ0277>zaku_003678
+<ptZ0277>zaku_003678
+
+//OTHER
+<enZ0278>zaku_003679
+<ptZ0278>zaku_003679
+
+//OTHER
+<enZ0279>ayu_000019
+<ptZ0279>ayu_000019
+
+//OTHER
+<enZ0280>zaku_003680
+<ptZ0280>zaku_003680
+
+//OTHER
+<enZ0281>usa_000093
+<ptZ0281>usa_000093
+
+//OTHER
+<enZ0282>zaku_003681
+<ptZ0282>zaku_003681
+
+//OTHER
+<enZ0283>usa_000094
+<ptZ0283>usa_000094
+
+//OTHER
+<enZ0284>zaku_003682
+<ptZ0284>zaku_003682
+
+//OTHER
+<enZ0285>usa_000095
+<ptZ0285>usa_000095
+
+//OTHER
+<enZ0286>ayu_000020
+<ptZ0286>ayu_000020
+
+//OTHER
+<enZ0287>zaku_003683
+<ptZ0287>zaku_003683
+
+//OTHER
+<enZ0288>usa_000096
+<ptZ0288>usa_000096
+
+//OTHER
+<enZ0289>usa_000097
+<ptZ0289>usa_000097
+
+//OTHER
+<enZ0290>usa_000098
+<ptZ0290>usa_000098
+
+//OTHER
+<enZ0291>zaku_003684
+<ptZ0291>zaku_003684
+
+//OTHER
+<enZ0292>usa_000099
+<ptZ0292>usa_000099
+
+//OTHER
+<enZ0293>usa_000100
+<ptZ0293>usa_000100
+
+//OTHER
+<enZ0294>zaku_003685
+<ptZ0294>zaku_003685
+
+//OTHER
+<enZ0295>usa_000101
+<ptZ0295>usa_000101
+
+//OTHER
+<enZ0296>usa_000102
+<ptZ0296>usa_000102
+
+//OTHER
+<enZ0297>usa_000103
+<ptZ0297>usa_000103
+
+//OTHER
+<enZ0298>usa_000104
+<ptZ0298>usa_000104
+
+//OTHER
+<enZ0299>usa_000105
+<ptZ0299>usa_000105
+
+//OTHER
+<enZ0300>zaku_003686
+<ptZ0300>zaku_003686
+
+//OTHER
+<enZ0301>usa_000106
+<ptZ0301>usa_000106
+
+//OTHER
+<enZ0302>zaku_003687
+<ptZ0302>zaku_003687
+
+//OTHER
+<enZ0303>usa_000107
+<ptZ0303>usa_000107
+
+//OTHER
+<enZ0304>zaku_003688
+<ptZ0304>zaku_003688
+
+//OTHER
+<enZ0305>usa_000108
+<ptZ0305>usa_000108
+
+//OTHER
+<enZ0306>zaku_003689
+<ptZ0306>zaku_003689
+
+//OTHER
+<enZ0307>zaku_003690
+<ptZ0307>zaku_003690
+
+//OTHER
+<enZ0308>usa_000109
+<ptZ0308>usa_000109
+
+//OTHER
+<enZ0309>zaku_003691
+<ptZ0309>zaku_003691
+
+//OTHER
+<enZ0310>usa_000110
+<ptZ0310>usa_000110
+
+//OTHER
+<enZ0311>zaku_003692
+<ptZ0311>zaku_003692
+
+//OTHER
+<enZ0312>usa_000111
+<ptZ0312>usa_000111
+
+//OTHER
+<enZ0313>usa_000112
+<ptZ0313>usa_000112
+
+//OTHER
+<enZ0314>usa_000113
+<ptZ0314>usa_000113
+
+//OTHER
+<enZ0315>zaku_003693
+<ptZ0315>zaku_003693
+
+//OTHER
+<enZ0316>usa_000114
+<ptZ0316>usa_000114
+
+//OTHER
+<enZ0317>zaku_003694
+<ptZ0317>zaku_003694
+
+//OTHER
+<enZ0318>usa_000115
+<ptZ0318>usa_000115
+
+//OTHER
+<enZ0319>zaku_003695
+<ptZ0319>zaku_003695
+
+//OTHER
+<enZ0320>zaku_003696
+<ptZ0320>zaku_003696
+
+//OTHER
+<enZ0321>zaku_003697
+<ptZ0321>zaku_003697
+
+//OTHER
+<enZ0322>usa_000116
+<ptZ0322>usa_000116
+
+//OTHER
+<enZ0323>zaku_003698
+<ptZ0323>zaku_003698
+
+//OTHER
+<enZ0324>usa_000117
+<ptZ0324>usa_000117
+
+//OTHER
+<enZ0325>usa_000118
+<ptZ0325>usa_000118
+
+//OTHER
+<enZ0326>usa_000119
+<ptZ0326>usa_000119
+
+//OTHER
+<enZ0327>usa_000120
+<ptZ0327>usa_000120
+
+//OTHER
+<enZ0328>zaku_003699
+<ptZ0328>zaku_003699
+
+//OTHER
+<enZ0329>usa_000121
+<ptZ0329>usa_000121
+
+//OTHER
+<enZ0330>zaku_003700
+<ptZ0330>zaku_003700
+
+//OTHER
+<enZ0331>ev1107a
+<ptZ0331>ev1107a
+
+//OTHER
+<enZ0332>zaku_003701
+<ptZ0332>zaku_003701
+
+//OTHER
+<enZ0333>usa_000122
+<ptZ0333>usa_000122
+
+//OTHER
+<enZ0334>ayu_000021
+<ptZ0334>ayu_000021
+
+//OTHER
+<enZ0335>zaku_003702
+<ptZ0335>zaku_003702
+
+//OTHER
+<enZ0336>usa_000123
+<ptZ0336>usa_000123
+
+//OTHER
+<enZ0337>usa_000124
+<ptZ0337>usa_000124
+
+//OTHER
+<enZ0338>ayu_000022
+<ptZ0338>ayu_000022
+
+//OTHER
+<enZ0339>zaku_003703
+<ptZ0339>zaku_003703
+
+//OTHER
+<enZ0340>map027
+<ptZ0340>map027
+
+//OTHER
+<enZ0341>zaku_003704
+<ptZ0341>zaku_003704
+
+//OTHER
+<enZ0342>ev8107a
+<ptZ0342>ev8107a
+
+//OTHER
+<enZ0343>bgm011
+<ptZ0343>bgm011
+
+//OTHER
+<enZ0344>josid_000003
+<ptZ0344>josid_000003
+
+//OTHER
+<enZ0345>ayu_000023
+<ptZ0345>ayu_000023
+
+//OTHER
+<enZ0346>se003
+<ptZ0346>se003
+
+//OTHER
+<enZ0347>josie_000003
+<ptZ0347>josie_000003
+
+//OTHER
+<enZ0348>ayu_000024
+<ptZ0348>ayu_000024
+
+//OTHER
+<enZ0349>josif_000002
+<ptZ0349>josif_000002
+
+//OTHER
+<enZ0350>josif_000003
+<ptZ0350>josif_000003
+
+//OTHER
+<enZ0351>josid_000004
+<ptZ0351>josid_000004
+
+//OTHER
+<enZ0352>ayu_000025
+<ptZ0352>ayu_000025
+
+//OTHER
+<enZ0353>josid_000005
+<ptZ0353>josid_000005
+
+//OTHER
+<enZ0354>ayu_000026
+<ptZ0354>ayu_000026
+
+//OTHER
+<enZ0355>josie_000004
+<ptZ0355>josie_000004
+
+//OTHER
+<enZ0356>josif_000004
+<ptZ0356>josif_000004
+
+//OTHER
+<enZ0357>ayu_000027
+<ptZ0357>ayu_000027
+
+//OTHER
+<enZ0358>josif_000005
+<ptZ0358>josif_000005
+
+//OTHER
+<enZ0359>ayu_000028
+<ptZ0359>ayu_000028
+
+//OTHER
+<enZ0360>josid_000006
+<ptZ0360>josid_000006
+
+//OTHER
+<enZ0361>ayu_000029
+<ptZ0361>ayu_000029
+
+//OTHER
+<enZ0362>ayu_000030
+<ptZ0362>ayu_000030
+
+//OTHER
+<enZ0363>josie_000005
+<ptZ0363>josie_000005
+
+//OTHER
+<enZ0364>josid_000007
+<ptZ0364>josid_000007
+
+//OTHER
+<enZ0365>josif_000006
+<ptZ0365>josif_000006
+
+//OTHER
+<enZ0366>ayu_000031
+<ptZ0366>ayu_000031
+
+//OTHER
+<enZ0367>josid_000008
+<ptZ0367>josid_000008
+
+//OTHER
+<enZ0368>ayu_000032
+<ptZ0368>ayu_000032
+
+//OTHER
+<enZ0369>ayu_000033
+<ptZ0369>ayu_000033
+
+//OTHER
+<enZ0370>ayu_000034
+<ptZ0370>ayu_000034
+
+//OTHER
+<enZ0371>se030
+<ptZ0371>se030
+
+//OTHER
+<enZ0372>white
+<ptZ0372>white
+
+//OTHER
+<enZ0373>ayu_000035
+<ptZ0373>ayu_000035
+
+//OTHER
+<enZ0374>ayu_000036
+<ptZ0374>ayu_000036
+
+//OTHER
+<enZ0375>ayu_000037
+<ptZ0375>ayu_000037
+
+//OTHER
+<enZ0376>josid_000009
+<ptZ0376>josid_000009
+
+//OTHER
+<enZ0377>ayu_000038
+<ptZ0377>ayu_000038
+
+//OTHER
+<enZ0378>josid_000010
+<ptZ0378>josid_000010
+
+//OTHER
+<enZ0379>ayu_000039
+<ptZ0379>ayu_000039
+
+//OTHER
+<enZ0380>josid_000011
+<ptZ0380>josid_000011
+
+//OTHER
+<enZ0381>josid_000012
+<ptZ0381>josid_000012
+
+//OTHER
+<enZ0382>ayu_000040
+<ptZ0382>ayu_000040
+
+//OTHER
+<enZ0383>josid_000013
+<ptZ0383>josid_000013
+
+//OTHER
+<enZ0384>josie_000006
+<ptZ0384>josie_000006
+
+//OTHER
+<enZ0385>josid_000014
+<ptZ0385>josid_000014
+
+//OTHER
+<enZ0386>ayu_000041
+<ptZ0386>ayu_000041
+
+//OTHER
+<enZ0387>josid_000015
+<ptZ0387>josid_000015
+
+//OTHER
+<enZ0388>ayu_000042
+<ptZ0388>ayu_000042
+
+//OTHER
+<enZ0389>ayu_000043
+<ptZ0389>ayu_000043
+
+//OTHER
+<enZ0390>josif_000007
+<ptZ0390>josif_000007
+
+//OTHER
+<enZ0391>josie_000007
+<ptZ0391>josie_000007
+
+//OTHER
+<enZ0392>ev8107b
+<ptZ0392>ev8107b
+
+//OTHER
+<enZ0393>ayu_000044
+<ptZ0393>ayu_000044
+
+//OTHER
+<enZ0394>josie_000008
+<ptZ0394>josie_000008
+
+//OTHER
+<enZ0395>ayu_000045
+<ptZ0395>ayu_000045
+
+//OTHER
+<enZ0396>josie_000009
+<ptZ0396>josie_000009
+
+//OTHER
+<enZ0397>josif_000008
+<ptZ0397>josif_000008
+
+//OTHER
+<enZ0398>josie_000010
+<ptZ0398>josie_000010
+
+//OTHER
+<enZ0399>ayu_000046
+<ptZ0399>ayu_000046
+
+//OTHER
+<enZ0400>josie_000011
+<ptZ0400>josie_000011
+
+//OTHER
+<enZ0401>ev8107c
+<ptZ0401>ev8107c
+
+//OTHER
+<enZ0402>se638
+<ptZ0402>se638
+
+//OTHER
+<enZ0403>josid_000016
+<ptZ0403>josid_000016
+
+//OTHER
+<enZ0404>josie_000012
+<ptZ0404>josie_000012
+
+//OTHER
+<enZ0405>josif_000009
+<ptZ0405>josif_000009
+
+//OTHER
+<enZ0406>josid_000017
+<ptZ0406>josid_000017
+
+//OTHER
+<enZ0407>ayu_000047
+<ptZ0407>ayu_000047
+
+//OTHER
+<enZ0408>ev8107d
+<ptZ0408>ev8107d
+
+//OTHER
+<enZ0409>josif_000010
+<ptZ0409>josif_000010
+
+//OTHER
+<enZ0410>josid_000018
+<ptZ0410>josid_000018
+
+//OTHER
+<enZ0411>josie_000013
+<ptZ0411>josie_000013
+
+//OTHER
+<enZ0412>josid_000019
+<ptZ0412>josid_000019
+
+//OTHER
+<enZ0413>josif_000011
+<ptZ0413>josif_000011
+
+//OTHER
+<enZ0414>ayu_000048
+<ptZ0414>ayu_000048
+
+//OTHER
+<enZ0415>josid_000020
+<ptZ0415>josid_000020
+
+//OTHER
+<enZ0416>josie_000014
+<ptZ0416>josie_000014
+
+//OTHER
+<enZ0417>josie_000015
+<ptZ0417>josie_000015
+
+//OTHER
+<enZ0418>josie_000016
+<ptZ0418>josie_000016
+
+//OTHER
+<enZ0419>ayu_000049
+<ptZ0419>ayu_000049
+
+//OTHER
+<enZ0420>ayu_000050
+<ptZ0420>ayu_000050
+
+//OTHER
+<enZ0421>ayu_000051
+<ptZ0421>ayu_000051
+
+//OTHER
+<enZ0422>josif_000012
+<ptZ0422>josif_000012
+
+//OTHER
+<enZ0423>josif_000013
+<ptZ0423>josif_000013
+
+//OTHER
+<enZ0424>ayu_000052
+<ptZ0424>ayu_000052
+
+//OTHER
+<enZ0425>josif_000014
+<ptZ0425>josif_000014
+
+//OTHER
+<enZ0426>josie_000017
+<ptZ0426>josie_000017
+
+//OTHER
+<enZ0427>josif_000015
+<ptZ0427>josif_000015
+
+//OTHER
+<enZ0428>josie_000018
+<ptZ0428>josie_000018
+
+//OTHER
+<enZ0429>josif_000016
+<ptZ0429>josif_000016
+
+//OTHER
+<enZ0430>josie_000019
+<ptZ0430>josie_000019
+
+//OTHER
+<enZ0431>ev8108
+<ptZ0431>ev8108
+
+//OTHER
+<enZ0432>ayu_000053
+<ptZ0432>ayu_000053
+
+//OTHER
+<enZ0433>ayu_000054
+<ptZ0433>ayu_000054
+
+//OTHER
+<enZ0434>josie_000020
+<ptZ0434>josie_000020
+
+//OTHER
+<enZ0435>josif_000017
+<ptZ0435>josif_000017
+
+//OTHER
+<enZ0436>josid_000021
+<ptZ0436>josid_000021
+
+//OTHER
+<enZ0437>ayu_000055
+<ptZ0437>ayu_000055
+
+//OTHER
+<enZ0438>ayu_000056
+<ptZ0438>ayu_000056
+
+//OTHER
+<enZ0439>josie_000021
+<ptZ0439>josie_000021
+
+//OTHER
+<enZ0440>josid_000022
+<ptZ0440>josid_000022
+
+//OTHER
+<enZ0441>bgm007
+<ptZ0441>bgm007
+
+//OTHER
+<enZ0442>zaku_003705
+<ptZ0442>zaku_003705
+
+//OTHER
+<enZ0443>zaku_003706
+<ptZ0443>zaku_003706
+
+//OTHER
+<enZ0444>zaku_003707
+<ptZ0444>zaku_003707
+
+//OTHER
+<enZ0445>usa_000125
+<ptZ0445>usa_000125
+
+//OTHER
+<enZ0446>usa_000126
+<ptZ0446>usa_000126
+
+//OTHER
+<enZ0447>usa_000127
+<ptZ0447>usa_000127
+
+//OTHER
+<enZ0448>ayu_000057
+<ptZ0448>ayu_000057
+
+//OTHER
+<enZ0449>zaku_003708
+<ptZ0449>zaku_003708
+
+//OTHER
+<enZ0450>zaku_003709
+<ptZ0450>zaku_003709
+
+//OTHER
+<enZ0451>usa_000128
+<ptZ0451>usa_000128
+
+//OTHER
+<enZ0452>ayu_000058
+<ptZ0452>ayu_000058
+
+//OTHER
+<enZ0453>zaku_003710
+<ptZ0453>zaku_003710
+
+//OTHER
+<enZ0454>usa_000129
+<ptZ0454>usa_000129
+
+//OTHER
+<enZ0455>usa_000130
+<ptZ0455>usa_000130
+
+//OTHER
+<enZ0456>zaku_003711
+<ptZ0456>zaku_003711
+
+//OTHER
+<enZ0457>usa_000131
+<ptZ0457>usa_000131
+
+//OTHER
+<enZ0458>zaku_003712
+<ptZ0458>zaku_003712
+
+//OTHER
+<enZ0459>usa_000132
+<ptZ0459>usa_000132
+
+//OTHER
+<enZ0460>ev6009c
+<ptZ0460>ev6009c
+
+//OTHER
+<enZ0461>zaku_003713
+<ptZ0461>zaku_003713
+
+//OTHER
+<enZ0462>usa_000133
+<ptZ0462>usa_000133
+
+//OTHER
+<enZ0463>ayu_000059
+<ptZ0463>ayu_000059
+
+//OTHER
+<enZ0464>zaku_003714
+<ptZ0464>zaku_003714
+
+//OTHER
+<enZ0465>usa_000134
+<ptZ0465>usa_000134
+
+//OTHER
+<enZ0466>usa_000135
+<ptZ0466>usa_000135
+
+//OTHER
+<enZ0467>sp0076a
+<ptZ0467>sp0076a
+
+//OTHER
+<enZ0468>map032
+<ptZ0468>map032
+
+//OTHER
+<enZ0469>usa_000136
+<ptZ0469>usa_000136
+
+//OTHER
+<enZ0470>zaku_003715
+<ptZ0470>zaku_003715
+
+//OTHER
+<enZ0471>usa_000137
+<ptZ0471>usa_000137
+
+//OTHER
+<enZ0472>usa_000138
+<ptZ0472>usa_000138
+
+//OTHER
+<enZ0473>zaku_003716
+<ptZ0473>zaku_003716
+
+//OTHER
+<enZ0474>usa_000139
+<ptZ0474>usa_000139
+
+//OTHER
+<enZ0475>zaku_003717
+<ptZ0475>zaku_003717
+
+//OTHER
+<enZ0476>zaku_003718
+<ptZ0476>zaku_003718
+
+//OTHER
+<enZ0477>usa_000140
+<ptZ0477>usa_000140
+
+//OTHER
+<enZ0478>zaku_003719
+<ptZ0478>zaku_003719
+
+//OTHER
+<enZ0479>usa_000141
+<ptZ0479>usa_000141
+
+//OTHER
+<enZ0480>usa_000142
+<ptZ0480>usa_000142
+
+//OTHER
+<enZ0481>usa_000143
+<ptZ0481>usa_000143
+
+//OTHER
+<enZ0482>zaku_003720
+<ptZ0482>zaku_003720
+
+//OTHER
+<enZ0483>usa_000144
+<ptZ0483>usa_000144
+
+//OTHER
+<enZ0484>usa_000145
+<ptZ0484>usa_000145
+
+//OTHER
+<enZ0485>zaku_003721
+<ptZ0485>zaku_003721
+
+//OTHER
+<enZ0486>usa_000146
+<ptZ0486>usa_000146
+
+//OTHER
+<enZ0487>zaku_003722
+<ptZ0487>zaku_003722
+
+//OTHER
+<enZ0488>usa_000147
+<ptZ0488>usa_000147
+
+//OTHER
+<enZ0489>usa_000148
+<ptZ0489>usa_000148
+
+//OTHER
+<enZ0490>zaku_003723
+<ptZ0490>zaku_003723
+
+//OTHER
+<enZ0491>usa_000149
+<ptZ0491>usa_000149
+
+//OTHER
+<enZ0492>usa_000150
+<ptZ0492>usa_000150
+
+//OTHER
+<enZ0493>usa_000151
+<ptZ0493>usa_000151
+
+//OTHER
+<enZ0494>usa_000152
+<ptZ0494>usa_000152
+
+//OTHER
+<enZ0495>usa_000153
+<ptZ0495>usa_000153
+
+//OTHER
+<enZ0496>zaku_003724
+<ptZ0496>zaku_003724
+
+//OTHER
+<enZ0497>zaku_003725
+<ptZ0497>zaku_003725
+
+//OTHER
+<enZ0498>zaku_003726
+<ptZ0498>zaku_003726
+
+//OTHER
+<enZ0499>usa_000154
+<ptZ0499>usa_000154
+
+//OTHER
+<enZ0500>zaku_003727
+<ptZ0500>zaku_003727
+
+//OTHER
+<enZ0501>ayu_000060
+<ptZ0501>ayu_000060
+
+//OTHER
+<enZ0502>zaku_003728
+<ptZ0502>zaku_003728
+
+//OTHER
+<enZ0503>usa_000155
+<ptZ0503>usa_000155
+
+//OTHER
+<enZ0504>usa_000156
+<ptZ0504>usa_000156
+
+//OTHER
+<enZ0505>zaku_003729
+<ptZ0505>zaku_003729
+
+//OTHER
+<enZ0506>usa_000157
+<ptZ0506>usa_000157
+
+//OTHER
+<enZ0507>usa_000158
+<ptZ0507>usa_000158
+
+//OTHER
+<enZ0508>usa_000159
+<ptZ0508>usa_000159
+
+//OTHER
+<enZ0509>zaku_003730
+<ptZ0509>zaku_003730
+
+//OTHER
+<enZ0510>usa_000160
+<ptZ0510>usa_000160
+
+//OTHER
+<enZ0511>zaku_003731
+<ptZ0511>zaku_003731
+
+//OTHER
+<enZ0512>usa_000161
+<ptZ0512>usa_000161
+
+//OTHER
+<enZ0513>zaku_003732
+<ptZ0513>zaku_003732
+
+//OTHER
+<enZ0514>usa_000162
+<ptZ0514>usa_000162
+
+//OTHER
+<enZ0515>ayu_000061
+<ptZ0515>ayu_000061
+
+//OTHER
+<enZ0516>zaku_003733
+<ptZ0516>zaku_003733
+
+//OTHER
+<enZ0517>usa_000163
+<ptZ0517>usa_000163
+
+//OTHER
+<enZ0518>usa_000164
+<ptZ0518>usa_000164
+
+//OTHER
+<enZ0519>ayu_000062
+<ptZ0519>ayu_000062
+
+//OTHER
+<enZ0520>zaku_003734
+<ptZ0520>zaku_003734
+
+//OTHER
+<enZ0521>zaku_003735
+<ptZ0521>zaku_003735
+
+//OTHER
+<enZ0522>ayu_000063
+<ptZ0522>ayu_000063
+
+//OTHER
+<enZ0523>usa_000165
+<ptZ0523>usa_000165
+
+//OTHER
+<enZ0524>zaku_003736
+<ptZ0524>zaku_003736
+
+//OTHER
+<enZ0525>usa_000166
+<ptZ0525>usa_000166
+
+//OTHER
+<enZ0526>usa_000167
+<ptZ0526>usa_000167
+
+//OTHER
+<enZ0527>usa_000168
+<ptZ0527>usa_000168
+
+//OTHER
+<enZ0528>zaku_003737
+<ptZ0528>zaku_003737
+
+//OTHER
+<enZ0529>usa_000169
+<ptZ0529>usa_000169
+
+//OTHER
+<enZ0530>zaku_003738
+<ptZ0530>zaku_003738
+
+//OTHER
+<enZ0531>bgm019
+<ptZ0531>bgm019
+
+//OTHER
+<enZ0532>usa_000170
+<ptZ0532>usa_000170
+
+//OTHER
+<enZ0533>zaku_003739
+<ptZ0533>zaku_003739
+
+//OTHER
+<enZ0534>zaku_003740
+<ptZ0534>zaku_003740
+
+//OTHER
+<enZ0535>zaku_003741
+<ptZ0535>zaku_003741
+
+//OTHER
+<enZ0536>zaku_003742
+<ptZ0536>zaku_003742
+
+//OTHER
+<enZ0537>zaku_003743
+<ptZ0537>zaku_003743
+
+//OTHER
+<enZ0538>usa_000171
+<ptZ0538>usa_000171
+
+//OTHER
+<enZ0539>ayu_000064
+<ptZ0539>ayu_000064
+
+//OTHER
+<enZ0540>zaku_003744
+<ptZ0540>zaku_003744
+
+//OTHER
+<enZ0541>zaku_003745
+<ptZ0541>zaku_003745
+
+//OTHER
+<enZ0542>zaku_003746
+<ptZ0542>zaku_003746
+
+//OTHER
+<enZ0543>zaku_003747
+<ptZ0543>zaku_003747
+
+//OTHER
+<enZ0544>ayu_000065
+<ptZ0544>ayu_000065
+
+//OTHER
+<enZ0545>usa_000172
+<ptZ0545>usa_000172
+
+//OTHER
+<enZ0546>zaku_003748
+<ptZ0546>zaku_003748
+
+//OTHER
+<enZ0547>usa_000173
+<ptZ0547>usa_000173
+
+//OTHER
+<enZ0548>ayu_000066
+<ptZ0548>ayu_000066
+
+//OTHER
+<enZ0549>usa_000174
+<ptZ0549>usa_000174
+
+//OTHER
+<enZ0550>zaku_003749
+<ptZ0550>zaku_003749
+
+//OTHER
+<enZ0551>usa_000175
+<ptZ0551>usa_000175
+
+//OTHER
+<enZ0552>zaku_003750
+<ptZ0552>zaku_003750
+
+//OTHER
+<enZ0553>usa_000176
+<ptZ0553>usa_000176
+
+//OTHER
+<enZ0554>zaku_003751
+<ptZ0554>zaku_003751
+
+//OTHER
+<enZ0555>usa_000177
+<ptZ0555>usa_000177
+
+//OTHER
+<enZ0556>usa_000178
+<ptZ0556>usa_000178
+
+//OTHER
+<enZ0557>zaku_003752
+<ptZ0557>zaku_003752
+
+//OTHER
+<enZ0558>ayu_000067
+<ptZ0558>ayu_000067
+
+//OTHER
+<enZ0559>zaku_003753
+<ptZ0559>zaku_003753
+
+//OTHER
+<enZ0560>usa_000179
+<ptZ0560>usa_000179
+
+//OTHER
+<enZ0561>usa_000180
+<ptZ0561>usa_000180
+
+//OTHER
+<enZ0562>usa_000181
+<ptZ0562>usa_000181
+
+//OTHER
+<enZ0563>zaku_003754
+<ptZ0563>zaku_003754
+
+//OTHER
+<enZ0564>usa_000182
+<ptZ0564>usa_000182
+
+//OTHER
+<enZ0565>ayu_000068
+<ptZ0565>ayu_000068
+
+//OTHER
+<enZ0566>usa_000183
+<ptZ0566>usa_000183
+
+//OTHER
+<enZ0567>zaku_003755
+<ptZ0567>zaku_003755
+
+//OTHER
+<enZ0568>ayu_000069
+<ptZ0568>ayu_000069
+
+//OTHER
+<enZ0569>usa_000184
+<ptZ0569>usa_000184
+
+//OTHER
+<enZ0570>zaku_003756
+<ptZ0570>zaku_003756
+
+//OTHER
+<enZ0571>usa_000185
+<ptZ0571>usa_000185
+
+//OTHER
+<enZ0572>zaku_003757
+<ptZ0572>zaku_003757
+
+//OTHER
+<enZ0573>usa_000186
+<ptZ0573>usa_000186
+
+//OTHER
+<enZ0574>zaku_003758
+<ptZ0574>zaku_003758
+
+//OTHER
+<enZ0575>zaku_003759
+<ptZ0575>zaku_003759
+
+//OTHER
+<enZ0576>zaku_003760
+<ptZ0576>zaku_003760
+
+//OTHER
+<enZ0577>ayu_000070
+<ptZ0577>ayu_000070
+
+//OTHER
+<enZ0578>usa_000187
+<ptZ0578>usa_000187
+
+//OTHER
+<enZ0579>zaku_003761
+<ptZ0579>zaku_003761
+
+//OTHER
+<enZ0580>zaku_003762
+<ptZ0580>zaku_003762
+
+//OTHER
+<enZ0581>sp0040b
+<ptZ0581>sp0040b
+
+//OTHER
+<enZ0582>zaku_003763
+<ptZ0582>zaku_003763
+
+//OTHER
+<enZ0583>usa_000188
+<ptZ0583>usa_000188
+
+//OTHER
+<enZ0584>ev1009a
+<ptZ0584>ev1009a
+
+//OTHER
+<enZ0585>bgm004
+<ptZ0585>bgm004
+
+//OTHER
+<enZ0586>zaku_003764
+<ptZ0586>zaku_003764
+
+//OTHER
+<enZ0587>zaku_003765
+<ptZ0587>zaku_003765
+
+//OTHER
+<enZ0588>zaku_003766
+<ptZ0588>zaku_003766
+
+//OTHER
+<enZ0589>zaku_003767
+<ptZ0589>zaku_003767
+
+//OTHER
+<enZ0590>zaku_003768
+<ptZ0590>zaku_003768
+
+//OTHER
+<enZ0591>zaku_003769
+<ptZ0591>zaku_003769
+
+//OTHER
+<enZ0592>zaku_003770
+<ptZ0592>zaku_003770
+
+//OTHER
+<enZ0593>map023
+<ptZ0593>map023
+
+//OTHER
+<enZ0594>usa_000189
+<ptZ0594>usa_000189
+
+//OTHER
+<enZ0595>usa_000190
+<ptZ0595>usa_000190
+
+//OTHER
+<enZ0596>zaku_003771
+<ptZ0596>zaku_003771
+
+//OTHER
+<enZ0597>usa_000191
+<ptZ0597>usa_000191
+
+//OTHER
+<enZ0598>zaku_003772
+<ptZ0598>zaku_003772
+
+//OTHER
+<enZ0599>usa_000192
+<ptZ0599>usa_000192
+
+//OTHER
+<enZ0600>usa_000193
+<ptZ0600>usa_000193
+
+//OTHER
+<enZ0601>zaku_003773
+<ptZ0601>zaku_003773
+
+//OTHER
+<enZ0602>usa_000194
+<ptZ0602>usa_000194
+
+//OTHER
+<enZ0603>zaku_003774
+<ptZ0603>zaku_003774
+
+//OTHER
+<enZ0604>usa_000195
+<ptZ0604>usa_000195
+
+//OTHER
+<enZ0605>zaku_003775
+<ptZ0605>zaku_003775
+
+//OTHER
+<enZ0606>usa_000196
+<ptZ0606>usa_000196
+
+//OTHER
+<enZ0607>usa_000197
+<ptZ0607>usa_000197
+
+//OTHER
+<enZ0608>zaku_003776
+<ptZ0608>zaku_003776
+
+//OTHER
+<enZ0609>usa_000198
+<ptZ0609>usa_000198
+
+//OTHER
+<enZ0610>zaku_003777
+<ptZ0610>zaku_003777
+
+//OTHER
+<enZ0611>usa_000199
+<ptZ0611>usa_000199
+
+//OTHER
+<enZ0612>zaku_003778
+<ptZ0612>zaku_003778
+
+//OTHER
+<enZ0613>usa_000200
+<ptZ0613>usa_000200
+
+//OTHER
+<enZ0614>zaku_003779
+<ptZ0614>zaku_003779
+
+//OTHER
+<enZ0615>usa_000201
+<ptZ0615>usa_000201
+
+//OTHER
+<enZ0616>usa_000202
+<ptZ0616>usa_000202
+
+//OTHER
+<enZ0617>usa_000203
+<ptZ0617>usa_000203
+
+//OTHER
+<enZ0618>usa_000204
+<ptZ0618>usa_000204
+
+//OTHER
+<enZ0619>zaku_003780
+<ptZ0619>zaku_003780
+
+//OTHER
+<enZ0620>usa_000205
+<ptZ0620>usa_000205
+
+//OTHER
+<enZ0621>zaku_003781
+<ptZ0621>zaku_003781
+
+//OTHER
+<enZ0622>usa_000206
+<ptZ0622>usa_000206
+
+//OTHER
+<enZ0623>zaku_003782
+<ptZ0623>zaku_003782
+
+//OTHER
+<enZ0624>usa_000207
+<ptZ0624>usa_000207
+
+//OTHER
+<enZ0625>zaku_003783
+<ptZ0625>zaku_003783
+
+//OTHER
+<enZ0626>usa_000208
+<ptZ0626>usa_000208
+
+//OTHER
+<enZ0627>zaku_003784
+<ptZ0627>zaku_003784
+
+//OTHER
+<enZ0628>usa_000209
+<ptZ0628>usa_000209
+
+//OTHER
+<enZ0629>zaku_003785
+<ptZ0629>zaku_003785
+
+//OTHER
+<enZ0630>usa_000210
+<ptZ0630>usa_000210
+
+//OTHER
+<enZ0631>ayu_000071
+<ptZ0631>ayu_000071
+
+//OTHER
+<enZ0632>zaku_003786
+<ptZ0632>zaku_003786
+
+//OTHER
+<enZ0633>usa_000211
+<ptZ0633>usa_000211
+
+//OTHER
+<enZ0634>zaku_003787
+<ptZ0634>zaku_003787
+
+//OTHER
+<enZ0635>ev1009b
+<ptZ0635>ev1009b
+
+//OTHER
+<enZ0636>3_0712_trans
+<ptZ0636>3_0712_trans
+

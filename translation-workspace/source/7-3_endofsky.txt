@@ -1,0 +1,2452 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Ayana
+<ptN0002>Ayana
+
+//NAME
+<enN0003>Miu
+<ptN0003>Miu
+
+///================================================================================
+
+//TEXT BACKLOG
+<enT0001>3.0321
+<ptT0001>3.0321
+
+//TEXT BACKLOG
+<enT0002>We could present spatially an atomic fact which contradicted the laws of physics,
+<ptT0002>We could present spatially an atomic fact which contradicted the laws of physics,
+
+//TEXT BACKLOG
+<enT0003>but not one which contradicted the laws of geometry.
+<ptT0003>but not one which contradicted the laws of geometry.
+
+//TEXT BACKLOG
+<enT0004>
+<ptT0004>
+
+//TEXT BACKLOG
+<enT0005>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+<ptT0005>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+
+//TEXT BACKLOG
+<enT0006>
+<ptT0006>
+
+//TEXT
+<enT0007>"..."
+<ptT0007>"..."
+
+//TEXT
+<enT0008>"......"
+<ptT0008>"......"
+
+//TEXT
+<enT0009>"A transparent..."
+<ptT0009>"Um transparente..."
+
+//TEXT
+<enT0010>"A transparent white?"
+<ptT0010>"Um branco transparente?"
+
+//TEXT
+<enT0011>"..."
+<ptT0011>"..."
+
+//TEXT
+<enT0012>"No, that's not it."
+<ptT0012>"Nao, nao e isso."
+
+//TEXT
+<enT0013>"There's no such thing as a transparent white."
+<ptT0013>"Nao existe tal coisa como um branco transparente."
+
+//TEXT
+<enT0014>"If it's white, then it's not transparent. So I guess it's only half-transparent."
+<ptT0014>"Se e branco, entao nao e transparente. Entao suponho que seja apenas semitransparente."
+
+//TEXT
+<enT0015>"But still, this isn't really half-transparent."
+<ptT0015>"Mas mesmo assim, isso nao e realmente semitransparente."
+
+//TEXT
+<enT0016>"If I had to describe this..."
+<ptT0016>"Se eu tivesse que descrever isso..."
+
+//TEXT
+<enT0017>"It's..."
+<ptT0017>"E..."
+
+//TEXT
+<enT0018>"A transparent white."
+<ptT0018>"Um branco transparente."
+
+//TEXT
+<enT0019>"This is... that."
+<ptT0019>"Isso e... isso."
+
+//TEXT
+<enT0020>'Light.'\n\n\n\n\n\n\n
+<ptT0020>'Luz.'\n\n\n\n\n\n\n
+
+//TEXT
+<enT0021>
+<ptT0021>
+
+//TEXT
+<enT0022>
+<ptT0022>
+
+//TEXT
+<enT0023>"Light."
+<ptT0023>"Luz."
+
+//TEXT
+<enT0024>"Light?"
+<ptT0024>"Luz?"
+
+//TEXT
+<enT0025>"This is."
+<ptT0025>"Isso e."
+
+//TEXT
+<enT0026>"Just light."
+<ptT0026>"Apenas luz."
+
+//TEXT
+<enT0027>"That's right... That's it."
+<ptT0027>"E isso mesmo... E isso."
+
+//TEXT
+<enT0028>"This is..."
+<ptT0028>"Isso e..."
+
+//TEXT
+<enT0029>"Light."
+<ptT0029>"Luz."
+
+//TEXT 【Yuki】
+<enT0030>"The sound of cicadas."
+<ptT0030>"O som das cigarras."
+
+//TEXT 【Yuki】
+<enT0031>"Is this the rooftop?"
+<ptT0031>"Este e o terraco?"
+
+//TEXT
+<enT0032>I looked around and found myself in a familiar place. It was the Building A rooftop.
+<ptT0032>Olhei ao redor e me vi em um lugar familiar. Era o terraco do Edificio A.
+
+//TEXT 【Yuki】
+<enT0033>"Why? Why am I here?"
+<ptT0033>"Por que? Por que estou aqui?"
+
+//TEXT
+<enT0034>Mamiya Tomosane jumped off the roof to protect Hasaki, and then...
+<ptT0034>Mamiya Tomosane pulou do telhado para proteger Hasaki, e entao...
+
+//TEXT
+<enT0035>And then...
+<ptT0035>E entao...
+
+//TEXT
+<enT0036>What happened?
+<ptT0036>O que aconteceu?
+
+//TEXT 【Yuki】
+<enT0037>"What day is today? Right now, it should be..."
+<ptT0037>"Que dia e hoje? Agora, deveria ser..."
+
+//TEXT
+<enT0038>I looked at the clock.
+<ptT0038>Olhei para o relogio.
+
+//TEXT
+<enT0039>The date was July 20th, 2012.
+<ptT0039>A data era 20 de julho de 2012.
+
+//TEXT 【Yuki】
+<enT0040>"It's been a whole day."
+<ptT0040>"Passou um dia inteiro."
+
+//TEXT
+<enT0041>Mamiya Tomosane definitely fell from the rooftop, and before that, he received a serious knife wound in his chest.
+<ptT0041>Mamiya Tomosane definitivamente caiu do telhado, e antes disso, recebeu um ferimento grave de faca no peito.
+
+//TEXT
+<enT0042>I didn't know what condition his body was in, but he couldn't possibly have gotten released from the hospital already.
+<ptT0042>Eu nao sabia em que condicao seu corpo estava, mas ele nao poderia ter recebido alta do hospital ainda.
+
+//TEXT
+<enT0043>The fact that I was standing there was most definitely unnatural.
+<ptT0043>O fato de eu estar de pe ali era, com toda certeza, antinatural.
+
+//TEXT 【Yuki】
+<enT0044>"What's going on?"
+<ptT0044>"O que esta acontecendo?"
+
+//TEXT
+<enT0045>Did Mamiya Tomosane survive?
+<ptT0045>Mamiya Tomosane sobreviveu?
+
+//TEXT
+<enT0046> No, the fact that I'm standing here, in such a strange place, means that I have to assume he's dead.
+<ptT0046> Nao, o fato de eu estar aqui de pe, em um lugar tao estranho, significa que tenho que presumir que ele esta morto.
+
+//TEXT
+<enT0047>Either that, or this is the world of dreams again.
+<ptT0047>Ou isso, ou este e o mundo dos sonhos novamente.
+
+//TEXT
+<enT0048>Or maybe this is a lucid dream?
+<ptT0048>Ou talvez este seja um sonho lucido?
+
+//TEXT
+<enT0049>I tried pinching my cheek.
+<ptT0049>Tentei beliscar minha bochecha.
+
+//TEXT 【Yuki】
+<enT0050>"Ow, that hurts."
+<ptT0050>"Ai, doi."
+
+//TEXT
+<enT0051>If it was a dream, even a lucid dream, I would have felt less pain than normal.
+<ptT0051>Se fosse um sonho, mesmo um sonho lucido, eu teria sentido menos dor do que o normal.
+
+//TEXT
+<enT0052>Since I felt pain when I pinched my cheek, that meant that the scene unfolding before me was real.
+<ptT0052>Como senti dor quando belisquei minha bochecha, isso significava que a cena se desenrolando diante de mim era real.
+
+//TEXT 【Yuki】
+<enT0053>"Otonashi Ayana... san."
+<ptT0053>"Otonashi Ayana... san."
+
+//TEXT 【Ayana】
+<enT0054>"It has been a while."
+<ptT0054>"Faz tempo."
+
+//TEXT 【Yuki】
+<enT0055>"Has it?"
+<ptT0055>"Faz mesmo?"
+
+//TEXT 【Ayana】
+<enT0056>"Hasn't it?"
+<ptT0056>"Nao faz?"
+
+//TEXT 【Yuki】
+<enT0057>"But it's only been one day since the last time we saw each other, hasn't it?"
+<ptT0057>"Mas so passou um dia desde a ultima vez que nos vimos, nao foi?"
+
+//TEXT 【Ayana】
+<enT0058>"Yes."
+<ptT0058>"Sim."
+
+//TEXT 【Yuki】
+<enT0059>"Hey, uh..."
+<ptT0059>"Ei, hum..."
+
+//TEXT 【Ayana】
+<enT0060>"What?"
+<ptT0060>"O que foi?"
+
+//TEXT 【Yuki】
+<enT0061>"What happened to Mamiya Tomosane, anyway?"
+<ptT0061>"O que aconteceu com Mamiya Tomosane, afinal?"
+
+//TEXT 【Ayana】
+<enT0062>"Why are you asking that?"
+<ptT0062>"Por que voce esta perguntando isso?"
+
+//TEXT 【Yuki】
+<enT0063>"W-Well, I'm curious. I'm just another personality that he created, after all."
+<ptT0063>"B-Bem, estou curiosa. Afinal, sou apenas mais uma personalidade que ele criou."
+
+//TEXT 【Ayana】
+<enT0064>"Then he's alive, right?"
+<ptT0064>"Entao ele esta vivo, certo?"
+
+//TEXT 【Yuki】
+<enT0065>"What do you mean by that?"
+<ptT0065>"O que voce quer dizer com isso?"
+
+//TEXT 【Ayana】
+<enT0066>"Hypothesis #1: If you are a personality that was created by Mamiya Tomosane, then the fact that you still exist is enough reason to believe that Mamiya Tomosane's body is still alive."
+<ptT0066>"Hipotese #1: Se voce e uma personalidade criada por Mamiya Tomosane, entao o fato de voce ainda existir e razao suficiente para acreditar que o corpo de Mamiya Tomosane ainda esta vivo."
+
+//TEXT 【Yuki】
+<enT0067>"B-But that doesn't make sense."
+<ptT0067>"M-Mas isso nao faz sentido."
+
+//TEXT 【Ayana】
+<enT0068>"Why not?"
+<ptT0068>"Por que nao?"
+
+//TEXT 【Yuki】
+<enT0069>"Because he suffered serious wounds. He couldn't have come back here after just one day."
+<ptT0069>"Porque ele sofreu ferimentos graves. Ele nao poderia ter voltado aqui depois de apenas um dia."
+
+//TEXT 【Ayana】
+<enT0070>"I agree."
+<ptT0070>"Concordo."
+
+//TEXT 【Yuki】
+<enT0071>"Even if my personality did come to the surface, it'd be in a hospital bed or something."
+<ptT0071>"Mesmo que minha personalidade tivesse vindo a tona, seria em uma cama de hospital ou algo assim."
+
+//TEXT 【Ayana】
+<enT0072>"Then, hypothesis #2: You didn't come into existence as a result of dissociative identity disorder."
+<ptT0072>"Entao, hipotese #2: Voce nao surgiu como resultado de transtorno dissociativo de identidade."
+
+//TEXT 【Ayana】
+<enT0073>"Your existence is a continuation of the same person who existed in the past. You have the same soul as the real Minakami Yuki. If your soul merely came to reside in Mamiya Tomosane's body, then the reason must be..."
+<ptT0073>"Sua existencia e uma continuacao da mesma pessoa que existia no passado. Voce tem a mesma alma que a verdadeira Minakami Yuki. Se sua alma simplesmente veio a residir no corpo de Mamiya Tomosane, entao o motivo deve ser..."
+
+//TEXT 【Ayana】
+<enT0074>"That must mean Mamiya Tomosane has died."
+<ptT0074>"Isso deve significar que Mamiya Tomosane morreu."
+
+//TEXT 【Yuki】
+<enT0075>"N-No way..."
+<ptT0075>"N-Nao pode ser..."
+
+//TEXT 【Ayana】
+<enT0076>"Or how about this, hypothesis #3: If this is a dream that you're having, then..."
+<ptT0076>"Ou que tal isso, hipotese #3: Se este e um sonho que voce esta tendo, entao..."
+
+//TEXT 【Ayana】
+<enT0077>"The Otonashi Ayana standing in front of you would be just another character in your dream. That hypothesis is also fairly convincing."
+<ptT0077>"A Otonashi Ayana de pe na sua frente seria apenas mais um personagem no seu sonho. Essa hipotese tambem e bastante convincente."
+
+//TEXT 【Ayana】
+<enT0078>"Now then, which explanation for the current situation do you prefer?"
+<ptT0078>"Entao, qual explicacao para a situacao atual voce prefere?"
+
+//TEXT 【Yuki】
+<enT0079>"Which do I prefer? That's not the problem at hand."
+<ptT0079>"Qual eu prefiro? Esse nao e o problema aqui."
+
+//TEXT 【Ayana】
+<enT0080>"Hypothesis #4: You are just a figment of my imagination. A hallucination being produced by my brain. In other words, you don't exist."
+<ptT0080>"Hipotese #4: Voce e apenas um fruto da minha imaginacao. Uma alucinacao produzida pelo meu cerebro. Em outras palavras, voce nao existe."
+
+//TEXT 【Yuki】
+<enT0081>"Ahahaha. Then what about me, the person having all of these thoughts right now?"
+<ptT0081>"Ahahaha. E eu entao, a pessoa que esta tendo todos esses pensamentos agora?"
+
+//TEXT 【Yuki】
+<enT0082>"I think, therefore I am, right?"
+<ptT0082>"Penso, logo existo, certo?"
+
+//TEXT 【Ayana】
+<enT0083>"Those thoughts could result from my brain activity as well. One part of my brain could simply perceive itself as a separate personality."
+<ptT0083>"Esses pensamentos tambem poderiam resultar da atividade do meu cerebro. Uma parte do meu cerebro poderia simplesmente se perceber como uma personalidade separada."
+
+//TEXT 【Ayana】
+<enT0084>"In other words, the fact that you think is not sufficient proof of your existence."
+<ptT0084>"Em outras palavras, o fato de voce pensar nao e prova suficiente da sua existencia."
+
+//TEXT 【Ayana】
+<enT0085>"You can't deny the possibility that the presently existing Minakami Yuki is actually just another personality which I created."
+<ptT0085>"Voce nao pode negar a possibilidade de que a Minakami Yuki que existe agora seja na verdade apenas mais uma personalidade que eu criei."
+
+//TEXT 【Ayana】
+<enT0086>"After seeing that three personalities can simultaneously exist in one body, you should understand that possibility better than anyone."
+<ptT0086>"Depois de ver que tres personalidades podem existir simultaneamente em um so corpo, voce deveria entender essa possibilidade melhor do que ninguem."
+
+//TEXT 【Ayana】
+<enT0087>"The fact that you can think is not sufficient proof of your existence."
+<ptT0087>"O fato de voce poder pensar nao e prova suficiente da sua existencia."
+
+//TEXT 【Yuki】
+<enT0088>"Um, there's something I'd like to know."
+<ptT0088>"Hum, ha algo que gostaria de saber."
+
+//TEXT 【Ayana】
+<enT0089>"What's that?"
+<ptT0089>"O que e?"
+
+//TEXT 【Yuki】
+<enT0090>"Like I was saying, what happened after everything that happened here?"
+<ptT0090>"Como eu estava dizendo, o que aconteceu depois de tudo que aconteceu aqui?"
+
+//TEXT 【Ayana】
+<enT0091>"If you wish to know that, then you should go find out yourself. You can open the door and go out into the outside world at any time. That's all you need to do."
+<ptT0091>"Se voce quer saber isso, entao deveria ir descobrir por conta propria. Voce pode abrir a porta e ir para o mundo la fora a qualquer momento. So isso."
+
+//TEXT 【Yuki】
+<enT0092>"..."
+<ptT0092>"..."
+
+//TEXT
+<enT0093>It was just as she said.
+<ptT0093>Era exatamente como ela disse.
+
+//TEXT
+<enT0094>If I felt like it, I could leave at any time.
+<ptT0094>Se eu quisesse, poderia ir embora a qualquer momento.
+
+//TEXT
+<enT0095>I could leave the rooftop and go see the outside world.
+<ptT0095>Eu poderia deixar o terraco e ir ver o mundo la fora.
+
+//TEXT
+<enT0096>If I did that, then I could get my wish. I could see the aftermath of everything that happened.
+<ptT0096>Se eu fizesse isso, poderia realizar meu desejo. Poderia ver as consequencias de tudo que aconteceu.
+
+//TEXT
+<enT0097>But...
+<ptT0097>Mas...
+
+//TEXT 【Yuki】
+<enT0098>"If I go outside, huh?"
+<ptT0098>"Se eu for la fora, e..."
+
+//TEXT 【Ayana】
+<enT0099>"Yes."
+<ptT0099>"Sim."
+
+//TEXT 【Yuki】
+<enT0100>"That's definitely one option, but can I ask you something?"
+<ptT0100>"Isso definitivamente e uma opcao, mas posso te perguntar algo?"
+
+//TEXT 【Ayana】
+<enT0101>"What?"
+<ptT0101>"O que?"
+
+//TEXT 【Yuki】
+<enT0102>"What day is today?"
+<ptT0102>"Que dia e hoje?"
+
+//TEXT 【Ayana】
+<enT0103>"July 20th, 2012."
+<ptT0103>"20 de julho de 2012."
+
+//TEXT 【Yuki】
+<enT0104>"Which means that tomorrow is the first day of summer vacation?"
+<ptT0104>"O que significa que amanha e o primeiro dia das ferias de verao?"
+
+//TEXT 【Ayana】
+<enT0105>"Yes. Tomorrow is the first day of summer vacation."
+<ptT0105>"Sim. Amanha e o primeiro dia das ferias de verao."
+
+//TEXT
+<enT0106>Yesterday, a group suicide happened here.
+<ptT0106>Ontem, um suicidio em grupo aconteceu aqui.
+
+//TEXT
+<enT0107>Summer vacation or no, that would make this a crime scene.
+<ptT0107>Ferias de verao ou nao, isso tornaria este local uma cena de crime.
+
+//TEXT
+<enT0108>And yet, looking out from the rooftop...
+<ptT0108>E no entanto, olhando do terraco...
+
+//TEXT
+<enT0109>Everything looked perfectly normal.
+<ptT0109>Tudo parecia perfeitamente normal.
+
+//TEXT
+<enT0110>Students walking through the halls.
+<ptT0110>Alunos caminhando pelos corredores.
+
+//TEXT
+<enT0111>Students chatting in the classrooms.
+<ptT0111>Alunos conversando nas salas de aula.
+
+//TEXT
+<enT0112>Teachers lecturing their students.
+<ptT0112>Professores dando aulas para seus alunos.
+
+//TEXT
+<enT0113>Everything was completely normal.
+<ptT0113>Tudo estava completamente normal.
+
+//TEXT
+<enT0114>This couldn't be the aftermath of such a tragedy.
+<ptT0114>Isso nao poderia ser o resultado de uma tragedia como aquela.
+
+//TEXT 【Ayana】
+<enT0115>"What's wrong?"
+<ptT0115>"O que foi?"
+
+//TEXT 【Yuki】
+<enT0116>"Is that the last hypothesis you have?"
+<ptT0116>"Essa e a ultima hipotese que voce tem?"
+
+//TEXT 【Ayana】
+<enT0117>"Do you want to hear another hypothesis?"
+<ptT0117>"Voce quer ouvir mais uma hipotese?"
+
+//TEXT 【Ayana】
+<enT0118>"We can come up with as many explanations as you would like. It's possible to create as many different annotations for this world as you want."
+<ptT0118>"Podemos criar quantas explicacoes voce quiser. E possivel criar quantas anotacoes diferentes deste mundo quiser."
+
+//TEXT 【Ayana】
+<enT0119>"If that is what you wish, then we can make as many as you like."
+<ptT0119>"Se e isso que voce deseja, podemos criar quantas quiser."
+
+//TEXT 【Yuki】
+<enT0120>"What is the 'End Sky' that Takuji-kun was talking about?"
+<ptT0120>"O que e o 'End Sky' sobre o qual Takuji-kun estava falando?"
+
+//TEXT 【Yuki】
+<enT0121>"That is a word which wasn't in either Kotomi-san's prophecy or the White Lotus Association's prophecy."
+<ptT0121>"Essa e uma palavra que nao estava na profecia de Kotomi-san nem na profecia da Associacao do Lotus Branco."
+
+//TEXT 【Ayana】
+<enT0122>"End Sky... It is just that, 'the sky of the end.'"
+<ptT0122>"End Sky... E exatamente isso, 'o ceu do fim.'"
+
+//TEXT 【Yuki】
+<enT0123>"Who gave it that name, and when?"
+<ptT0123>"Quem lhe deu esse nome, e quando?"
+
+//TEXT 【Ayana】
+<enT0124>"Memory..."
+<ptT0124>"Memoria..."
+
+//TEXT 【Yuki】
+<enT0125>"Memory?"
+<ptT0125>"Memoria?"
+
+//TEXT 【Ayana】
+<enT0126>"Spirit room. End Sky."
+<ptT0126>"Sala dos espiritos. End Sky."
+
+//TEXT 【Yuki】
+<enT0127>"Wha-!"
+<ptT0127>"O que-!"
+
+//TEXT 【Ayana】
+<enT0128>"Hehehehe. So you do remember it."
+<ptT0128>"Hehehehe. Entao voce se lembra."
+
+//TEXT 【Yuki】
+<enT0129>"I remember it? Those memories can't be right..."
+<ptT0129>"Eu me lembro? Essas memorias nao podem estar certas..."
+
+//TEXT 【Ayana】
+<enT0130>"Really?"
+<ptT0130>"De verdade?"
+
+//TEXT 【Yuki】
+<enT0131>"B-But that's really strange, isn't it?"
+<ptT0131>"M-Mas isso e realmente estranho, nao e?"
+
+//TEXT 【Ayana】
+<enT0132>"How so?"
+<ptT0132>"Como assim?"
+
+//TEXT 【Yuki】
+<enT0133>"But, I mean, that was a dream I saw when I got dragged into Takashima-san's suicide, right?"
+<ptT0133>"Mas, quero dizer, isso era um sonho que vi quando fui arrastada para o suicidio de Takashima-san, certo?"
+
+//TEXT 【Yuki】
+<enT0134>"Isn't that really strange?"
+<ptT0134>"Isso nao e realmente estranho?"
+
+//TEXT 【Ayana】
+<enT0135>"What's strange about it?"
+<ptT0135>"O que ha de estranho nisso?"
+
+//TEXT 【Yuki】
+<enT0136>"I mean, after that, when I got involved in Takashima-san's suicide... It's like the whole sequence of events got messed up. I remember experiencing her suicide a second time after that."
+<ptT0136>"Quero dizer, depois disso, quando me envolvi no suicidio de Takashima-san... E como se toda a sequencia de eventos tivesse se embaralhado. Lembro de ter vivenciado o suicidio dela uma segunda vez depois disso."
+
+//TEXT 【Ayana】
+<enT0137>"Hypothesis #5: You still haven't woken from that dream."
+<ptT0137>"Hipotese #5: Voce ainda nao acordou daquele sonho."
+
+//TEXT 【Yuki】
+<enT0138>"That dream?"
+<ptT0138>"Aquele sonho?"
+
+//TEXT 【Ayana】
+<enT0139>"The Minakami Yuki that got dragged into Takashima Zakuro's suicide is still having that same dream at this very moment."
+<ptT0139>"A Minakami Yuki que foi arrastada para o suicidio de Takashima Zakuro ainda esta tendo esse mesmo sonho neste exato momento."
+
+//TEXT 【Yuki】
+<enT0140>"A-A dream? This is a dream? No, there's no way this could be a dream..."
+<ptT0140>"U-Um sonho? Isso e um sonho? Nao, de jeito nenhum isso poderia ser um sonho..."
+
+//TEXT 【Ayana】
+<enT0141>"Okay. Then, hypothesis #6: Your memories of the spirit room and the End Sky are all false memories."
+<ptT0141>"Certo. Entao, hipotese #6: Suas memorias da sala dos espiritos e do End Sky sao todas memorias falsas."
+
+//TEXT 【Ayana】
+<enT0142>"The constant changes of personality caused your memories to get confused, and as a result you just dreamed about the spirit room."
+<ptT0142>"As constantes mudancas de personalidade fizeram com que suas memorias se confundissem, e como resultado voce apenas sonhou com a sala dos espiritos."
+
+//TEXT 【Ayana】
+<enT0143>"Takashima Zakuro didn't actually fall on you when she jumped off the building. That was just a result of your confused memory."
+<ptT0143>"Takashima Zakuro nao caiu sobre voce de verdade quando pulou do predio. Isso foi apenas um resultado da sua memoria confusa."
+
+//TEXT 【Yuki】
+<enT0144>"Then why did Takuji-kun use that same word, 'End Sky,' that appeared in my dream?!"
+<ptT0144>"Entao por que Takuji-kun usou a mesma palavra, 'End Sky', que apareceu no meu sonho?!"
+
+//TEXT 【Ayana】
+<enT0145>"You both share the same brain. It shouldn't be surprising that he knows about that."
+<ptT0145>"Voces dois compartilham o mesmo cerebro. Nao deveria ser surpreendente que ele saiba disso."
+
+//TEXT 【Yuki】
+<enT0146>"B-But then..."
+<ptT0146>"M-Mas entao..."
+
+//TEXT 【Ayana】
+<enT0147>"The last scene you saw... Are you interested in that sky?"
+<ptT0147>"A ultima cena que voce viu... Voce tem interesse naquele ceu?"
+
+//TEXT 【Yuki】
+<enT0148>"Ah!"
+<ptT0148>"Ah!"
+
+//TEXT
+<enT0149>The last thing I saw... That sky...
+<ptT0149>A ultima coisa que vi... Aquele ceu...
+
+//TEXT
+<enT0150>The scene which Mamiya Takuji-kun saw at that very moment when he jumped.
+<ptT0150>A cena que Mamiya Takuji-kun viu no exato momento em que pulou.
+
+//TEXT
+<enT0151>I felt like I knew that scene, somehow.
+<ptT0151>Eu sentia como se conhecesse aquela cena, de alguma forma.
+
+//TEXT 【Ayana】
+<enT0152>"A world which repeats from a certain point..."
+<ptT0152>"Um mundo que se repete a partir de um certo ponto..."
+
+//TEXT 【Yuki】
+<enT0153>"Huh?"
+<ptT0153>"Huh?"
+
+//TEXT 【Ayana】
+<enT0154>"Would you confirm it?"
+<ptT0154>"Voce confirmaria?"
+
+//TEXT 【Yuki】
+<enT0155>"C-Confirm what?"
+<ptT0155>"C-Confirmar o que?"
+
+//TEXT 【Ayana】
+<enT0156>"Are you really Minakami Yuki-san?"
+<ptT0156>"Voce e realmente Minakami Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0157>"Wh-What are you asking me now? Isn't that what you called me, yourself?"
+<ptT0157>"O-O que voce esta me perguntando agora? Nao foi voce mesma que me chamou assim?"
+
+//TEXT 【Ayana】
+<enT0158>"Yuki-san... Who is Minakami Yuki-san?"
+<ptT0158>"Yuki-san... Quem e Minakami Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0159>"Huh?"
+<ptT0159>"Huh?"
+
+//TEXT 【Ayana】
+<enT0160>"Yuki-san was a person who existed in the past. That person died in the act of saving Mamiya Hasaki. After that, she also existed as another personality that manifested in Mamiya Tomosane's body."
+<ptT0160>"Yuki-san era uma pessoa que existia no passado. Essa pessoa morreu no ato de salvar Mamiya Hasaki. Depois disso, ela tambem existiu como outra personalidade que se manifestou no corpo de Mamiya Tomosane."
+
+//TEXT 【Ayana】
+<enT0161>"In that case, who is the Yuki-san standing here right now? The Yuki-san that died? Or the Yuki-san who was created as another one of Mamiya Tomosane's personalities?"
+<ptT0161>"Nesse caso, quem e a Yuki-san de pe aqui agora? A Yuki-san que morreu? Ou a Yuki-san que foi criada como mais uma das personalidades de Mamiya Tomosane?"
+
+//TEXT 【Yuki】
+<enT0162>"I-I can't answer that question... I don't know."
+<ptT0162>"E-Eu nao consigo responder essa pergunta... Nao sei."
+
+//TEXT 【Ayana】
+<enT0163>"You don't know. That's why you asked me."
+<ptT0163>"Voce nao sabe. Por isso me perguntou."
+
+//TEXT 【Ayana】
+<enT0164>"A final annotation."
+<ptT0164>"Uma anotacao final."
+
+//TEXT 【Ayana】
+<enT0165>"A question for you, Yuki-san."
+<ptT0165>"Uma pergunta para voce, Yuki-san."
+
+//TEXT 【Ayana】
+<enT0166>"How many Yuki-sans exist in this world?"
+<ptT0166>"Quantas Yuki-san existem neste mundo?"
+
+//TEXT 【Yuki】
+<enT0167>"Huh?"
+<ptT0167>"Huh?"
+
+//TEXT 【Ayana】
+<enT0168>"One Yuki-san was born in Sawaimura, and she died in Sawaimura. Another one was created as one of Mamiya Tomosane's personalities. And then, one more Yuki-san exists who is standing here, talking to me."
+<ptT0168>"Uma Yuki-san nasceu em Sawaimura, e morreu em Sawaimura. Outra foi criada como uma das personalidades de Mamiya Tomosane. E entao, mais uma Yuki-san existe, de pe aqui, conversando comigo."
+
+//TEXT 【Ayana】
+<enT0169>"That is the problem. How many Minakami Yuki-sans came before you?"
+<ptT0169>"Esse e o problema. Quantas Minakami Yuki-san vieram antes de voce?"
+
+//TEXT 【Yuki】
+<enT0170>"I-I don't know. Wait, I'm me. There aren't any others!"
+<ptT0170>"E-Eu nao sei. Espera, eu sou eu mesma. Nao ha mais nenhuma!"
+
+//TEXT 【Ayana】
+<enT0171>"The Yuki-san that died in Sawaimura, the Yuki-san inside Tomosane-kun, and the Yuki-san here now are all the same."
+<ptT0171>"A Yuki-san que morreu em Sawaimura, a Yuki-san dentro de Tomosane-kun, e a Yuki-san aqui agora sao todas a mesma."
+
+//TEXT 【Ayana】
+<enT0172>"Then what about the other Yuki-sans that might exist?"
+<ptT0172>"E as outras Yuki-san que possam existir?"
+
+//TEXT 【Yuki】
+<enT0173>"The other copies of me that might exist?"
+<ptT0173>"As outras copias de mim que possam existir?"
+
+//TEXT 【Ayana】
+<enT0174>"Yes. The Yuki-sans that existed as other personalities. Would they be you as well, Yuki-san?"
+<ptT0174>"Sim. As Yuki-san que existiram como outras personalidades. Elas tambem seriam voce, Yuki-san?"
+
+//TEXT 【Yuki】
+<enT0175>"I don't know. Were there really that many of me?!"
+<ptT0175>"Nao sei. Sera que existiam mesmo tantas de mim?!"
+
+//TEXT 【Ayana】
+<enT0176>"But the reality is that you weren't just one person."
+<ptT0176>"Mas a realidade e que voce nao era apenas uma pessoa."
+
+//TEXT 【Ayana】
+<enT0177>"The Yuki-san that was caught up in Takashima Zakuro's suicide, the Yuki-san that died in Sawaimura, the Yuki-san that was created by Tomosane-kun, and the Yuki-san that is right here."
+<ptT0177>"A Yuki-san envolvida no suicidio de Takashima Zakuro, a Yuki-san que morreu em Sawaimura, a Yuki-san criada por Tomosane-kun, e a Yuki-san que esta aqui agora."
+
+//TEXT 【Yuki】
+<enT0178>"I don't know. I'm just me."
+<ptT0178>"Nao sei. Eu sou apenas eu."
+
+//TEXT 【Ayana】
+<enT0179>"The scene you saw in the spirit room... The End Sky. When did that scene happen?"
+<ptT0179>"A cena que voce viu na sala dos espiritos... O End Sky. Quando aquela cena aconteceu?"
+
+//TEXT 【Yuki】
+<enT0180>"Scene?"
+<ptT0180>"Cena?"
+
+//TEXT 【Yuki】
+<enT0181>"Ah!"
+<ptT0181>"Ah!"
+
+//TEXT
+<enT0182>At that moment, strangely enough, I remembered the expiration date on a bag of potato chips I found in that attraction.
+<ptT0182>Naquele momento, estranhamente, me lembrei da data de validade de um pacote de salgadinhos que encontrei naquela atracao.
+
+//TEXT
+<enT0183>I remembered the date on the calendar on the wall.
+<ptT0183>Me lembrei da data no calendario na parede.
+
+//TEXT
+<enT0184>I didn't at all understand what it meant, but...
+<ptT0184>Eu nao entendia absolutamente o que aquilo significava, mas...
+
+//TEXT
+<enT0185>Somehow, I remembered that date.
+<ptT0185>De alguma forma, me lembrei daquela data.
+
+//TEXT
+<enT0186>I didn't know whether those words had any meaning.
+<ptT0186>Eu nao sabia se aquelas palavras tinham algum significado.
+
+//TEXT
+<enT0187>The only thing that particularly stood out in my mind was the date.
+<ptT0187>A unica coisa que se destacava na minha mente era a data.
+
+//TEXT 【Ayana】
+<enT0188>"The final annotation that I could give you..."
+<ptT0188>"A anotacao final que eu poderia lhe dar..."
+
+//TEXT 【Ayana】
+<enT0189>"Hypothesis #7: Every existence was created by one soul."
+<ptT0189>"Hipotese #7: Toda existencia foi criada por uma unica alma."
+
+//TEXT 【Yuki】
+<enT0190>"Wh-What do you mean?"
+<ptT0190>"O-O que voce quer dizer?"
+
+//TEXT 【Ayana】
+<enT0191>"Hehehehe. If all of the different Yuki-sans that existed really were Yuki-san, then the world doesn't require very many souls to exist."
+<ptT0191>"Hehehehe. Se todas as diferentes Yuki-san que existiram eram realmente Yuki-san, entao o mundo nao precisa de muitas almas para existir."
+
+//TEXT 【Ayana】
+<enT0192>"If a single soul viewed every perspective, that would be enough."
+<ptT0192>"Se uma unica alma visse todas as perspectivas, isso seria suficiente."
+
+//TEXT 【Yuki】
+<enT0193>"I don't understand what you're saying. That's..."
+<ptT0193>"Nao entendo o que voce esta dizendo. Isso e..."
+
+//TEXT 【Ayana】
+<enT0194>"Takashima Zakuro, Mamiya Tomosane, and Mamiya Takuji. Even Mamiya Hasaki, Wakatsuki Kagami, and Wakatsuki Tsukasa. A single soul saw each and every one of those scenes."
+<ptT0194>"Takashima Zakuro, Mamiya Tomosane, e Mamiya Takuji. Ate mesmo Mamiya Hasaki, Wakatsuki Kagami, e Wakatsuki Tsukasa. Uma unica alma viu cada uma dessas cenas."
+
+//TEXT 【Yuki】
+<enT0195>"That would be too strange. The time overlaps."
+<ptT0195>"Isso seria estranho demais. Os tempos se sobrepoem."
+
+//TEXT 【Ayana】
+<enT0196>"If you're going to say that, then you have to consider that the Yuki-san who was caught up in Takashima Zakuro-san's suicide existed at the same time as the Yuki-san who was not caught up in her suicide."
+<ptT0196>"Se voce vai dizer isso, entao tem que considerar que a Yuki-san que se envolveu no suicidio de Takashima Zakuro-san existia ao mesmo tempo que a Yuki-san que nao se envolveu no suicidio dela."
+
+//TEXT 【Ayana】
+<enT0197>"Ubiquitous transmigration."
+<ptT0197>"Transmigracao ubiqua."
+
+//TEXT 【Yuki】
+<enT0198>"Ubiquitous transmigration?"
+<ptT0198>"Transmigracao ubiqua?"
+
+//TEXT 【Ayana】
+<enT0199>"The endless reincarnation of a single soul."
+<ptT0199>"A reencarnacao interminavel de uma unica alma."
+
+//TEXT 【Ayana】
+<enT0200>"Beyond the pale of time and space, the soul reincarnates endlessly. If that was possible, then the entire world wouldn't need more than one soul."
+<ptT0200>"Alem dos limites do tempo e do espaco, a alma reencarana infinitamente. Se isso fosse possivel, o mundo inteiro nao precisaria de mais de uma alma."
+
+//TEXT 【Ayana】
+<enT0201>"The world is created through the endless transmigration of just one soul."
+<ptT0201>"O mundo e criado atraves da transmigracao interminavel de uma unica alma."
+
+//TEXT 【Ayana】
+<enT0202>"It would be more unnatural for every living organism to have its own soul. The number of organisms is different in every moment. There would always be too many or too few souls for all the living organisms in the world."
+<ptT0202>"Seria mais antinatural que cada ser vivo tivesse sua propria alma. O numero de organismos e diferente a cada momento. Sempre haveria almas demais ou de menos para todos os seres vivos do mundo."
+
+//TEXT 【Ayana】
+<enT0203>"So if the number of souls is just one, reincarnation would be the most suitable answer."
+<ptT0203>"Entao, se o numero de almas e apenas um, a reencarnacao seria a resposta mais adequada."
+
+//TEXT 【Ayana】
+<enT0204>"If one soul lives in all of life, then there is no problem."
+<ptT0204>"Se uma alma vive em toda a vida, entao nao ha problema."
+
+//TEXT 【Yuki】
+<enT0205>"That's... ridiculous."
+<ptT0205>"Isso e... ridiculo."
+
+//TEXT 【Ayana】
+<enT0206>"Is it?"
+<ptT0206>"E mesmo?"
+
+//TEXT 【Ayana】
+<enT0207>"This explanation could solve a great number of the world's mysteries."
+<ptT0207>"Essa explicacao poderia resolver um grande numero dos misterios do mundo."
+
+//TEXT 【Yuki】
+<enT0208>"Like what?"
+<ptT0208>"Como assim?"
+
+//TEXT 【Ayana】
+<enT0209>"Why are people able to understand each other?"
+<ptT0209>"Por que as pessoas conseguem se entender?"
+
+//TEXT 【Ayana】
+<enT0210>"If every person is a different existence, with a different perspective... If every person has a different world, then how do people understand each other?"
+<ptT0210>"Se cada pessoa e uma existencia diferente, com uma perspectiva diferente... Se cada pessoa tem um mundo diferente, entao como as pessoas se entendem?"
+
+//TEXT 【Ayana】
+<enT0211>"You can't explain it."
+<ptT0211>"Voce nao consegue explicar."
+
+//TEXT 【Ayana】
+<enT0212>"If they both see the color red, how do they know that they're both seeing the same red color?"
+<ptT0212>"Se ambas veem a cor vermelha, como sabem que estao vendo a mesma cor vermelha?"
+
+//TEXT 【Ayana】
+<enT0213>"Tomosane-kun talked about a thought experiment, where one person might see the world through glasses that mirrored the world left to right and top to bottom."
+<ptT0213>"Tomosane-kun falou sobre um experimento mental, onde uma pessoa poderia ver o mundo atraves de oculos que espelham o mundo da esquerda para a direita e de cima para baixo."
+
+//TEXT 【Ayana】
+<enT0214>"I can understand that I am seeing the same world as other people because there is a consistency with the world that other people see."
+<ptT0214>"Posso entender que estou vendo o mesmo mundo que outras pessoas porque ha uma consistencia com o mundo que outras pessoas veem."
+
+//TEXT 【Ayana】
+<enT0215>"But where does that understanding come from?"
+<ptT0215>"Mas de onde vem essa compreensao?"
+
+//TEXT 【Ayana】
+<enT0216>"How can you say that the sensations of sight, sound, touch, smell, and taste which I feel are the same as those which others feel?"
+<ptT0216>"Como voce pode dizer que as sensacoes de visao, som, tato, olfato e paladar que eu sinto sao as mesmas que os outros sentem?"
+
+//TEXT 【Ayana】
+<enT0217>"For instance... Pain."
+<ptT0217>"Por exemplo... Dor."
+
+//TEXT 【Ayana】
+<enT0218>"How do I understand another person's pain?"
+<ptT0218>"Como eu entendo a dor de outra pessoa?"
+
+//TEXT 【Yuki】
+<enT0219>"From their expression or behavior. You can listen to the words they're saying, too."
+<ptT0219>"Pela expressao ou comportamento dela. Voce tambem pode ouvir as palavras que ela esta dizendo."
+
+//TEXT 【Ayana】
+<enT0220>"That doesn't make for a sufficient explanation. In that case, the 'pain' which I understand could be different than the 'pain' which he or she is feeling."
+<ptT0220>"Isso nao constitui uma explicacao suficiente. Nesse caso, a 'dor' que eu entendo pode ser diferente da 'dor' que ele ou ela esta sentindo."
+
+//TEXT 【Yuki】
+<enT0221>"Then you have to use your imagination."
+<ptT0221>"Entao voce tem que usar a imaginacao."
+
+//TEXT 【Ayana】
+<enT0222>"Imagination. In other words, you can feel another person's pain by imagining that they feel the same pain that you do."
+<ptT0222>"Imaginacao. Em outras palavras, voce pode sentir a dor de outra pessoa imaginando que ela sente a mesma dor que voce."
+
+//TEXT 【Ayana】
+<enT0223>"Then let's suppose that I feel 'pain' in this arm. Then I move that 'pain' to my fingertips."
+<ptT0223>"Entao suponhamos que eu sinta 'dor' neste braco. Depois movo essa 'dor' para as pontas dos meus dedos."
+
+//TEXT 【Ayana】
+<enT0224>"Then I move the 'pain' from my fingertips to the ground when I touch it with my fingertips. Then at that moment, I should feel 'pain' in the ground. Then I move that 'pain' from the ground into your leg."
+<ptT0224>"Depois movo a 'dor' das pontas dos dedos para o chao quando o toco com as pontas dos dedos. Entao naquele momento, devo sentir 'dor' no chao. Depois movo essa 'dor' do chao para a sua perna."
+
+//TEXT 【Ayana】
+<enT0225>"That's how I would move the 'pain' I feel from my body to another person so that I could feel their pain."
+<ptT0225>"E assim que moveria a 'dor' que sinto do meu corpo para outra pessoa para que eu pudesse sentir a dor dela."
+
+//TEXT 【Ayana】
+<enT0226>"That's the only way you could 'imagine another person's pain.'"
+<ptT0226>"Essa e a unica forma de 'imaginar a dor de outra pessoa.'"
+
+//TEXT 【Ayana】
+<enT0227>"That 'pain' could be attributed to the ground, the clothes you wear, or even a book or desk. If you simply attribute pain to another thing through your imagination, then it holds no more meaning than 'pain' attributed to a book or a desk."
+<ptT0227>"Essa 'dor' poderia ser atribuida ao chao, as roupas que voce usa, ou ate mesmo a um livro ou mesa. Se voce simplesmente atribui dor a outra coisa atraves da imaginacao, entao ela nao tem mais significado do que a 'dor' atribuida a um livro ou mesa."
+
+//TEXT 【Yuki】
+<enT0228>"I can base my understanding in the pain which I can feel, but I have to use my imagination to feel pain which I cannot feel."
+<ptT0228>"Posso basear minha compreensao na dor que consigo sentir, mas tenho que usar a imaginacao para sentir a dor que nao consigo sentir."
+
+//TEXT 【Yuki】
+<enT0229>"That argument comes from the philosopher Wittgenstein, doesn't it?"
+<ptT0229>"Esse argumento vem do filosofo Wittgenstein, nao e?"
+
+//TEXT 【Yuki】
+<enT0230>"To feel another person's pain is not the same thing as using your imagination to move the pain from your body to another person's body."
+<ptT0230>"Sentir a dor de outra pessoa nao e a mesma coisa que usar a imaginacao para mover a dor do seu corpo para o corpo de outra pessoa."
+
+//TEXT 【Ayana】
+<enT0231>"Hehehehe. You know the answer, but you're playing dumb."
+<ptT0231>"Hehehehe. Voce sabe a resposta, mas esta fingindo que nao sabe."
+
+//TEXT 【Ayana】
+<enT0232>"Why does 'pain' hold the same meaning for both you and another person?"
+<ptT0232>"Por que a 'dor' tem o mesmo significado tanto para voce quanto para outra pessoa?"
+
+//TEXT 【Yuki】
+<enT0233>"I see. So you're trying to say that every person is just another 'me,' right?"
+<ptT0233>"Entendo. Entao voce esta tentando dizer que cada pessoa e apenas outro 'eu', certo?"
+
+//TEXT 【Ayana】
+<enT0234>"Yes. That is hypothesis #7."
+<ptT0234>"Sim. Essa e a hipotese #7."
+
+//TEXT 【Ayana】
+<enT0235>"Every single person is 'me,' including the miserable wretch and the beautiful girl."
+<ptT0235>"Cada pessoa e 'eu', incluindo o coitado miseravel e a garota bonita."
+
+//TEXT 【Ayana】
+<enT0236>"Both the young man who becomes a bully and the young man who is bullied."
+<ptT0236>"Tanto o jovem que se torna um valentao quanto o jovem que e intimidado."
+
+//TEXT 【Ayana】
+<enT0237>"The pathetic, the filthy, the beautiful, and the proud. All of them are 'me.'"
+<ptT0237>"Os patéticos, os imundos, os bonitos e os orgulhosos. Todos eles sao 'eu'."
+
+//TEXT 【Ayana】
+<enT0238>"The entire world is made up of 'me.' That's why I can understand you."
+<ptT0238>"O mundo inteiro e feito de 'eu'. Por isso consigo entender voce."
+
+//TEXT 【Ayana】
+<enT0239>"I understand your pain. I understand your sadness. I understand your happiness."
+<ptT0239>"Entendo sua dor. Entendo sua tristeza. Entendo sua felicidade."
+
+//TEXT 【Ayana】
+<enT0240>"The world has an infinite number of 'me.'"
+<ptT0240>"O mundo tem um numero infinito de 'eu'."
+
+//TEXT 【Yuki】
+<enT0241>"That's a really grotesque theory, isn't it?"
+<ptT0241>"Essa e uma teoria realmente grotesca, nao e?"
+
+//TEXT 【Ayana】
+<enT0242>"But hypothesis #7 would explain everything. It would explain everything which you felt was incomprehensible in this world."
+<ptT0242>"Mas a hipotese #7 explicaria tudo. Explicaria tudo que voce achava incompreensivel neste mundo."
+
+//TEXT 【Yuki】
+<enT0243>"That's not the only explanation. There are plenty of explanations that would explain it."
+<ptT0243>"Essa nao e a unica explicacao. Ha varias explicacoes que dariam conta disso."
+
+//TEXT 【Yuki】
+<enT0244>"God created the world as it is five minutes ago. Martians came to Earth and messed with the memory of everyone on Earth. You could come up with as many ridiculous explanations as you want."
+<ptT0244>"Deus criou o mundo como ele e ha cinco minutos. Marcianos vieram a Terra e mexeram com a memoria de todos na Terra. Voce pode inventar quantas explicacoes ridiculas quiser."
+
+//TEXT 【Yuki】
+<enT0245>"But those are all..."
+<ptT0245>"Mas todas essas sao..."
+
+//TEXT 【Ayana】
+<enT0246>"Places whereof we cannot speak."
+<ptT0246>"Places whereof we cannot speak."
+
+//TEXT 【Yuki】
+<enT0247>"Haa... So what then? What does it mean if hypothesis #7 is correct? Did the first soul come into existence when the world's first lifeform was born?"
+<ptT0247>"Haa... E entao? O que significa se a hipotese #7 estiver correta? A primeira alma surgiu quando o primeiro ser vivo do mundo nasceu?"
+
+//TEXT 【Yuki】
+<enT0248>"Or did it all come from some kind of special place in time or space? Did everything originate from a certain point like that?"
+<ptT0248>"Ou tudo veio de algum lugar especial no tempo ou no espaco? Tudo se originou a partir de um certo ponto como esse?"
+
+//TEXT 【Ayana】
+<enT0249>"Hehehehe. It could be said to start from any point you wish."
+<ptT0249>"Hehehehe. Poderia se dizer que comeca em qualquer ponto que voce quiser."
+
+//TEXT 【Ayana】
+<enT0250>"For instance, maybe it started at the moment of Takashima Zakuro-san's suicide. The ubiquitous transmigration of souls."
+<ptT0250>"Por exemplo, talvez tenha comeado no momento do suicidio de Takashima Zakuro-san. A transmigracao ubiqua das almas."
+
+//TEXT 【Yuki】
+<enT0251>"Living through the same world over and over as different versions of 'me'... So you mean she might've lived through a different future?"
+<ptT0251>"Vivendo o mesmo mundo repetidas vezes como versoes diferentes de 'eu'... Entao voce quer dizer que ela pode ter vivido um futuro diferente?"
+
+//TEXT 【Ayana】
+<enT0252>"Or perhaps it was on that summer day when Yuki-san died in Sawaimura when the soul began its ubiquitous transmigration."
+<ptT0252>"Ou talvez tenha sido naquele dia de verao quando Yuki-san morreu em Sawaimura que a alma iniciou sua transmigracao ubiqua."
+
+//TEXT 【Ayana】
+<enT0253>"Or perhaps it was a mysterious point in the past which you don't remember. Perhaps everything began at one point, when the End Sky appeared. The ubiquitous transmigration of souls..."
+<ptT0253>"Ou talvez tenha sido um ponto misterioso no passado que voce nao se lembra. Talvez tudo tenha comecado em um ponto, quando o End Sky apareceu. A transmigracao ubiqua das almas..."
+
+//TEXT 【Yuki】
+<enT0254>"When the End Sky appeared?"
+<ptT0254>"Quando o End Sky apareceu?"
+
+//TEXT 【Yuki】
+<enT0255>"What do you mean? Is there such a point?"
+<ptT0255>"O que voce quer dizer? Existe tal ponto?"
+
+//TEXT 【Ayana】
+<enT0256>"It's just a hypothesis. That is one more possibility which you could imagine."
+<ptT0256>"E apenas uma hipotese. Essa e mais uma possibilidade que voce poderia imaginar."
+
+//TEXT 【Ayana】
+<enT0257>"A certain point, a day which was called the end of the world... Even though the world ended at that point, the soul continues to make the world loop time and time again, as if it still existed."
+<ptT0257>"Um certo ponto, um dia que foi chamado de fim do mundo... Mesmo que o mundo tenha acabado naquele ponto, a alma continua fazendo o mundo se repetir vez apos vez, como se ainda existisse."
+
+//TEXT 【Yuki】
+<enT0258>"What kind of hypothesis is that?"
+<ptT0258>"Que tipo de hipotese e essa?"
+
+//TEXT 【Ayana】
+<enT0259>"It's just an annotation. It's just one more kind of explanation which we could come up with."
+<ptT0259>"E apenas uma anotacao. E apenas mais um tipo de explicacao que poderiamos inventar."
+
+//TEXT 【Ayana】
+<enT0260>"I don't know whether you prefer that explanation over the last."
+<ptT0260>"Nao sei se voce prefere essa explicacao a anterior."
+
+//TEXT 【Yuki】
+<enT0261>"If I... prefer it?"
+<ptT0261>"Se eu... prefiro?"
+
+//TEXT 【Yuki】
+<enT0262>"Haa..."
+<ptT0262>"Haa..."
+
+//TEXT
+<enT0263>I closed my eyes.
+<ptT0263>Fechei os olhos.
+
+//TEXT
+<enT0264>...
+<ptT0264>...
+
+//TEXT
+<enT0265>Maybe the world ended a long time ago, in the distant past.
+<ptT0265>Talvez o mundo tenha acabado ha muito tempo, num passado distante.
+
+//TEXT
+<enT0266>The soul which I call 'me'... I feel like it must have taken these same actions millions or billions of times already.
+<ptT0266>A alma que chamo de 'eu'... Sinto que ela ja deve ter realizado essas mesmas acoes milhoes ou bilhoes de vezes.
+
+//TEXT
+<enT0267>Maybe I acted the role of every single one of the world's souls.
+<ptT0267>Talvez eu tenha assumido o papel de cada uma das almas do mundo.
+
+//TEXT
+<enT0268>
+<ptT0268>
+
+//TEXT
+<enT0269>At times I'm Minakami Yuki.
+<ptT0269>Às vezes sou Minakami Yuki.
+
+//TEXT
+<enT0270>
+<ptT0270>
+
+//TEXT
+<enT0271>At times I'm Mamiya Takuji.
+<ptT0271>Às vezes sou Mamiya Takuji.
+
+//TEXT
+<enT0272>
+<ptT0272>
+
+//TEXT
+<enT0273>At times I'm Yuuki Tomosane.
+<ptT0273>Às vezes sou Yuuki Tomosane.
+
+//TEXT
+<enT0274>
+<ptT0274>
+
+//TEXT
+<enT0275>At times I'm Takashima Zakuro.
+<ptT0275>Às vezes sou Takashima Zakuro.
+
+//TEXT
+<enT0276>
+<ptT0276>
+
+//TEXT
+<enT0277>At times I'm Mamiya Hasaki.
+<ptT0277>Às vezes sou Mamiya Hasaki.
+
+//TEXT
+<enT0278>
+<ptT0278>
+
+//TEXT
+<enT0279>At times I'm Wakatsuki Kagami.
+<ptT0279>Às vezes sou Wakatsuki Kagami.
+
+//TEXT
+<enT0280>
+<ptT0280>
+
+//TEXT
+<enT0281>At times I'm Wakatsuki Tsukasa.
+<ptT0281>Às vezes sou Wakatsuki Tsukasa.
+
+//TEXT
+<enT0282>
+<ptT0282>
+
+//TEXT
+<enT0283>At times I'm Minakami Yuki.
+<ptT0283>Às vezes sou Minakami Yuki.
+
+//TEXT
+<enT0284>
+<ptT0284>
+
+//TEXT
+<enT0285>At times I'm Mamiya Takuji.
+<ptT0285>Às vezes sou Mamiya Takuji.
+
+//TEXT
+<enT0286>
+<ptT0286>
+
+//TEXT
+<enT0287>At times I'm Yuuki Tomosane.
+<ptT0287>Às vezes sou Yuuki Tomosane.
+
+//TEXT
+<enT0288>
+<ptT0288>
+
+//TEXT
+<enT0289>At times I'm Takashima Zakuro.
+<ptT0289>Às vezes sou Takashima Zakuro.
+
+//TEXT
+<enT0290>
+<ptT0290>
+
+//TEXT
+<enT0291>At times I'm Mamiya Hasaki.
+<ptT0291>Às vezes sou Mamiya Hasaki.
+
+//TEXT
+<enT0292>
+<ptT0292>
+
+//TEXT
+<enT0293>At times I'm Wakatsuki Kagami.
+<ptT0293>Às vezes sou Wakatsuki Kagami.
+
+//TEXT
+<enT0294>
+<ptT0294>
+
+//TEXT
+<enT0295>At times I'm Wakatsuki Tsukasa.
+<ptT0295>Às vezes sou Wakatsuki Tsukasa.
+
+//TEXT
+<enT0296>
+<ptT0296>
+
+//TEXT
+<enT0297>And...
+<ptT0297>E...
+
+//TEXT
+<enT0298>
+<ptT0298>
+
+//TEXT
+<enT0299>Once again...
+<ptT0299>Mais uma vez...
+
+//TEXT
+<enT0300>
+<ptT0300>
+
+//TEXT
+<enT0301>I feel as if I'm doing it all for the first time.
+<ptT0301>Sinto como se estivesse fazendo tudo pela primeira vez.
+
+//TEXT
+<enT0302>
+<ptT0302>
+
+//TEXT
+<enT0303>Well...
+<ptT0303>Bom...
+
+//TEXT
+<enT0304>
+<ptT0304>
+
+//TEXT
+<enT0305>It doesn't really matter either way.
+<ptT0305>Nao importa de jeito nenhum.
+
+//TEXT
+<enT0306>
+<ptT0306>
+
+//TEXT
+<enT0307>Now...
+<ptT0307>Agora...
+
+//TEXT
+<enT0308>
+<ptT0308>
+
+//TEXT
+<enT0309>That's it.
+<ptT0309>E isso.
+
+//TEXT
+<enT0310>
+<ptT0310>
+
+//TEXT
+<enT0311>The sky.
+<ptT0311>O ceu.
+
+//TEXT
+<enT0312>
+<ptT0312>
+
+//TEXT
+<enT0313>It's the sky.
+<ptT0313>E o ceu.
+
+//TEXT
+<enT0314>
+<ptT0314>
+
+//TEXT
+<enT0315>I can see the sky.
+<ptT0315>Consigo ver o ceu.
+
+//TEXT
+<enT0316>
+<ptT0316>
+
+//TEXT
+<enT0317>Why is the sky...
+<ptT0317>Por que o ceu e...
+
+//TEXT
+<enT0318>
+<ptT0318>
+
+//TEXT
+<enT0319>Why is the sky blue?
+<ptT0319>Por que o ceu e azul?
+
+//TEXT
+<enT0320>
+<ptT0320>
+
+//TEXT
+<enT0321>And why...\n
+<ptT0321>E por que...\n
+
+//TEXT
+<enT0322>
+<ptT0322>
+
+//TEXT
+<enT0323>Why do we sense that it is blue?
+<ptT0323>Por que percebemos que ele e azul?
+
+//TEXT
+<enT0324>
+<ptT0324>
+
+//TEXT
+<enT0325>The endless sky.
+<ptT0325>O ceu sem fim.
+
+//TEXT
+<enT0326>
+<ptT0326>
+
+//TEXT
+<enT0327>The blue of the sky.
+<ptT0327>O azul do ceu.
+
+//TEXT
+<enT0328>
+<ptT0328>
+
+//TEXT
+<enT0329>It must be...
+<ptT0329>Deve ser...
+
+//TEXT
+<enT0330>
+<ptT0330>
+
+//TEXT
+<enT0331>...probably.
+<ptT0331>...provavelmente.
+
+//TEXT
+<enT0332>Where does the sky lead to?
+<ptT0332>Para onde o ceu leva?
+
+//TEXT
+<enT0333>It must...
+<ptT0333>Deve...
+
+//TEXT
+<enT0334>It must lead to the skies of all the rest of the world.
+<ptT0334>Deve levar aos ceus de todo o resto do mundo.
+
+//TEXT
+<enT0335>Which means that this sky leads to...
+<ptT0335>O que significa que este ceu leva a...
+
+//TEXT
+<enT0336>The End Sky.
+<ptT0336>O End Sky.
+
+//TEXT
+<enT0337>No, they're not connected.
+<ptT0337>Nao, eles nao estao conectados.
+
+//TEXT
+<enT0338>...
+<ptT0338>...
+
+//TEXT
+<enT0339>Because, after all...
+<ptT0339>Porque, afinal...
+
+//TEXT
+<enT0340>That is...
+<ptT0340>Isso e...
+
+//TEXT
+<enT0341>Something which must not be true.
+<ptT0341>Algo que nao pode ser verdade.
+
+//TEXT
+<enT0342>But...
+<ptT0342>Mas...
+
+//TEXT
+<enT0343>Is that true?
+<ptT0343>Isso e verdade?
+
+//TEXT
+<enT0344>"――――"
+<ptT0344>"――――"
+
+//TEXT
+<enT0345>A voice called out to me from somewhere.
+<ptT0345>Uma voz me chamou de algum lugar.
+
+//TEXT
+<enT0346>The voice of a classmate was calling out to me.
+<ptT0346>A voz de uma colega de turma me chamava.
+
+//TEXT
+<enT0347>I turned around.
+<ptT0347>Me virei.
+
+//TEXT 【Miu】
+<enT0348>"Otonashi Ayana-saaan."
+<ptT0348>"Otonashi Ayana-saaan."
+
+//TEXT 【Ayana】
+<enT0349>"Hello."
+<ptT0349>"Ola."
+
+//TEXT 【Miu】
+<enT0350>"Haa, haa... Jeez, I was looking for you!"
+<ptT0350>"Haa, haa... Nossa, estava te procurando!"
+
+//TEXT 【Miu】
+<enT0351>"Gosh, why are you alone here? The graduation ceremony is starting."
+<ptT0351>"Nossa, por que voce esta aqui sozinha? A cerimonia de formatura esta comecando."
+
+//TEXT 【Ayana】
+<enT0352>"It's starting..."
+<ptT0352>"Esta comecando..."
+
+//TEXT 【Miu】
+<enT0353>"That's right. It's starting right now."
+<ptT0353>"Isso mesmo. Esta comecando agora."
+
+//TEXT 【Ayana】
+<enT0354>"Hehehehe..."
+<ptT0354>"Hehehehe..."
+
+//TEXT 【Miu】
+<enT0355>"Wh-What is it?"
+<ptT0355>"O-O que foi?"
+
+//TEXT 【Ayana】
+<enT0356>"It all just ended, and now we're starting again?"
+<ptT0356>"Tudo acabou agora, e estamos comecando de novo?"
+
+//TEXT 【Miu】
+<enT0357>"Huh?"
+<ptT0357>"Huh?"
+
+//TEXT 【Ayana】
+<enT0358>"No, never mind. Let's go."
+<ptT0358>"Nao, esquece. Vamos."
+
+//TEXT 【Ayana】
+<enT0359>"Let's go to that point where it all begins."
+<ptT0359>"Vamos ao ponto onde tudo comeca."
+
+///================================================================================
+
+//OTHER
+<enZ0001>7-3_EndofSky.bss
+<ptZ0001>7-3_EndofSky.bss
+
+//OTHER
+<enZ0002>Epilogue
+<ptZ0002>Epilogue
+
+//OTHER
+<enZ0003>End Sky II
+<ptZ0003>End Sky II
+
+//OTHER
+<enZ0004>white
+<ptZ0004>white
+
+//OTHER
+<enZ0005>sp0001i
+<ptZ0005>sp0001i
+
+//OTHER
+<enZ0006>sp0001i2
+<ptZ0006>sp0001i2
+
+//OTHER
+<enZ0007>sp0007c
+<ptZ0007>sp0007c
+
+//OTHER
+<enZ0008>sp0007c2
+<ptZ0008>sp0007c2
+
+//OTHER
+<enZ0009>map023
+<ptZ0009>map023
+
+//OTHER
+<enZ0010>bgm019
+<ptZ0010>bgm019
+
+//OTHER
+<enZ0011>se503
+<ptZ0011>se503
+
+//OTHER
+<enZ0012>yuki_004930
+<ptZ0012>yuki_004930
+
+//OTHER
+<enZ0013>ayana_000001
+<ptZ0013>ayana_000001
+
+//OTHER
+<enZ0014>yuki_004931
+<ptZ0014>yuki_004931
+
+//OTHER
+<enZ0015>ayana_000002
+<ptZ0015>ayana_000002
+
+//OTHER
+<enZ0016>yuki_004932
+<ptZ0016>yuki_004932
+
+//OTHER
+<enZ0017>ayana_000003
+<ptZ0017>ayana_000003
+
+//OTHER
+<enZ0018>yuki_004933
+<ptZ0018>yuki_004933
+
+//OTHER
+<enZ0019>ayana_000004
+<ptZ0019>ayana_000004
+
+//OTHER
+<enZ0020>yuki_004934
+<ptZ0020>yuki_004934
+
+//OTHER
+<enZ0021>ayana_000005
+<ptZ0021>ayana_000005
+
+//OTHER
+<enZ0022>yuki_004935
+<ptZ0022>yuki_004935
+
+//OTHER
+<enZ0023>ayana_000006
+<ptZ0023>ayana_000006
+
+//OTHER
+<enZ0024>yuki_004936
+<ptZ0024>yuki_004936
+
+//OTHER
+<enZ0025>ayana_000007
+<ptZ0025>ayana_000007
+
+//OTHER
+<enZ0026>yuki_004937
+<ptZ0026>yuki_004937
+
+//OTHER
+<enZ0027>ayana_000008
+<ptZ0027>ayana_000008
+
+//OTHER
+<enZ0028>yuki_004938
+<ptZ0028>yuki_004938
+
+//OTHER
+<enZ0029>ayana_000009
+<ptZ0029>ayana_000009
+
+//OTHER
+<enZ0030>yuki_004939
+<ptZ0030>yuki_004939
+
+//OTHER
+<enZ0031>ayana_000010
+<ptZ0031>ayana_000010
+
+//OTHER
+<enZ0032>yuki_004940
+<ptZ0032>yuki_004940
+
+//OTHER
+<enZ0033>ayana_000011
+<ptZ0033>ayana_000011
+
+//OTHER
+<enZ0034>yuki_004941
+<ptZ0034>yuki_004941
+
+//OTHER
+<enZ0035>ayana_000012
+<ptZ0035>ayana_000012
+
+//OTHER
+<enZ0036>yuki_004942
+<ptZ0036>yuki_004942
+
+//OTHER
+<enZ0037>ayana_000013
+<ptZ0037>ayana_000013
+
+//OTHER
+<enZ0038>yuki_004943
+<ptZ0038>yuki_004943
+
+//OTHER
+<enZ0039>ayana_000014
+<ptZ0039>ayana_000014
+
+//OTHER
+<enZ0040>yuki_004944
+<ptZ0040>yuki_004944
+
+//OTHER
+<enZ0041>ayana_000015
+<ptZ0041>ayana_000015
+
+//OTHER
+<enZ0042>yuki_004945
+<ptZ0042>yuki_004945
+
+//OTHER
+<enZ0043>ayana_000016
+<ptZ0043>ayana_000016
+
+//OTHER
+<enZ0044>yuki_004946
+<ptZ0044>yuki_004946
+
+//OTHER
+<enZ0045>ayana_000017
+<ptZ0045>ayana_000017
+
+//OTHER
+<enZ0046>yuki_004947
+<ptZ0046>yuki_004947
+
+//OTHER
+<enZ0047>ayana_000018
+<ptZ0047>ayana_000018
+
+//OTHER
+<enZ0048>yuki_004948
+<ptZ0048>yuki_004948
+
+//OTHER
+<enZ0049>ayana_000019
+<ptZ0049>ayana_000019
+
+//OTHER
+<enZ0050>yuki_004949
+<ptZ0050>yuki_004949
+
+//OTHER
+<enZ0051>ayana_000020
+<ptZ0051>ayana_000020
+
+//OTHER
+<enZ0052>yuki_004950
+<ptZ0052>yuki_004950
+
+//OTHER
+<enZ0053>ayana_000021
+<ptZ0053>ayana_000021
+
+//OTHER
+<enZ0054>yuki_004951
+<ptZ0054>yuki_004951
+
+//OTHER
+<enZ0055>ayana_000022
+<ptZ0055>ayana_000022
+
+//OTHER
+<enZ0056>yuki_004952
+<ptZ0056>yuki_004952
+
+//OTHER
+<enZ0057>ayana_000023
+<ptZ0057>ayana_000023
+
+//OTHER
+<enZ0058>yuki_004953
+<ptZ0058>yuki_004953
+
+//OTHER
+<enZ0059>ayana_000024
+<ptZ0059>ayana_000024
+
+//OTHER
+<enZ0060>yuki_004954
+<ptZ0060>yuki_004954
+
+//OTHER
+<enZ0061>ayana_000025
+<ptZ0061>ayana_000025
+
+//OTHER
+<enZ0062>yuki_004955
+<ptZ0062>yuki_004955
+
+//OTHER
+<enZ0063>ayana_000026
+<ptZ0063>ayana_000026
+
+//OTHER
+<enZ0064>yuki_004956
+<ptZ0064>yuki_004956
+
+//OTHER
+<enZ0065>ayana_000027
+<ptZ0065>ayana_000027
+
+//OTHER
+<enZ0066>yuki_004957
+<ptZ0066>yuki_004957
+
+//OTHER
+<enZ0067>ayana_000028
+<ptZ0067>ayana_000028
+
+//OTHER
+<enZ0068>yuki_004958
+<ptZ0068>yuki_004958
+
+//OTHER
+<enZ0069>ayana_000029
+<ptZ0069>ayana_000029
+
+//OTHER
+<enZ0070>yuki_004959
+<ptZ0070>yuki_004959
+
+//OTHER
+<enZ0071>ayana_000030
+<ptZ0071>ayana_000030
+
+//OTHER
+<enZ0072>yuki_004960
+<ptZ0072>yuki_004960
+
+//OTHER
+<enZ0073>ayana_000031
+<ptZ0073>ayana_000031
+
+//OTHER
+<enZ0074>yuki_004961
+<ptZ0074>yuki_004961
+
+//OTHER
+<enZ0075>ayana_000032
+<ptZ0075>ayana_000032
+
+//OTHER
+<enZ0076>yuki_004962
+<ptZ0076>yuki_004962
+
+//OTHER
+<enZ0077>ayana_000033
+<ptZ0077>ayana_000033
+
+//OTHER
+<enZ0078>yuki_004963
+<ptZ0078>yuki_004963
+
+//OTHER
+<enZ0079>ayana_000034
+<ptZ0079>ayana_000034
+
+//OTHER
+<enZ0080>yuki_004964
+<ptZ0080>yuki_004964
+
+//OTHER
+<enZ0081>ayana_000035
+<ptZ0081>ayana_000035
+
+//OTHER
+<enZ0082>yuki_004965
+<ptZ0082>yuki_004965
+
+//OTHER
+<enZ0083>ayana_000036
+<ptZ0083>ayana_000036
+
+//OTHER
+<enZ0084>yuki_004966
+<ptZ0084>yuki_004966
+
+//OTHER
+<enZ0085>ayana_000037
+<ptZ0085>ayana_000037
+
+//OTHER
+<enZ0086>yuki_004967
+<ptZ0086>yuki_004967
+
+//OTHER
+<enZ0087>ayana_000038
+<ptZ0087>ayana_000038
+
+//OTHER
+<enZ0088>yuki_004968
+<ptZ0088>yuki_004968
+
+//OTHER
+<enZ0089>ayana_000039
+<ptZ0089>ayana_000039
+
+//OTHER
+<enZ0090>yuki_004969
+<ptZ0090>yuki_004969
+
+//OTHER
+<enZ0091>ayana_000040
+<ptZ0091>ayana_000040
+
+//OTHER
+<enZ0092>yuki_004970
+<ptZ0092>yuki_004970
+
+//OTHER
+<enZ0093>ayana_000041
+<ptZ0093>ayana_000041
+
+//OTHER
+<enZ0094>yuki_004971
+<ptZ0094>yuki_004971
+
+//OTHER
+<enZ0095>ayana_000042
+<ptZ0095>ayana_000042
+
+//OTHER
+<enZ0096>yuki_004972
+<ptZ0096>yuki_004972
+
+//OTHER
+<enZ0097>ayana_000043
+<ptZ0097>ayana_000043
+
+//OTHER
+<enZ0098>yuki_004973
+<ptZ0098>yuki_004973
+
+//OTHER
+<enZ0099>ayana_000044
+<ptZ0099>ayana_000044
+
+//OTHER
+<enZ0100>yuki_004974
+<ptZ0100>yuki_004974
+
+//OTHER
+<enZ0101>ayana_000045
+<ptZ0101>ayana_000045
+
+//OTHER
+<enZ0102>yuki_004975
+<ptZ0102>yuki_004975
+
+//OTHER
+<enZ0103>ayana_000046
+<ptZ0103>ayana_000046
+
+//OTHER
+<enZ0104>yuki_004976
+<ptZ0104>yuki_004976
+
+//OTHER
+<enZ0105>ayana_000047
+<ptZ0105>ayana_000047
+
+//OTHER
+<enZ0106>yuki_004977
+<ptZ0106>yuki_004977
+
+//OTHER
+<enZ0107>ayana_000048
+<ptZ0107>ayana_000048
+
+//OTHER
+<enZ0108>yuki_004978
+<ptZ0108>yuki_004978
+
+//OTHER
+<enZ0109>ayana_000049
+<ptZ0109>ayana_000049
+
+//OTHER
+<enZ0110>yuki_004979
+<ptZ0110>yuki_004979
+
+//OTHER
+<enZ0111>ayana_000050
+<ptZ0111>ayana_000050
+
+//OTHER
+<enZ0112>yuki_004980
+<ptZ0112>yuki_004980
+
+//OTHER
+<enZ0113>ayana_000051
+<ptZ0113>ayana_000051
+
+//OTHER
+<enZ0114>yuki_004981
+<ptZ0114>yuki_004981
+
+//OTHER
+<enZ0115>ayana_000052
+<ptZ0115>ayana_000052
+
+//OTHER
+<enZ0116>yuki_004982
+<ptZ0116>yuki_004982
+
+//OTHER
+<enZ0117>ayana_000053
+<ptZ0117>ayana_000053
+
+//OTHER
+<enZ0118>yuki_004983
+<ptZ0118>yuki_004983
+
+//OTHER
+<enZ0119>ayana_000054
+<ptZ0119>ayana_000054
+
+//OTHER
+<enZ0120>yuki_004984
+<ptZ0120>yuki_004984
+
+//OTHER
+<enZ0121>ayana_000055
+<ptZ0121>ayana_000055
+
+//OTHER
+<enZ0122>yuki_004985
+<ptZ0122>yuki_004985
+
+//OTHER
+<enZ0123>ayana_000056
+<ptZ0123>ayana_000056
+
+//OTHER
+<enZ0124>yuki_004986
+<ptZ0124>yuki_004986
+
+//OTHER
+<enZ0125>ayana_000057
+<ptZ0125>ayana_000057
+
+//OTHER
+<enZ0126>yuki_004987
+<ptZ0126>yuki_004987
+
+//OTHER
+<enZ0127>ayana_000058
+<ptZ0127>ayana_000058
+
+//OTHER
+<enZ0128>yuki_004988
+<ptZ0128>yuki_004988
+
+//OTHER
+<enZ0129>ayana_000059
+<ptZ0129>ayana_000059
+
+//OTHER
+<enZ0130>yuki_004989
+<ptZ0130>yuki_004989
+
+//OTHER
+<enZ0131>ayana_000060
+<ptZ0131>ayana_000060
+
+//OTHER
+<enZ0132>yuki_004990
+<ptZ0132>yuki_004990
+
+//OTHER
+<enZ0133>ayana_000061
+<ptZ0133>ayana_000061
+
+//OTHER
+<enZ0134>yuki_004991
+<ptZ0134>yuki_004991
+
+//OTHER
+<enZ0135>ayana_000062
+<ptZ0135>ayana_000062
+
+//OTHER
+<enZ0136>yuki_004992
+<ptZ0136>yuki_004992
+
+//OTHER
+<enZ0137>ayana_000063
+<ptZ0137>ayana_000063
+
+//OTHER
+<enZ0138>yuki_004993
+<ptZ0138>yuki_004993
+
+//OTHER
+<enZ0139>ayana_000064
+<ptZ0139>ayana_000064
+
+//OTHER
+<enZ0140>yuki_004994
+<ptZ0140>yuki_004994
+
+//OTHER
+<enZ0141>ayana_000065
+<ptZ0141>ayana_000065
+
+//OTHER
+<enZ0142>yuki_004995
+<ptZ0142>yuki_004995
+
+//OTHER
+<enZ0143>ayana_000066
+<ptZ0143>ayana_000066
+
+//OTHER
+<enZ0144>yuki_004996
+<ptZ0144>yuki_004996
+
+//OTHER
+<enZ0145>ayana_000067
+<ptZ0145>ayana_000067
+
+//OTHER
+<enZ0146>yuki_004997
+<ptZ0146>yuki_004997
+
+//OTHER
+<enZ0147>ayana_000068
+<ptZ0147>ayana_000068
+
+//OTHER
+<enZ0148>yuki_004998
+<ptZ0148>yuki_004998
+
+//OTHER
+<enZ0149>ayana_000069
+<ptZ0149>ayana_000069
+
+//OTHER
+<enZ0150>yuki_004999
+<ptZ0150>yuki_004999
+
+//OTHER
+<enZ0151>ayana_000070
+<ptZ0151>ayana_000070
+
+//OTHER
+<enZ0152>yuki_005000
+<ptZ0152>yuki_005000
+
+//OTHER
+<enZ0153>ayana_000071
+<ptZ0153>ayana_000071
+
+//OTHER
+<enZ0154>yuki_005001
+<ptZ0154>yuki_005001
+
+//OTHER
+<enZ0155>ayana_000072
+<ptZ0155>ayana_000072
+
+//OTHER
+<enZ0156>yuki_005002
+<ptZ0156>yuki_005002
+
+//OTHER
+<enZ0157>ayana_000073
+<ptZ0157>ayana_000073
+
+//OTHER
+<enZ0158>yuki_005003
+<ptZ0158>yuki_005003
+
+//OTHER
+<enZ0159>ayana_000074
+<ptZ0159>ayana_000074
+
+//OTHER
+<enZ0160>yuki_005004
+<ptZ0160>yuki_005004
+
+//OTHER
+<enZ0161>ayana_000075
+<ptZ0161>ayana_000075
+
+//OTHER
+<enZ0162>yuki_005005
+<ptZ0162>yuki_005005
+
+//OTHER
+<enZ0163>ayana_000076
+<ptZ0163>ayana_000076
+
+//OTHER
+<enZ0164>yuki_005006
+<ptZ0164>yuki_005006
+
+//OTHER
+<enZ0165>ayana_000077
+<ptZ0165>ayana_000077
+
+//OTHER
+<enZ0166>yuki_005007
+<ptZ0166>yuki_005007
+
+//OTHER
+<enZ0167>ayana_000078
+<ptZ0167>ayana_000078
+
+//OTHER
+<enZ0168>yuki_005008
+<ptZ0168>yuki_005008
+
+//OTHER
+<enZ0169>ayana_000079
+<ptZ0169>ayana_000079
+
+//OTHER
+<enZ0170>yuki_005009
+<ptZ0170>yuki_005009
+
+//OTHER
+<enZ0171>ayana_000080
+<ptZ0171>ayana_000080
+
+//OTHER
+<enZ0172>yuki_005010
+<ptZ0172>yuki_005010
+
+//OTHER
+<enZ0173>ayana_000081
+<ptZ0173>ayana_000081
+
+//OTHER
+<enZ0174>yuki_005011
+<ptZ0174>yuki_005011
+
+//OTHER
+<enZ0175>ayana_000082
+<ptZ0175>ayana_000082
+
+//OTHER
+<enZ0176>yuki_005012
+<ptZ0176>yuki_005012
+
+//OTHER
+<enZ0177>ayana_000083
+<ptZ0177>ayana_000083
+
+//OTHER
+<enZ0178>yuki_005013
+<ptZ0178>yuki_005013
+
+//OTHER
+<enZ0179>ayana_000084
+<ptZ0179>ayana_000084
+
+//OTHER
+<enZ0180>yuki_005014
+<ptZ0180>yuki_005014
+
+//OTHER
+<enZ0181>ayana_000085
+<ptZ0181>ayana_000085
+
+//OTHER
+<enZ0182>yuki_005015
+<ptZ0182>yuki_005015
+
+//OTHER
+<enZ0183>ayana_000086
+<ptZ0183>ayana_000086
+
+//OTHER
+<enZ0184>yuki_005016
+<ptZ0184>yuki_005016
+
+//OTHER
+<enZ0185>ayana_000087
+<ptZ0185>ayana_000087
+
+//OTHER
+<enZ0186>yuki_005017
+<ptZ0186>yuki_005017
+
+//OTHER
+<enZ0187>ayana_000088
+<ptZ0187>ayana_000088
+
+//OTHER
+<enZ0188>yuki_005018
+<ptZ0188>yuki_005018
+
+//OTHER
+<enZ0189>ayana_000089
+<ptZ0189>ayana_000089
+
+//OTHER
+<enZ0190>yuki_005019
+<ptZ0190>yuki_005019
+
+//OTHER
+<enZ0191>ayana_000090
+<ptZ0191>ayana_000090
+
+//OTHER
+<enZ0192>yuki_005020
+<ptZ0192>yuki_005020
+
+//OTHER
+<enZ0193>ayana_000091
+<ptZ0193>ayana_000091
+
+//OTHER
+<enZ0194>yuki_005021
+<ptZ0194>yuki_005021
+
+//OTHER
+<enZ0195>ayana_000092
+<ptZ0195>ayana_000092
+
+//OTHER
+<enZ0196>yuki_005022
+<ptZ0196>yuki_005022
+
+//OTHER
+<enZ0197>ayana_000093
+<ptZ0197>ayana_000093
+
+//OTHER
+<enZ0198>yuki_005023
+<ptZ0198>yuki_005023
+
+//OTHER
+<enZ0199>ayana_000094
+<ptZ0199>ayana_000094
+
+//OTHER
+<enZ0200>yuki_005024
+<ptZ0200>yuki_005024
+
+//OTHER
+<enZ0201>ayana_000095
+<ptZ0201>ayana_000095
+
+//OTHER
+<enZ0202>yuki_005025
+<ptZ0202>yuki_005025
+
+//OTHER
+<enZ0203>ayana_000096
+<ptZ0203>ayana_000096
+
+//OTHER
+<enZ0204>yuki_005026
+<ptZ0204>yuki_005026
+
+//OTHER
+<enZ0205>ayana_000097
+<ptZ0205>ayana_000097
+
+//OTHER
+<enZ0206>yuki_005027
+<ptZ0206>yuki_005027
+
+//OTHER
+<enZ0207>ayana_000098
+<ptZ0207>ayana_000098
+
+//OTHER
+<enZ0208>yuki_005028
+<ptZ0208>yuki_005028
+
+//OTHER
+<enZ0209>ayana_000099
+<ptZ0209>ayana_000099
+
+//OTHER
+<enZ0210>yuki_005029
+<ptZ0210>yuki_005029
+
+//OTHER
+<enZ0211>ayana_000100
+<ptZ0211>ayana_000100
+
+//OTHER
+<enZ0212>yuki_005030
+<ptZ0212>yuki_005030
+
+//OTHER
+<enZ0213>ayana_000101
+<ptZ0213>ayana_000101
+
+//OTHER
+<enZ0214>yuki_005031
+<ptZ0214>yuki_005031
+
+//OTHER
+<enZ0215>ayana_000102
+<ptZ0215>ayana_000102
+
+//OTHER
+<enZ0216>yuki_005032
+<ptZ0216>yuki_005032
+
+//OTHER
+<enZ0217>ayana_000103
+<ptZ0217>ayana_000103
+
+//OTHER
+<enZ0218>yuki_005033
+<ptZ0218>yuki_005033
+
+//OTHER
+<enZ0219>ayana_000104
+<ptZ0219>ayana_000104
+
+//OTHER
+<enZ0220>yuki_005034
+<ptZ0220>yuki_005034
+
+//OTHER
+<enZ0221>ayana_000105
+<ptZ0221>ayana_000105
+
+//OTHER
+<enZ0222>yuki_005035
+<ptZ0222>yuki_005035
+
+//OTHER
+<enZ0223>ayana_000106
+<ptZ0223>ayana_000106
+
+//OTHER
+<enZ0224>yuki_005036
+<ptZ0224>yuki_005036
+
+//OTHER
+<enZ0225>ayana_000107
+<ptZ0225>ayana_000107
+
+//OTHER
+<enZ0226>yuki_005037
+<ptZ0226>yuki_005037
+
+//OTHER
+<enZ0227>ayana_000108
+<ptZ0227>ayana_000108
+
+//OTHER
+<enZ0228>yuki_005038
+<ptZ0228>yuki_005038
+
+//OTHER
+<enZ0229>ayana_000109
+<ptZ0229>ayana_000109
+
+//OTHER
+<enZ0230>yuki_005039
+<ptZ0230>yuki_005039
+
+//OTHER
+<enZ0231>ayana_000110
+<ptZ0231>ayana_000110
+
+//OTHER
+<enZ0232>yuki_005040
+<ptZ0232>yuki_005040
+
+//OTHER
+<enZ0233>ayana_000111
+<ptZ0233>ayana_000111
+
+//OTHER
+<enZ0234>yuki_005041
+<ptZ0234>yuki_005041
+
+//OTHER
+<enZ0235>ayana_000112
+<ptZ0235>ayana_000112
+
+//OTHER
+<enZ0236>yuki_005042
+<ptZ0236>yuki_005042
+
+//OTHER
+<enZ0237>miu_000001
+<ptZ0237>miu_000001
+
+//OTHER
+<enZ0238>ayana_000113
+<ptZ0238>ayana_000113
+
+//OTHER
+<enZ0239>miu_000002
+<ptZ0239>miu_000002
+
+//OTHER
+<enZ0240>ayana_000114
+<ptZ0240>ayana_000114
+
+//OTHER
+<enZ0241>miu_000003
+<ptZ0241>miu_000003
+
+//OTHER
+<enZ0242>ayana_000115
+<ptZ0242>ayana_000115
+
+//OTHER
+<enZ0243>miu_000004
+<ptZ0243>miu_000004
+
+//OTHER
+<enZ0244>ayana_000116
+<ptZ0244>ayana_000116
+
+//OTHER
+<enZ0245>end7-3
+<ptZ0245>end7-3
+
+//OTHER
+<enZ0246>main
+<ptZ0246>main
+
+//OTHER
+<enZ0247>end7-3
+<ptZ0247>end7-3
+
+//OTHER
+<enZ0248>main
+<ptZ0248>main
+
+//OTHER
+<enZ0249>end7-3
+<ptZ0249>end7-3
+
+//OTHER
+<enZ0250>main
+<ptZ0250>main
+

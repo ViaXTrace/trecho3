@@ -1,0 +1,1536 @@
+//NAME
+<enN0001>Tomosane
+<ptN0001>Tomosane
+
+//NAME
+<enN0002>Hiroo
+<ptN0002>Hiroo
+
+//NAME
+<enN0003>Hasaki
+<ptN0003>Hasaki
+
+///================================================================================
+
+//TEXT
+<enT0001>A summer day.
+<ptT0001>Um dia de verao.
+
+//TEXT
+<enT0002>I walked along the side of the road.
+<ptT0002>Eu caminhava pela beira da estrada.
+
+//TEXT
+<enT0003>The rays of a summer sun pierced me.
+<ptT0003>Os raios de um sol de verao me perfuravam.
+
+//TEXT
+<enT0004>A blue sky stretched overhead.
+<ptT0004>Um ceu azul se estendia la em cima.
+
+//TEXT
+<enT0005>Great white clouds dotted the sky.
+<ptT0005>Grandes nuvens brancas pontilhavam o ceu.
+
+//TEXT
+<enT0006>The trees were full of green.
+<ptT0006>As arvores estavam cheias de verde.
+
+//TEXT
+<enT0007>I walked through just such a scene.
+<ptT0007>Eu caminhava por exatamente essa cena.
+
+//TEXT
+<enT0008>Every time the wind blew, I smelled the wild grass.
+<ptT0008>Cada vez que o vento soprava, eu sentia o cheiro da erva selvagem.
+
+//TEXT
+<enT0009>The babbling of a brook.
+<ptT0009>O borbulhar de um riacho.
+
+//TEXT
+<enT0010>The smell of earth under our feet.
+<ptT0010>O cheiro de terra sob os pes.
+
+//TEXT
+<enT0011>My father was born in this town.
+<ptT0011>Meu pai nasceu nessa cidade.
+
+//TEXT
+<enT0012>It was called Sawaimura.
+<ptT0012>Era chamada de Sawaimura.
+
+//TEXT
+<enT0013>Though, to be honest, I couldn't tell you where it was located in Japan.
+<ptT0013>Embora, para ser honesto, eu nao saberia te dizer onde ela fica no Japao.
+
+//TEXT
+<enT0014>Both the summers and winters, though, were colder than those in Tokyo.
+<ptT0014>Os veraos e invernos, porem, eram mais frios do que os de Tokyo.
+
+//TEXT
+<enT0015>As a young boy, that was all I understood about this place.
+<ptT0015>Quando era crianca, era tudo o que eu entendia sobre esse lugar.
+
+//TEXT 【Tomosane】
+<enT0016>"Um... Hasaki should be coming soon, right?"
+<ptT0016>"Hmm... Hasaki deve chegar logo, certo?"
+
+//TEXT
+<enT0017>I checked the time.
+<ptT0017>Olhei o horario.
+
+//TEXT
+<enT0018>People in this village don't seem to pay attention to the time like we do in the city, so I had to bring an alarm clock from home.
+<ptT0018>As pessoas nessa vila nao parecem prestar atencao na hora como a gente faz na cidade, entao eu tive que trazer um despertador de casa.
+
+//TEXT
+<enT0019>It was already long past the time we promised to meet.
+<ptT0019>Ja havia passado muito tempo desde o horario combinado.
+
+//TEXT
+<enT0020>The alarm I had set already rang a long time ago.
+<ptT0020>O alarme que eu havia programado ja tocou faz um bom tempo.
+
+//TEXT
+<enT0021>It was probably pointless setting an alarm in the first place.
+<ptT0021>Provavelmente foi inutil programar um alarme desde o inicio.
+
+//TEXT 【Tomosane】
+<enT0022>"They said they were coming at three o'clock in the afternoon. Jeez."
+<ptT0022>"Disseram que chegariam as tres da tarde. Poxa."
+
+//TEXT
+<enT0023>Hasaki was coming to Sawaimura.
+<ptT0023>Hasaki vinha para Sawaimura.
+
+//TEXT
+<enT0024>To get away from that damn witch, especially now that our father was being hospitalized.
+<ptT0024>Para se afastar daquela maldita bruxa, especialmente agora que nosso pai seria internado.
+
+//TEXT 【Tomosane】
+<enT0025>"I wish he would just divorce that stupid witch."
+<ptT0025>"Queria que ele simplesmente divorciasse daquela bruxa idiota."
+
+//TEXT
+<enT0026>"Hahaha... You shouldn't say that."
+<ptT0026>"Hahaha... Voce nao deveria dizer isso."
+
+//TEXT 【Tomosane】
+<enT0027>"What? Whoa!"
+<ptT0027>"O que? Caramba!"
+
+//TEXT 【Tomosane】
+<enT0028>"Huh? D-Dad?"
+<ptT0028>"Ha? P-Pai?"
+
+//TEXT 【Hiroo】
+<enT0029>"Tomosane-kun, how have you been?"
+<ptT0029>"Tomosane-kun, como voce tem estado?"
+
+//TEXT 【Tomosane】
+<enT0030>"Which tree did you pop out from?"
+<ptT0030>"De qual arvore voce saiu?"
+
+//TEXT 【Hiroo】
+<enT0031>"Sorry, sorry. It takes a long time to walk from the bus station."
+<ptT0031>"Desculpa, desculpa. Demora muito a pe ate o ponto de onibus."
+
+//TEXT 【Tomosane】
+<enT0032>"Oh. So, where's Hasaki?"
+<ptT0032>"Ah. Entao, onde esta Hasaki?"
+
+//TEXT 【Hiroo】
+<enT0033>"Huh?"
+<ptT0033>"Ha?"
+
+//TEXT 【Hasaki】
+<enT0034>"Eek!"
+<ptT0034>"Ai!"
+
+//TEXT
+<enT0035>
+<ptT0035>
+
+//TEXT
+<enT0036>Someone jumped in surprise and then hid behind Dad's leg.
+<ptT0036>Alguem pulou de susto e se escondeu atras da perna do Pai.
+
+//TEXT
+<enT0037>She was very small, but even she couldn't completely hide herself behind him.
+<ptT0037>Ela era muito pequena, mas mesmo assim nao conseguia se esconder completamente atras dele.
+
+//TEXT 【Tomosane】
+<enT0038>"Jeez, are you hiding again?"
+<ptT0038>"Poxa, voce ta se escondendo de novo?"
+
+//TEXT 【Hiroo】
+<enT0039>"Ahaha. Come on, Hasaki-san. It's okay."
+<ptT0039>"Ahaha. Vamos, Hasaki-san. Ta tudo bem."
+
+//TEXT 【Tomosane】
+<enT0040>"C'mon, why are you hiding? Did you forget me already? It's only been three years."
+<ptT0040>"Vai la, por que voce ta se escondendo? Ja me esqueceu? Faz so tres anos."
+
+//TEXT 【Hiroo】
+<enT0041>"Don't say that. Hasaki was still little when you were in Tokyo."
+<ptT0041>"Nao diga isso. Hasaki ainda era pequena quando voce estava em Tokyo."
+
+//TEXT 【Tomosane】
+<enT0042>"So she doesn't remember me?"
+<ptT0042>"Entao ela nao se lembra de mim?"
+
+//TEXT 【Hiroo】
+<enT0043>"Well, maybe she doesn't."
+<ptT0043>"Bom, talvez nao."
+
+//TEXT 【Hasaki】
+<enT0044>"U-Um, are you my brother?"
+<ptT0044>"U-Uhm, voce e meu irmao?"
+
+//TEXT 【Tomosane】
+<enT0045>"Yeah, that's right! I'm Tomosane, your brother!"
+<ptT0045>"Sim, isso mesmo! Sou Tomosane, seu irmao!"
+
+//TEXT 【Hasaki】
+<enT0046>"Ah!"
+<ptT0046>"Ah!"
+
+//TEXT 【Tomosane】
+<enT0047>"Why are you hiding again?!"
+<ptT0047>"Por que voce ta se escondendo de novo?!"
+
+//TEXT 【Hiroo】
+<enT0048>"Come on now, don't yell at her. She's scared of you."
+<ptT0048>"Calma la, nao grite com ela. Ela ta com medo de voce."
+
+//TEXT 【Tomosane】
+<enT0049>"Takuji is the scary one, not me."
+<ptT0049>"O assustador e o Takuji, nao eu."
+
+//TEXT 【Hiroo】
+<enT0050>"W-Well, you might be right about that..."
+<ptT0050>"B-Bom, voce pode ter razao nisso..."
+
+//TEXT 【Tomosane】
+<enT0051>"Is Takuji the same as ever?"
+<ptT0051>"Takuji e o mesmo de sempre?"
+
+//TEXT 【Hiroo】
+<enT0052>"I guess so."
+<ptT0052>"Acho que sim."
+
+//TEXT 【Tomosane】
+<enT0053>"Are they still abusing Hasaki?"
+<ptT0053>"Eles ainda estao maltratando Hasaki?"
+
+//TEXT 【Hiroo】
+<enT0054>"No, there's no abuse, but..."
+<ptT0054>"Nao, nao ha maus-tratos, mas..."
+
+//TEXT 【Tomosane】
+<enT0055>"It is abuse. That stupid witch... You should just let Hasaki live here."
+<ptT0055>"E sim maus-tratos. Aquela bruxa idiota... Voce deveria deixar Hasaki morar aqui."
+
+//TEXT 【Hiroo】
+<enT0056>"Hahaha... You really don't like your mom, huh?"
+<ptT0056>"Hahaha... Voce realmente nao gosta da sua mae, huh?"
+
+//TEXT 【Tomosane】
+<enT0057>"Of course not! She betrayed us! I'll never forgive her!"
+<ptT0057>"Claro que nao! Ela nos traiu! Nunca vou perdoa-la!"
+
+//TEXT 【Hiroo】
+<enT0058>"I'm sorry to hear that. You should be mad at me, not your mother."
+<ptT0058>"Lamento ouvir isso. Voce deveria estar com raiva de mim, nao da sua mae."
+
+//TEXT 【Tomosane】
+<enT0059>"Why do you always say that?!"
+<ptT0059>"Por que voce sempre diz isso?!"
+
+//TEXT 【Tomosane】
+<enT0060>"Why don't you just give that stupid Takuji a good slap in the face?! Or that woman?!"
+<ptT0060>"Por que voce nao da uma boa bofetada na cara daquele Takuji idiota?! Ou naquela mulher?!"
+
+//TEXT 【Hiroo】
+<enT0061>"Violence isn't the answer here."
+<ptT0061>"Violencia nao e a resposta aqui."
+
+//TEXT 【Tomosane】
+<enT0062>"But Takuji is using violence against Hasaki, isn't he?"
+<ptT0062>"Mas Takuji esta usando violencia contra Hasaki, nao esta?"
+
+//TEXT 【Hiroo】
+<enT0063>"Well... I'm watching out for that."
+<ptT0063>"Bom... Estou de olho nisso."
+
+//TEXT 【Tomosane】
+<enT0064>"Jeez... You're scared of that woman, aren't you?"
+<ptT0064>"Poxa... Voce ta com medo daquela mulher, nao e?"
+
+//TEXT 【Hiroo】
+<enT0065>"Tomosane-kun, you really shouldn't call your mother 'that woman.'"
+<ptT0065>"Tomosane-kun, voce realmente nao deveria chamar sua mae de 'aquela mulher'."
+
+//TEXT 【Tomosane】
+<enT0066>"She's not my mother. I've told you before, she was the first one to betray us."
+<ptT0066>"Ela nao e minha mae. Ja disse antes, ela foi a primeira a nos trair."
+
+//TEXT 【Hiroo】
+<enT0067>"Yeah, I understand your feelings, but..."
+<ptT0067>"Sim, entendo seus sentimentos, mas..."
+
+//TEXT 【Tomosane】
+<enT0068>"I'm stuck out here because you won't break up with that woman."
+<ptT0068>"Estou preso aqui fora porque voce nao larga daquela mulher."
+
+//TEXT 【Hiroo】
+<enT0069>"Sorry..."
+<ptT0069>"Desculpa..."
+
+//TEXT 【Tomosane】
+<enT0070>"Jeez, why are you apologizing? Why don't you just break up with her?"
+<ptT0070>"Poxa, por que voce ta pedindo desculpa? Por que nao larga dela logo?"
+
+//TEXT 【Tomosane】
+<enT0071>"She has Takuji. Isn't that enough for her?"
+<ptT0071>"Ela tem o Takuji. Nao e suficiente para ela?"
+
+//TEXT 【Hiroo】
+<enT0072>"That's not true. Your mother loves you and Hasaki too."
+<ptT0072>"Isso nao e verdade. Sua mae ama voce e Hasaki tambem."
+
+//TEXT 【Tomosane】
+<enT0073>"That's impossible!"
+<ptT0073>"Isso e impossivel!"
+
+//TEXT 【Hiroo】
+<enT0074>"..."
+<ptT0074>"..."
+
+//TEXT 【Hiroo】
+<enT0075>"Come on, don't yell. You're scaring Hasaki-san."
+<ptT0075>"Calma la, nao grite. Voce ta assustando Hasaki-san."
+
+//TEXT 【Tomosane】
+<enT0076>"Like I care!"
+<ptT0076>"Como se eu me importasse!"
+
+//TEXT 【Hasaki】
+<enT0077>"H-Hau..."
+<ptT0077>"H-Hau..."
+
+//TEXT 【Tomosane】
+<enT0078>"What does 'hau' even mean?!"
+<ptT0078>"O que diabos significa 'hau'?!"
+
+//TEXT 【Hasaki】
+<enT0079>"Ah, auh, auh..."
+<ptT0079>"Ah, auh, auh..."
+
+//TEXT 【Tomosane】
+<enT0080>"Make up your mind already!"
+<ptT0080>"Decida logo!"
+
+//TEXT 【Hiroo】
+<enT0081>"Stop it. You're scaring her."
+<ptT0081>"Para. Voce ta assustando ela."
+
+//TEXT 【Tomosane】
+<enT0082>"Hmph."
+<ptT0082>"Hmph."
+
+//TEXT 【Hiroo】
+<enT0083>"I have to head back to the city tomorrow."
+<ptT0083>"Tenho que voltar para a cidade amanha."
+
+//TEXT 【Tomosane】
+<enT0084>"Tomorrow? That soon?"
+<ptT0084>"Amanha? Tao cedo?"
+
+//TEXT 【Hiroo】
+<enT0085>"I'm going to be in the hospital for a while starting tomorrow."
+<ptT0085>"Vou ficar internado por um tempo a partir de amanha."
+
+//TEXT 【Tomosane】
+<enT0086>"Tomorrow? I thought you still had more time. That's too soon."
+<ptT0086>"Amanha? Achei que ainda tivesse mais tempo. E cedo demais."
+
+//TEXT 【Hiroo】
+<enT0087>"Don't worry, they just want to do some tests. I should be out in a few days."
+<ptT0087>"Nao se preocupe, eles so querem fazer alguns exames. Devo sair em alguns dias."
+
+//TEXT 【Tomosane】
+<enT0088>"Of course you will. What would our family do without you? Hurry up and get better."
+<ptT0088>"Claro que sim. O que seria da nossa familia sem voce? Vai logo ficando bom."
+
+//TEXT 【Hiroo】
+<enT0089>"Ahaha, I knew you would say that."
+<ptT0089>"Ahaha, sabia que voce ia dizer isso."
+
+//TEXT 【Tomosane】
+<enT0090>"Well, I'm glad I didn't disappoint you, then."
+<ptT0090>"Bom, fico feliz de nao ter te decepcionado, entao."
+
+//TEXT 【Hasaki】
+<enT0091>"Daddy, please come back soon."
+<ptT0091>"Papai, volte logo."
+
+//TEXT 【Hiroo】
+<enT0092>"Yeah, don't worry about me."
+<ptT0092>"Sim, nao se preocupe comigo."
+
+//TEXT 【Hasaki】
+<enT0093>"He's really scary, so if you don't..."
+<ptT0093>"Ele e muito assustador, entao se voce nao..."
+
+//TEXT 【Tomosane】
+<enT0094>"Wait, you mean me?!"
+<ptT0094>"Perae, voce ta falando de mim?!"
+
+//TEXT 【Hiroo】
+<enT0095>"Sure sounds like it."
+<ptT0095>"Parece que sim."
+
+//TEXT 【Tomosane】
+<enT0096>"I'm not scary!"
+<ptT0096>"Eu nao sou assustador!"
+
+//TEXT 【Hasaki】
+<enT0097>"Hau!"
+<ptT0097>"Hau!"
+
+//TEXT 【Tomosane】
+<enT0098>"Don't just keep making that sound!"
+<ptT0098>"Para de ficar fazendo esse barulho!"
+
+//TEXT 【Tomosane】
+<enT0099>"Jeez, I can't believe this wimp is actually related to me."
+<ptT0099>"Poxa, nao acredito que essa covarde e parente minha."
+
+//TEXT 【Hiroo】
+<enT0100>"Hasaki is a girl. She's not tough like you boys are."
+<ptT0100>"Hasaki e uma garota. Ela nao e forte como voces, rapazes."
+
+//TEXT 【Tomosane】
+<enT0101>"But girls should be tough too!"
+<ptT0101>"Mas as meninas tambem deveriam ser fortes!"
+
+//TEXT 【Hiroo】
+<enT0102>"Why do you think that? She's a girl, you know."
+<ptT0102>"Por que voce pensa assim? Ela e uma garota, sabe."
+
+//TEXT 【Tomosane】
+<enT0103>"Yuki-nee is super strong, though."
+<ptT0103>"Mas Yuki-nee e super forte."
+
+//TEXT 【Hiroo】
+<enT0104>"Yuki-nee? Who's that?"
+<ptT0104>"Yuki-nee? Quem e essa?"
+
+//TEXT 【Tomosane】
+<enT0105>"Yuki-nee, the assistant here at the dojo. That violent woman."
+<ptT0105>"Yuki-nee, a assistente aqui no dojo. Aquela mulher violenta."
+
+//TEXT 【Hiroo】
+<enT0106>"Here at the dojo? Minakami-san... Oh, you mean old Minakami-san's girl. She's always been a strong girl."
+<ptT0106>"Aqui no dojo? Minakami-san... Ah, voce quer dizer a filha do velho Minakami-san. Ela sempre foi uma garota forte."
+
+//TEXT 【Tomosane】
+<enT0107>"Yeah, her. There aren't very many people at the dojo who can beat her. It's not like girls have to be weak. You're really behind the times, you know? I mean, look at your wife. She's stronger than you are."
+<ptT0107>"Sim, ela. Nao ha muitas pessoas no dojo que consigam vence-la. Nao e que as meninas precisem ser fracas. Voce ta bem por fora dos tempos, sabe? Digo, olha para sua esposa. Ela e mais forte do que voce."
+
+//TEXT 【Hiroo】
+<enT0108>"W-Well, that's true..."
+<ptT0108>"B-Bom, isso e verdade..."
+
+//TEXT 【Tomosane】
+<enT0109>"So, Hasaki!"
+<ptT0109>"Entao, Hasaki!"
+
+//TEXT 【Hasaki】
+<enT0110>"Auh..."
+<ptT0110>"Auh..."
+
+//TEXT 【Tomosane】
+<enT0111>"Don't say 'auh'! Say 'Yes, sir'!"
+<ptT0111>"Nao diga 'auh'! Diga 'Sim, senhor'!"
+
+//TEXT 【Hasaki】
+<enT0112>"Yessauh!"
+<ptT0112>"Simauh!"
+
+//TEXT 【Tomosane】
+<enT0113>"Which one was that?"
+<ptT0113>"Qual dos dois foi esse?"
+
+//TEXT 【Tomosane】
+<enT0114>"You'll get stronger living here."
+<ptT0114>"Voce vai ficar mais forte morando aqui."
+
+//TEXT 【Hasaki】
+<enT0115>"S-Stronger?"
+<ptT0115>"M-Mais forte?"
+
+//TEXT 【Tomosane】
+<enT0116>"Yeah, a lot stronger."
+<ptT0116>"Sim, muito mais forte."
+
+//TEXT 【Hiroo】
+<enT0117>"She doesn't need to get stronger."
+<ptT0117>"Ela nao precisa ficar mais forte."
+
+//TEXT 【Tomosane】
+<enT0118>"Yes, she does! Takuji's still bullying her, isn't he?"
+<ptT0118>"Precisa sim! Takuji ainda esta implicando com ela, nao esta?"
+
+//TEXT 【Hiroo】
+<enT0119>"B-But she shouldn't use violence..."
+<ptT0119>"M-Mas ela nao deveria usar violencia..."
+
+//TEXT 【Tomosane】
+<enT0120>"Jeez, that's why he keeps doing it."
+<ptT0120>"Poxa, e por isso que ele continua fazendo isso."
+
+//TEXT 【Tomosane】
+<enT0121>"Did Takuji get any stronger, Hasaki?"
+<ptT0121>"Takuji ficou mais forte, Hasaki?"
+
+//TEXT 【Hasaki】
+<enT0122>"Huh?"
+<ptT0122>"Ha?"
+
+//TEXT 【Tomosane】
+<enT0123>"He was always a mouthy kid, so I used to fight him sometimes. Is he stronger than he used to be?"
+<ptT0123>"Ele sempre foi um garoto de boca grande, entao eu brigava com ele as vezes. Ele esta mais forte do que antes?"
+
+//TEXT 【Hiroo】
+<enT0124>"Well, it's not like Hasaki is hitting back. It's just Takuji doing it."
+<ptT0124>"Bom, nao e que Hasaki bata de volta. So Takuji que faz isso."
+
+//TEXT 【Tomosane】
+<enT0125>"Yeah, and every time we fought, that dumb witch would hit me. Why is it any of her business what we do?"
+<ptT0125>"E, e toda vez que a gente brigava, aquela bruxa idiota me batia. Por que ela se mete no que a gente faz?"
+
+//TEXT 【Hiroo】
+<enT0126>"I'm sure she was just stopping you guys from fighting."
+<ptT0126>"Tenho certeza de que ela so estava impedindo voces de brigar."
+
+//TEXT 【Tomosane】
+<enT0127>"No, she wasn't. She always takes Takuji's side. That's why I had to hit her too."
+<ptT0127>"Nao, ela nao estava. Ela sempre fica do lado do Takuji. E por isso que eu tive que bater nela tambem."
+
+//TEXT 【Hiroo】
+<enT0128>"And that's why we had to send you out here, you know."
+<ptT0128>"E foi por isso que tivemos que te mandar para ca, sabe."
+
+//TEXT 【Hiroo】
+<enT0129>"Jeez... Domestic violence at your age..."
+<ptT0129>"Poxa... Violencia domestica com essa idade..."
+
+//TEXT 【Tomosane】
+<enT0130>"Like I said, that woman is not my mother. And I can't believe you forgave her for what she did."
+<ptT0130>"Como eu disse, aquela mulher nao e minha mae. E nao acredito que voce a perdoou pelo que ela fez."
+
+//TEXT 【Hiroo】
+<enT0131>"Tomosane-kun..."
+<ptT0131>"Tomosane-kun..."
+
+//TEXT 【Tomosane】
+<enT0132>"But I can't hate you, so make sure you rest up and get better in the hospital."
+<ptT0132>"Mas nao consigo te odiar, entao descanse e melhore no hospital."
+
+//TEXT 【Hiroo】
+<enT0133>"Hahaha, thanks."
+<ptT0133>"Hahaha, obrigado."
+
+//TEXT 【Tomosane】
+<enT0134>"And Hasaki should stay here all year round, not just during the summer."
+<ptT0134>"E Hasaki deveria ficar aqui o ano todo, nao so no verao."
+
+//TEXT 【Hasaki】
+<enT0135>"Huh?"
+<ptT0135>"Ha?"
+
+//TEXT 【Tomosane】
+<enT0136>"Takuji and that woman aren't here, so it's a lot more peaceful."
+<ptT0136>"Takuji e aquela mulher nao estao aqui, entao e muito mais tranquilo."
+
+//TEXT 【Hasaki】
+<enT0137>"B-But I want to be with Daddy..."
+<ptT0137>"M-Mas eu quero ficar com o Papai..."
+
+//TEXT 【Tomosane】
+<enT0138>"Ahaha, that's just a matter of time. If you were here, I'm sure he would give up and come live with us."
+<ptT0138>"Ahaha, e so questao de tempo. Se voce estivesse aqui, tenho certeza que ele desistiria e viria morar com a gente."
+
+//TEXT 【Hasaki】
+<enT0139>"Huh? Would you, Daddy?"
+<ptT0139>"Ha? Viria, Papai?"
+
+//TEXT 【Hiroo】
+<enT0140>"Hey, don't I get a say in all this?"
+<ptT0140>"Ei, nao tenho voz ativa nisso tudo?"
+
+//TEXT 【Tomosane】
+<enT0141>"Anyway, Hasaki..."
+<ptT0141>"De qualquer forma, Hasaki..."
+
+//TEXT 【Hasaki】
+<enT0142>"Y-Yes?"
+<ptT0142>"S-Sim?"
+
+//TEXT 【Tomosane】
+<enT0143>"Takuji is bullying you, isn't he?"
+<ptT0143>"Takuji esta implicando com voce, nao esta?"
+
+//TEXT 【Hasaki】
+<enT0144>"Y-Yeah..."
+<ptT0144>"S-Sim..."
+
+//TEXT 【Hasaki】
+<enT0145>"It's my fault Takuji Nii-san is still an inadequate savior."
+<ptT0145>"E culpa minha Takuji Nii-san ainda ser um salvador inadequado."
+
+//TEXT 【Tomosane】
+<enT0146>"Dad...
+<ptT0146>"Pai...
+
+//TEXT
+<enT0147> Don't let her think like that!"
+<ptT0147> Nao deixe ela pensar assim!"
+
+//TEXT 【Hiroo】
+<enT0148>"I already told her that's not true."
+<ptT0148>"Ja disse a ela que isso nao e verdade."
+
+//TEXT 【Tomosane】
+<enT0149>"But Takuji and that woman are still saying that... Unbelievable."
+<ptT0149>"Mas Takuji e aquela mulher continuam dizendo isso... Inacreditavel."
+
+//TEXT 【Hiroo】
+<enT0150>"Yeah. I told her to stop, but she won't listen."
+<ptT0150>"E. Disse para ela parar, mas ela nao escuta."
+
+//TEXT 【Tomosane】
+<enT0151>"She won't listen to anything you say, Dad. That's just how she is."
+<ptT0151>"Ela nao escuta nada do que voce diz, Pai. E assim que ela e."
+
+//TEXT 【Tomosane】
+<enT0152>"Well, whatever.
+<ptT0152>"Bom, seja la como for.
+
+//TEXT
+<enT0153> Hasaki!"
+<ptT0153> Hasaki!"
+
+//TEXT 【Hasaki】
+<enT0154>"Wh-What?"
+<ptT0154>"Q-Que foi?"
+
+//TEXT 【Tomosane】
+<enT0155>"You're still getting bullied by Takuji, right?"
+<ptT0155>"Voce ainda esta sendo implicada pelo Takuji, certo?"
+
+//TEXT 【Hasaki】
+<enT0156>"Y-Yeah..."
+<ptT0156>"S-Sim..."
+
+//TEXT 【Tomosane】
+<enT0157>"He pinches you and hits you and stuff, right?"
+<ptT0157>"Ele te belisca e te bate e tudo mais, certo?"
+
+//TEXT 【Hasaki】
+<enT0158>"Yeah..."
+<ptT0158>"Sim..."
+
+//TEXT 【Tomosane】
+<enT0159>"Then you know exactly what it feels like when someone hurts you."
+<ptT0159>"Entao voce sabe exatamente como e quando alguem te machuca."
+
+//TEXT 【Hasaki】
+<enT0160>"I-I guess..."
+<ptT0160>"A-Acho que sim..."
+
+//TEXT 【Tomosane】
+<enT0161>"Then you should understand the opposite, too."
+<ptT0161>"Entao voce deveria entender o oposto tambem."
+
+//TEXT 【Hasaki】
+<enT0162>"The opposite?"
+<ptT0162>"O oposto?"
+
+//TEXT 【Tomosane】
+<enT0163>"Of course. If you only get hit, then you'll never understand the world. You can only understand it by getting hit and then hitting back."
+<ptT0163>"Claro. Se voce so apanha, nunca vai entender o mundo. So da para entender apanhando e batendo de volta."
+
+//TEXT 【Hasaki】
+<enT0164>"Hitting back?"
+<ptT0164>"Bater de volta?"
+
+//TEXT 【Hiroo】
+<enT0165>"Tomosane-kun, don't teach her weird stuff like that."
+<ptT0165>"Tomosane-kun, nao ensine essas coisas esquisitas para ela."
+
+//TEXT 【Tomosane】
+<enT0166>"Boys hit and get hit by each other, but that just helps them understand each other."
+<ptT0166>"Os meninos se batem e apanham um do outro, mas isso so os ajuda a se entender."
+
+//TEXT 【Hasaki】
+<enT0167>"B-But I'm a girl..."
+<ptT0167>"M-Mas eu sou uma garota..."
+
+//TEXT 【Tomosane】
+<enT0168>"But it's the same for girls, Hasaki!"
+<ptT0168>"Mas e igual para as garotas, Hasaki!"
+
+//TEXT 【Hiroo】
+<enT0169>"Don't say that! She's a girl!"
+<ptT0169>"Nao diga isso! Ela e uma garota!"
+
+//TEXT 【Tomosane】
+<enT0170>"You're being too naive, you stupid old man!"
+<ptT0170>"Voce esta sendo ingenuo demais, velho idiota!"
+
+//TEXT 【Tomosane】
+<enT0171>"I'll teach Hasaki how I beat Takuji every single time we fought."
+<ptT0171>"Vou ensinar Hasaki como eu vencia Takuji toda vez que a gente brigava."
+
+//TEXT 【Hiroo】
+<enT0172>"Jeez, what are you talking about?"
+<ptT0172>"Poxa, o que voce ta falando?"
+
+//TEXT
+<enT0173>On a summer day...
+<ptT0173>Em um dia de verao...
+
+//TEXT
+<enT0174>Hasaki and I were reunited after several years apart.
+<ptT0174>Hasaki e eu nos reencontramos depois de varios anos separados.
+
+//TEXT
+<enT0175>Even though Hasaki didn't remember me when she saw me. It was like our first time meeting.
+<ptT0175>Mesmo que Hasaki nao se lembrasse de mim quando me viu. Foi como se nos conhecessemos pela primeira vez.
+
+//TEXT
+<enT0176>Dad said that it was just because she was young, but honestly, I don't remember her being that young when we met before.
+<ptT0176>Pai disse que era so porque ela era nova, mas honestamente, nao me lembro de ela ser assim tao nova quando nos conhecemos antes.
+
+//TEXT
+<enT0177>It actually seemed like Hasaki's days in Tokyo had been erased.
+<ptT0177>Parecia como se os dias de Hasaki em Tokyo tivessem sido apagados.
+
+//TEXT
+<enT0178>It was always hectic in the Mamiya house when I was in Tokyo before. All because my mother was involved with that bizarre cult.
+<ptT0178>Sempre era agitado na casa Mamiya quando eu morava em Tokyo antes. Tudo por causa do envolvimento da minha mae com aquela seita bizarra.
+
+//TEXT
+<enT0179>She believed that Takuji would become the savior.
+<ptT0179>Ela acreditava que Takuji se tornaria o salvador.
+
+//TEXT
+<enT0180>As a result, Hasaki was abused by Takuji and his mother.
+<ptT0180>Como resultado, Hasaki era maltratada por Takuji e sua mae.
+
+//TEXT
+<enT0181>What an unusual household.
+<ptT0181>Que familia incomum.
+
+//TEXT
+<enT0182>My dad was the only one searching for a peaceful solution.
+<ptT0182>Meu pai era o unico que buscava uma solucao pacifica.
+
+//TEXT
+<enT0183>But to a young child like me, his peaceful solutions just seemed irritating.
+<ptT0183>Mas para uma crianca como eu, suas solucoes pacificas pareciam so irritantes.
+
+//TEXT
+<enT0184>Though I didn't manage to solve anything, either.
+<ptT0184>Embora eu tambem nao tenha conseguido resolver nada.
+
+//TEXT
+<enT0185>I just lashed out.
+<ptT0185>Eu so reagi com violencia.
+
+//TEXT
+<enT0186>When Hasaki had bruises from the abuse, I would lash out at Takuji and his mother.
+<ptT0186>Quando Hasaki tinha roxos por causa dos maus-tratos, eu reagia com violencia contra Takuji e sua mae.
+
+//TEXT
+<enT0187>I still don't regret that.
+<ptT0187>Ainda nao me arrependo disso.
+
+//TEXT
+<enT0188>But the violence escalated until one of us received a stab wound.
+<ptT0188>Mas a violencia escalou ate que um de nos recebeu um golpe de faca.
+
+//TEXT
+<enT0189>For the record, it was my mother that was injured, but she was also the one holding the knife.
+<ptT0189>Para constar, foi minha mae quem saiu ferida, mas ela tambem era quem segurava a faca.
+
+//TEXT
+<enT0190>When she pulled out the knife, I fought back and she ended up getting hurt.
+<ptT0190>Quando ela puxou a faca, eu resisti e ela acabou se machucando.
+
+//TEXT
+<enT0191>And thankfully, I was entrusted to my father's relatives in Sawaimura after that incident.
+<ptT0191>E felizmente, fui entregue aos parentes do meu pai em Sawaimura depois desse incidente.
+
+//TEXT 【Hiroo】
+<enT0192>"You seem energetic today, Tomosane-kun."
+<ptT0192>"Voce parece animado hoje, Tomosane-kun."
+
+//TEXT 【Tomosane】
+<enT0193>"Yeah, I feel great."
+<ptT0193>"E, to me sentindo otimo."
+
+//TEXT 【Hiroo】
+<enT0194>"Good."
+<ptT0194>"Que bom."
+
+//TEXT
+<enT0195>He just said that and laughed as he patted my head.
+<ptT0195>Ele so disse isso e riu enquanto me afagava a cabeca.
+
+//TEXT
+<enT0196>For some reason, his face looked really sad, but I didn't understand why.
+<ptT0196>Por algum motivo, o rosto dele parecia muito triste, mas eu nao entendia por que.
+
+//TEXT
+<enT0197>Even after growing so much over the years, I was still just a little brat.
+<ptT0197>Mesmo tendo crescido tanto ao longo dos anos, eu ainda era so um molecote.
+
+//TEXT
+<enT0198>That's why I couldn't understand the meaning hidden behind my father's last smile.
+<ptT0198>E por isso que eu nao conseguia entender o significado escondido por tras do ultimo sorriso do meu pai.
+
+//TEXT
+<enT0199>He was always pushing his mind and body to their limits.
+<ptT0199>Ele sempre estava levando sua mente e seu corpo ao limite.
+
+//TEXT
+<enT0200>He experienced hardships in his life that a brat like me could never understand.
+<ptT0200>Ele vivenciou dificuldades na vida que um molecote como eu nunca poderia entender.
+
+//TEXT
+<enT0201>All for the sake of his family.
+<ptT0201>Tudo pelo bem de sua familia.
+
+//TEXT
+<enT0202>That was the last time...
+<ptT0202>Foi a ultima vez...
+
+//TEXT
+<enT0203>That I ever saw my father smile.
+<ptT0203>Que ja vi meu pai sorrir.
+
+///================================================================================
+
+//OTHER
+<enZ0001>6-1.bss
+<ptZ0001>6-1.bss
+
+//OTHER
+<enZ0002>A summer day - Part 1
+<ptZ0002>A summer day - Part 1
+
+//OTHER
+<enZ0003>Jabberwocky II
+<ptZ0003>Jabberwocky II
+
+//OTHER
+<enZ0004>start6
+<ptZ0004>start6
+
+//OTHER
+<enZ0005>daynt0001
+<ptZ0005>daynt0001
+
+//OTHER
+<enZ0006>sp0105
+<ptZ0006>sp0105
+
+//OTHER
+<enZ0007>se503
+<ptZ0007>se503
+
+//OTHER
+<enZ0008>bgm004
+<ptZ0008>bgm004
+
+//OTHER
+<enZ0009>bg1039a
+<ptZ0009>bg1039a
+
+//OTHER
+<enZ0010>bgm020
+<ptZ0010>bgm020
+
+//OTHER
+<enZ0011>tomo_000108
+<ptZ0011>tomo_000108
+
+//OTHER
+<enZ0012>tomo_000109
+<ptZ0012>tomo_000109
+
+//OTHER
+<enZ0013>tomo_000110
+<ptZ0013>tomo_000110
+
+//OTHER
+<enZ0014>tosi_000049
+<ptZ0014>tosi_000049
+
+//OTHER
+<enZ0015>tomo_000111
+<ptZ0015>tomo_000111
+
+//OTHER
+<enZ0016>hr0003z
+<ptZ0016>hr0003z
+
+//OTHER
+<enZ0017>tomo_000112
+<ptZ0017>tomo_000112
+
+//OTHER
+<enZ0018>tosi_000001
+<ptZ0018>tosi_000001
+
+//OTHER
+<enZ0019>tomo_000113
+<ptZ0019>tomo_000113
+
+//OTHER
+<enZ0020>hr0000z
+<ptZ0020>hr0000z
+
+//OTHER
+<enZ0021>tosi_000002
+<ptZ0021>tosi_000002
+
+//OTHER
+<enZ0022>tomo_000114
+<ptZ0022>tomo_000114
+
+//OTHER
+<enZ0023>hr0008z_l
+<ptZ0023>hr0008z_l
+
+//OTHER
+<enZ0024>bg1039a_l
+<ptZ0024>bg1039a_l
+
+//OTHER
+<enZ0025>hs4006h_l
+<ptZ0025>hs4006h_l
+
+//OTHER
+<enZ0026>tosi_000003
+<ptZ0026>tosi_000003
+
+//OTHER
+<enZ0027>hasa_001273
+<ptZ0027>hasa_001273
+
+//OTHER
+<enZ0028>hs4009h_l
+<ptZ0028>hs4009h_l
+
+//OTHER
+<enZ0029>tomo_000115
+<ptZ0029>tomo_000115
+
+//OTHER
+<enZ0030>tosi_000004
+<ptZ0030>tosi_000004
+
+//OTHER
+<enZ0031>tomo_000116
+<ptZ0031>tomo_000116
+
+//OTHER
+<enZ0032>tosi_000005
+<ptZ0032>tosi_000005
+
+//OTHER
+<enZ0033>tomo_000117
+<ptZ0033>tomo_000117
+
+//OTHER
+<enZ0034>tosi_000006
+<ptZ0034>tosi_000006
+
+//OTHER
+<enZ0035>hasa_001274
+<ptZ0035>hasa_001274
+
+//OTHER
+<enZ0036>tomo_000118
+<ptZ0036>tomo_000118
+
+//OTHER
+<enZ0037>hasa_001275
+<ptZ0037>hasa_001275
+
+//OTHER
+<enZ0038>tomo_000119
+<ptZ0038>tomo_000119
+
+//OTHER
+<enZ0039>hr0006z_l
+<ptZ0039>hr0006z_l
+
+//OTHER
+<enZ0040>tosi_000007
+<ptZ0040>tosi_000007
+
+//OTHER
+<enZ0041>tomo_000120
+<ptZ0041>tomo_000120
+
+//OTHER
+<enZ0042>tosi_000008
+<ptZ0042>tosi_000008
+
+//OTHER
+<enZ0043>bgm003
+<ptZ0043>bgm003
+
+//OTHER
+<enZ0044>tomo_000121
+<ptZ0044>tomo_000121
+
+//OTHER
+<enZ0045>tosi_000009
+<ptZ0045>tosi_000009
+
+//OTHER
+<enZ0046>tomo_000122
+<ptZ0046>tomo_000122
+
+//OTHER
+<enZ0047>tosi_000010
+<ptZ0047>tosi_000010
+
+//OTHER
+<enZ0048>tomo_000123
+<ptZ0048>tomo_000123
+
+//OTHER
+<enZ0049>hr0000z_l
+<ptZ0049>hr0000z_l
+
+//OTHER
+<enZ0050>tosi_000011
+<ptZ0050>tosi_000011
+
+//OTHER
+<enZ0051>tomo_000124
+<ptZ0051>tomo_000124
+
+//OTHER
+<enZ0052>tosi_000012
+<ptZ0052>tosi_000012
+
+//OTHER
+<enZ0053>tomo_000125
+<ptZ0053>tomo_000125
+
+//OTHER
+<enZ0054>tomo_000126
+<ptZ0054>tomo_000126
+
+//OTHER
+<enZ0055>hr0004z_l
+<ptZ0055>hr0004z_l
+
+//OTHER
+<enZ0056>tosi_000013
+<ptZ0056>tosi_000013
+
+//OTHER
+<enZ0057>tomo_000127
+<ptZ0057>tomo_000127
+
+//OTHER
+<enZ0058>tosi_000014
+<ptZ0058>tosi_000014
+
+//OTHER
+<enZ0059>tomo_000128
+<ptZ0059>tomo_000128
+
+//OTHER
+<enZ0060>tosi_000015
+<ptZ0060>tosi_000015
+
+//OTHER
+<enZ0061>tomo_000129
+<ptZ0061>tomo_000129
+
+//OTHER
+<enZ0062>tosi_000016
+<ptZ0062>tosi_000016
+
+//OTHER
+<enZ0063>tomo_000130
+<ptZ0063>tomo_000130
+
+//OTHER
+<enZ0064>tosi_000017
+<ptZ0064>tosi_000017
+
+//OTHER
+<enZ0065>tomo_000131
+<ptZ0065>tomo_000131
+
+//OTHER
+<enZ0066>tomo_000132
+<ptZ0066>tomo_000132
+
+//OTHER
+<enZ0067>tosi_000018
+<ptZ0067>tosi_000018
+
+//OTHER
+<enZ0068>tomo_000133
+<ptZ0068>tomo_000133
+
+//OTHER
+<enZ0069>tosi_000019
+<ptZ0069>tosi_000019
+
+//OTHER
+<enZ0070>tosi_000020
+<ptZ0070>tosi_000020
+
+//OTHER
+<enZ0071>tomo_000134
+<ptZ0071>tomo_000134
+
+//OTHER
+<enZ0072>hs4007h_l
+<ptZ0072>hs4007h_l
+
+//OTHER
+<enZ0073>hasa_001276
+<ptZ0073>hasa_001276
+
+//OTHER
+<enZ0074>tomo_000135
+<ptZ0074>tomo_000135
+
+//OTHER
+<enZ0075>hasa_001277
+<ptZ0075>hasa_001277
+
+//OTHER
+<enZ0076>tomo_000136
+<ptZ0076>tomo_000136
+
+//OTHER
+<enZ0077>tosi_000021
+<ptZ0077>tosi_000021
+
+//OTHER
+<enZ0078>tomo_000137
+<ptZ0078>tomo_000137
+
+//OTHER
+<enZ0079>tosi_000022
+<ptZ0079>tosi_000022
+
+//OTHER
+<enZ0080>tomo_000138
+<ptZ0080>tomo_000138
+
+//OTHER
+<enZ0081>tosi_000023
+<ptZ0081>tosi_000023
+
+//OTHER
+<enZ0082>tomo_000139
+<ptZ0082>tomo_000139
+
+//OTHER
+<enZ0083>tosi_000024
+<ptZ0083>tosi_000024
+
+//OTHER
+<enZ0084>tomo_000140
+<ptZ0084>tomo_000140
+
+//OTHER
+<enZ0085>hr0003z_l
+<ptZ0085>hr0003z_l
+
+//OTHER
+<enZ0086>tosi_000025
+<ptZ0086>tosi_000025
+
+//OTHER
+<enZ0087>tomo_000141
+<ptZ0087>tomo_000141
+
+//OTHER
+<enZ0088>hasa_001278
+<ptZ0088>hasa_001278
+
+//OTHER
+<enZ0089>tosi_000026
+<ptZ0089>tosi_000026
+
+//OTHER
+<enZ0090>hasa_001279
+<ptZ0090>hasa_001279
+
+//OTHER
+<enZ0091>tomo_000142
+<ptZ0091>tomo_000142
+
+//OTHER
+<enZ0092>tosi_000027
+<ptZ0092>tosi_000027
+
+//OTHER
+<enZ0093>tomo_000143
+<ptZ0093>tomo_000143
+
+//OTHER
+<enZ0094>hasa_001280
+<ptZ0094>hasa_001280
+
+//OTHER
+<enZ0095>tomo_000144
+<ptZ0095>tomo_000144
+
+//OTHER
+<enZ0096>tomo_000145
+<ptZ0096>tomo_000145
+
+//OTHER
+<enZ0097>tosi_000028
+<ptZ0097>tosi_000028
+
+//OTHER
+<enZ0098>tomo_000146
+<ptZ0098>tomo_000146
+
+//OTHER
+<enZ0099>tosi_000029
+<ptZ0099>tosi_000029
+
+//OTHER
+<enZ0100>tomo_000147
+<ptZ0100>tomo_000147
+
+//OTHER
+<enZ0101>tosi_000030
+<ptZ0101>tosi_000030
+
+//OTHER
+<enZ0102>tomo_000148
+<ptZ0102>tomo_000148
+
+//OTHER
+<enZ0103>tosi_000031
+<ptZ0103>tosi_000031
+
+//OTHER
+<enZ0104>tomo_000149
+<ptZ0104>tomo_000149
+
+//OTHER
+<enZ0105>tosi_000032
+<ptZ0105>tosi_000032
+
+//OTHER
+<enZ0106>tomo_000150
+<ptZ0106>tomo_000150
+
+//OTHER
+<enZ0107>hasa_001281
+<ptZ0107>hasa_001281
+
+//OTHER
+<enZ0108>tomo_000151
+<ptZ0108>tomo_000151
+
+//OTHER
+<enZ0109>hasa_001282
+<ptZ0109>hasa_001282
+
+//OTHER
+<enZ0110>tomo_000152
+<ptZ0110>tomo_000152
+
+//OTHER
+<enZ0111>tomo_000153
+<ptZ0111>tomo_000153
+
+//OTHER
+<enZ0112>hs4008h_l
+<ptZ0112>hs4008h_l
+
+//OTHER
+<enZ0113>hasa_001283
+<ptZ0113>hasa_001283
+
+//OTHER
+<enZ0114>tomo_000154
+<ptZ0114>tomo_000154
+
+//OTHER
+<enZ0115>tosi_000033
+<ptZ0115>tosi_000033
+
+//OTHER
+<enZ0116>tomo_000155
+<ptZ0116>tomo_000155
+
+//OTHER
+<enZ0117>tosi_000034
+<ptZ0117>tosi_000034
+
+//OTHER
+<enZ0118>tomo_000156
+<ptZ0118>tomo_000156
+
+//OTHER
+<enZ0119>tomo_000157
+<ptZ0119>tomo_000157
+
+//OTHER
+<enZ0120>hasa_001284
+<ptZ0120>hasa_001284
+
+//OTHER
+<enZ0121>tomo_000158
+<ptZ0121>tomo_000158
+
+//OTHER
+<enZ0122>hr0010z_l
+<ptZ0122>hr0010z_l
+
+//OTHER
+<enZ0123>tosi_000035
+<ptZ0123>tosi_000035
+
+//OTHER
+<enZ0124>tomo_000159
+<ptZ0124>tomo_000159
+
+//OTHER
+<enZ0125>tosi_000036
+<ptZ0125>tosi_000036
+
+//OTHER
+<enZ0126>tomo_000160
+<ptZ0126>tomo_000160
+
+//OTHER
+<enZ0127>tosi_000037
+<ptZ0127>tosi_000037
+
+//OTHER
+<enZ0128>tosi_000038
+<ptZ0128>tosi_000038
+
+//OTHER
+<enZ0129>tomo_000161
+<ptZ0129>tomo_000161
+
+//OTHER
+<enZ0130>tosi_000039
+<ptZ0130>tosi_000039
+
+//OTHER
+<enZ0131>tomo_000162
+<ptZ0131>tomo_000162
+
+//OTHER
+<enZ0132>tosi_000040
+<ptZ0132>tosi_000040
+
+//OTHER
+<enZ0133>tomo_000163
+<ptZ0133>tomo_000163
+
+//OTHER
+<enZ0134>hasa_001285
+<ptZ0134>hasa_001285
+
+//OTHER
+<enZ0135>tomo_000164
+<ptZ0135>tomo_000164
+
+//OTHER
+<enZ0136>hasa_001286
+<ptZ0136>hasa_001286
+
+//OTHER
+<enZ0137>tomo_000165
+<ptZ0137>tomo_000165
+
+//OTHER
+<enZ0138>hasa_001287
+<ptZ0138>hasa_001287
+
+//OTHER
+<enZ0139>hr0009z_l
+<ptZ0139>hr0009z_l
+
+//OTHER
+<enZ0140>tosi_000041
+<ptZ0140>tosi_000041
+
+//OTHER
+<enZ0141>tomo_000166
+<ptZ0141>tomo_000166
+
+//OTHER
+<enZ0142>hasa_001288
+<ptZ0142>hasa_001288
+
+//OTHER
+<enZ0143>tomo_000167
+<ptZ0143>tomo_000167
+
+//OTHER
+<enZ0144>hasa_001289
+<ptZ0144>hasa_001289
+
+//OTHER
+<enZ0145>hasa_001290
+<ptZ0145>hasa_001290
+
+//OTHER
+<enZ0146>tomo_000168
+<ptZ0146>tomo_000168
+
+//OTHER
+<enZ0147>tosi_000042
+<ptZ0147>tosi_000042
+
+//OTHER
+<enZ0148>tomo_000169
+<ptZ0148>tomo_000169
+
+//OTHER
+<enZ0149>tosi_000043
+<ptZ0149>tosi_000043
+
+//OTHER
+<enZ0150>tomo_000170
+<ptZ0150>tomo_000170
+
+//OTHER
+<enZ0151>tomo_000171
+<ptZ0151>tomo_000171
+
+//OTHER
+<enZ0152>hasa_001291
+<ptZ0152>hasa_001291
+
+//OTHER
+<enZ0153>tomo_000172
+<ptZ0153>tomo_000172
+
+//OTHER
+<enZ0154>hasa_001292
+<ptZ0154>hasa_001292
+
+//OTHER
+<enZ0155>tomo_000173
+<ptZ0155>tomo_000173
+
+//OTHER
+<enZ0156>hasa_001293
+<ptZ0156>hasa_001293
+
+//OTHER
+<enZ0157>tomo_000174
+<ptZ0157>tomo_000174
+
+//OTHER
+<enZ0158>hasa_001294
+<ptZ0158>hasa_001294
+
+//OTHER
+<enZ0159>tomo_000175
+<ptZ0159>tomo_000175
+
+//OTHER
+<enZ0160>hasa_001295
+<ptZ0160>hasa_001295
+
+//OTHER
+<enZ0161>tomo_000176
+<ptZ0161>tomo_000176
+
+//OTHER
+<enZ0162>hasa_001296
+<ptZ0162>hasa_001296
+
+//OTHER
+<enZ0163>tosi_000044
+<ptZ0163>tosi_000044
+
+//OTHER
+<enZ0164>tomo_000177
+<ptZ0164>tomo_000177
+
+//OTHER
+<enZ0165>hasa_001297_a
+<ptZ0165>hasa_001297_a
+
+//OTHER
+<enZ0166>tomo_000178
+<ptZ0166>tomo_000178
+
+//OTHER
+<enZ0167>hr0005z_l
+<ptZ0167>hr0005z_l
+
+//OTHER
+<enZ0168>tosi_000045
+<ptZ0168>tosi_000045
+
+//OTHER
+<enZ0169>tomo_000179
+<ptZ0169>tomo_000179
+
+//OTHER
+<enZ0170>tomo_000180
+<ptZ0170>tomo_000180
+
+//OTHER
+<enZ0171>tosi_000046
+<ptZ0171>tosi_000046
+
+//OTHER
+<enZ0172>tosi_000047
+<ptZ0172>tosi_000047
+
+//OTHER
+<enZ0173>tomo_000181
+<ptZ0173>tomo_000181
+
+//OTHER
+<enZ0174>tosi_000048
+<ptZ0174>tosi_000048
+
+//OTHER
+<enZ0175>map023
+<ptZ0175>map023
+
+//OTHER
+<enZ0176>sp0001g
+<ptZ0176>sp0001g
+
+//OTHER
+<enZ0177>6-2
+<ptZ0177>6-2
+

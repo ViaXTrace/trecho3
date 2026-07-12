@@ -1,0 +1,1436 @@
+//NAME
+<enN0001>Yuki
+<ptN0001>Yuki
+
+//NAME
+<enN0002>Takuji
+<ptN0002>Takuji
+
+///================================================================================
+
+//TEXT BACKLOG
+<enT0001>5.632
+<ptT0001>5.632
+
+//TEXT BACKLOG
+<enT0002>The subject does not belong to the world but it is a limit of the world.
+<ptT0002>The subject does not belong to the world but it is a limit of the world.
+
+//TEXT BACKLOG
+<enT0003>
+<ptT0003>
+
+//TEXT BACKLOG
+<enT0004>6.41
+<ptT0004>6.41
+
+//TEXT BACKLOG
+<enT0005>The sense of the world must lie outside the world.
+<ptT0005>The sense of the world must lie outside the world.
+
+//TEXT BACKLOG
+<enT0006>In the world everything is as it is and happens as it does happen.
+<ptT0006>In the world everything is as it is and happens as it does happen.
+
+//TEXT BACKLOG
+<enT0007>In it there is no value -and if there were, it would be of no value.
+<ptT0007>In it there is no value -and if there were, it would be of no value.
+
+//TEXT BACKLOG
+<enT0008>
+<ptT0008>
+
+//TEXT BACKLOG
+<enT0009>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+<ptT0009>Ludwig Josef Johann Wittgenstein - "Tractatus Logico-Philosophicus"
+
+//TEXT BACKLOG
+<enT0010>
+<ptT0010>
+
+//TEXT
+<enT0011>A Friday afternoon.
+<ptT0011>Uma tarde de sexta-feira.
+
+//TEXT
+<enT0012>They're the final hours of the week, and because of that, the busiest.
+<ptT0012>Sao as ultimas horas da semana e, por isso, as mais movimentadas.
+
+//TEXT
+<enT0013>I was on a rooftop that overlooked a station crowded with people.
+<ptT0013>Eu estava em um terraco com vista para uma estacao cheia de gente.
+
+//TEXT
+<enT0014>Seeing all those people caught within the city's turmoil made the location seem so serene.
+<ptT0014>Ver tanta gente presa na agitacao da cidade fazia aquele lugar parecer tao sereno.
+
+//TEXT
+<enT0015>Anyone loafing around in such a spot at this time of day...
+<ptT0015>Qualquer um que ficasse vadiando num lugar assim a essa hora...
+
+//TEXT
+<enT0016>Was either cutting class, a NEET, or me.
+<ptT0016>Ou estava matando aula, era um NEET, ou era eu.
+
+//TEXT 【Yuki】
+<enT0017>"Haa..."
+<ptT0017>"Haa..."
+
+//TEXT 【Yuki】
+<enT0018>"All a woman needs in life are
+<ptT0018>"Tudo que uma mulher precisa na vida sao
+
+//TEXT
+<enT0019> cigarettes,
+<ptT0019> cigarros,
+
+//TEXT
+<enT0020> a roof,
+<ptT0020> um terraco,
+
+//TEXT
+<enT0021> and
+<ptT0021> e
+
+//TEXT
+<enT0022> a frilly dress, right?"
+<ptT0022> um vestido com babados, certo?"
+
+//TEXT
+<enT0023>This brand of cigarettes isn't very popular, but I prefer the kind no one else smokes.
+<ptT0023>Essa marca de cigarro nao e muito popular, mas eu prefiro o tipo que ninguem mais fuma.
+
+//TEXT
+<enT0024>A Friday sky.
+<ptT0024>Um ceu de sexta-feira.
+
+//TEXT
+<enT0025>The sky didn't care that it was the weekend. It hadn't changed one bit.
+<ptT0025>O ceu nao ligava para o fato de ser fim de semana. Ele nao tinha mudado nada.
+
+//TEXT
+<enT0026>The city lying beneath that sky continued with business as usual; not even an eye was batted.
+<ptT0026>A cidade la embaixo continuava como sempre; ninguem sequer piscou.
+
+//TEXT
+<enT0027>But it had none of the accuracy and beauty of a mechanical clock. Rather, it was just a recurring, jumbled mess.
+<ptT0027>Mas nao tinha a precisao e a beleza de um relogio mecanico. Era apenas uma bagunca recorrente e confusa.
+
+//TEXT
+<enT0028>It was far from beautiful.
+<ptT0028>Estava longe de ser bonito.
+
+//TEXT
+<enT0029>And lying over it, there was an oppressive sky of the deepest blue.
+<ptT0029>E pairando sobre tudo, havia um ceu azul profundo e opressivo.
+
+//TEXT
+<enT0030>It was the same, obvious sight that appeared before our eyes every single day.
+<ptT0030>Era a mesma cena obvia que aparecia diante dos nossos olhos todo dia.
+
+//TEXT
+<enT0031>A Monday sky.
+<ptT0031>Um ceu de segunda-feira.
+
+//TEXT
+<enT0032>A Tuesday sky.
+<ptT0032>Um ceu de terca-feira.
+
+//TEXT
+<enT0033>A Wednesday sky.
+<ptT0033>Um ceu de quarta-feira.
+
+//TEXT
+<enT0034>A Thursday sky.
+<ptT0034>Um ceu de quinta-feira.
+
+//TEXT
+<enT0035>And here before me, a Friday sky.
+<ptT0035>E aqui diante de mim, um ceu de sexta-feira.
+
+//TEXT
+<enT0036> It laid over everything, just like any other day's sky.
+<ptT0036> Ele se estendia por cima de tudo, como o ceu de qualquer outro dia.
+
+//TEXT
+<enT0037>No one else would think it unusual.
+<ptT0037>Ninguem acharia isso incomum.
+
+//TEXT
+<enT0038>But still...
+<ptT0038>Mas ainda assim...
+
+//TEXT
+<enT0039>Just suppose for a moment.
+<ptT0039>Suponha por um momento.
+
+//TEXT
+<enT0040>Suppose that a person called God does exist (a person?).
+<ptT0040>Suponha que uma pessoa chamada Deus existe de verdade (uma pessoa?).
+
+//TEXT
+<enT0041>And suppose that he decided to make the world in a week (it says so in the Bible, after all!).
+<ptT0041>E suponha que ele decidiu criar o mundo em uma semana (a Biblia diz isso, afinal!).
+
+//TEXT
+<enT0042>I'd want to say...
+<ptT0042>Eu ia querer dizer...
+
+//TEXT
+<enT0043>Oh, mighty God.
+<ptT0043>Oh, poderoso Deus.
+
+//TEXT
+<enT0044>Would it be so bad if the sky changed color just once a day?!
+<ptT0044>Seria tao mal se o ceu mudasse de cor pelo menos uma vez por dia?!
+
+//TEXT
+<enT0045>Or something like that.
+<ptT0045>Ou algo assim.
+
+//TEXT
+<enT0046>If there was some meaning behind every day of the week, you could have at least incorporated that into the design.
+<ptT0046>Se cada dia da semana tem algum significado, voce poderia ter incorporado isso no projeto.
+
+//TEXT
+<enT0047>That's what I think, anyway.
+<ptT0047>E o que eu acho, pelo menos.
+
+//TEXT
+<enT0048>God has so many angels. Surely one of them could've spoken up, right?
+<ptT0048>Deus tem tantos anjos. Com certeza algum deles poderia ter falado, nao e?
+
+//TEXT
+<enT0049>Or maybe Heaven was a one-man show, and God didn't listen to a single word the angels said.
+<ptT0049>Ou talvez o Paraiso fosse espetaculo solo, e Deus nao escutava nada do que os anjos diziam.
+
+//TEXT
+<enT0050>Suppose the sky did change colors with the days of the week. It would be convenient in a lot of ways, and to me it just seems like it would be fun.
+<ptT0050>Suponha que o ceu mudasse de cor com os dias da semana. Seria conveniente em varios aspectos e, para mim, parece que seria divertido.
+
+//TEXT
+<enT0051>But in reality...
+<ptT0051>Mas na realidade...
+
+//TEXT
+<enT0052>The color of the sky has nothing to do with the day of the week.
+<ptT0052>A cor do ceu nao tem nada a ver com o dia da semana.
+
+//TEXT
+<enT0053>It's not like the sky turns fiery red every Tuesday or glitters like gold every Friday.
+<ptT0053>O ceu nao fica vermelho fogo toda terca-feira nem brilha como ouro toda sexta-feira.
+
+//TEXT
+<enT0054>By the way, that'd make Mondays white, right? The moon's pretty much white. Wednesdays would be blue, and Thursdays would be brown? Or maybe green...
+<ptT0054>Alias, isso significaria que as segundas seriam brancas, certo? A lua e praticamente branca. As quartas seriam azuis e as quintas seriam marrons? Ou talvez verdes...
+
+//TEXT
+<enT0055>Saturday would be like the ground. But what about Sunday?
+<ptT0055>O sabado seria como a terra. Mas e o domingo?
+
+//TEXT
+<enT0056>On Sunday, the sun could fill the entire sky.
+<ptT0056>No domingo, o sol poderia preencher o ceu inteiro.
+
+//TEXT
+<enT0057>Wouldn't that be really hot, though?
+<ptT0057>Nao ficaria muito quente assim?
+
+//TEXT
+<enT0058>A blue sky on a Friday.
+<ptT0058>Um ceu azul numa sexta-feira.
+
+//TEXT
+<enT0059>The sky didn't care that it was the weekend. It hadn't changed one bit.
+<ptT0059>O ceu nao ligava para o fim de semana. Ele nao tinha mudado nada.
+
+//TEXT
+<enT0060>Of course it hadn't.
+<ptT0060>Claro que nao.
+
+//TEXT
+<enT0061>Probably because that story about God creating the world in a week is a lie.
+<ptT0061>Provavelmente porque essa historia de Deus criar o mundo em uma semana e mentira.
+
+//TEXT
+<enT0062>No one like that exists.
+<ptT0062>Ninguem assim existe.
+
+//TEXT
+<enT0063>And even if God does exist,
+<ptT0063>E mesmo que Deus exista,
+
+//TEXT
+<enT0064> he definitely isn't the kind of hardworking guy who could make the world in just one week.
+<ptT0064> ele definitivamente nao e o tipo de cara trabalhador que conseguiria criar o mundo em uma semana.
+
+//TEXT
+<enT0065>He's gotta be the kind of guy who would always be saying...
+<ptT0065>Ele deve ser o tipo de cara que vivia dizendo...
+
+//TEXT
+<enT0066>"It's still a work in progress. You can't see it yet."
+<ptT0066>"Ainda ta em construcao. Voce ainda nao pode ver."
+
+//TEXT
+<enT0067>"Hold on a minute, I'll be done soon."
+<ptT0067>"Espera um pouco, ja termino."
+
+//TEXT
+<enT0068>The kind of guy who sluggishly works away at something.
+<ptT0068>O tipo de cara que trabalha lentamente em algo.
+
+//TEXT
+<enT0069>Or maybe...
+<ptT0069>Ou talvez...
+
+//TEXT
+<enT0070>Maybe he'd get tired of it halfway through.
+<ptT0070>Talvez ele se cansasse no meio do caminho.
+
+//TEXT
+<enT0071>And then say...
+<ptT0071>E entao dissesse...
+
+//TEXT
+<enT0072>"I should have never bothered in the first place."
+<ptT0072>"Nao deveria ter me dado ao trabalho."
+
+//TEXT
+<enT0073>Though if it was the latter, it would mean humanity had already been abandoned.
+<ptT0073>Embora, se fosse a segunda opcao, significaria que a humanidade ja foi abandonada.
+
+//TEXT
+<enT0074>That's too cruel, God! How could you?
+<ptT0074>Isso e cruel demais, Deus! Como voce fez isso?
+
+//TEXT
+<enT0075>Not that it really matters to me.
+<ptT0075>Mas nao e que isso realmente importe para mim.
+
+//TEXT
+<enT0076>The Friday sky might be bright blue, might cloud over, or might even be bathed in sunset amber, depending on the time of day.
+<ptT0076>O ceu de sexta-feira pode ser azul claro, pode ficar encoberto, ou ate se banhar no ambar do por do sol, dependendo da hora do dia.
+
+//TEXT
+<enT0077>The colors of the sky vary without regard for the day of the week.
+<ptT0077>As cores do ceu variam sem ligar para o dia da semana.
+
+//TEXT
+<enT0078>By the way, the sky overhead right at that moment was blue.
+<ptT0078>Alias, o ceu la em cima naquele momento era azul.
+
+//TEXT
+<enT0079>And there were some clouds, so there was a bit of white too.
+<ptT0079>E havia algumas nuvens, entao tinha um pouco de branco tambem.
+
+//TEXT
+<enT0080>It felt like this sky was the same as any other, but I wouldn't know what to say if I were asked if it really was the same as the rest of them.
+<ptT0080>Parecia que esse ceu era igual a qualquer outro, mas eu nao saberia o que dizer se me perguntassem se ele realmente era igual a todos os outros.
+
+//TEXT
+<enT0081>It felt the same.
+<ptT0081>Parecia o mesmo.
+
+//TEXT
+<enT0082>I could say nothing more.
+<ptT0082>Nao tinha mais nada a dizer.
+
+//TEXT
+<enT0083>The sky doesn't change with the days of the week, but there are still plenty of different variations of this same sky.
+<ptT0083>O ceu nao muda com os dias da semana, mas ainda existem muitas variacoes diferentes desse mesmo ceu.
+
+//TEXT
+<enT0084>At the very least...
+<ptT0084>Pelo menos...
+
+//TEXT
+<enT0085>There was more variation to the sky above than the city below.
+<ptT0085>Havia mais variacao no ceu la em cima do que na cidade la embaixo.
+
+//TEXT
+<enT0086>The city before me was covered with a thick blue blanket of sky.
+<ptT0086>A cidade a minha frente estava coberta por um grosso manto azul de ceu.
+
+//TEXT 【Yuki】
+<enT0087>"Since the time I first looked out at this scene as a child, this landscape hasn't changed much at all."
+<ptT0087>"Desde quando eu olhei para esse cenario pela primeira vez quando era crianca, essa paisagem nao mudou quase nada."
+
+//TEXT 【Yuki】
+<enT0088>"There are apartments over there, and the smokestacks of the trash incinerators are over there. And over there..."
+<ptT0088>"Ha predios ali, e as chamines dos incineradores de lixo estao ali. E ali..."
+
+//TEXT
+<enT0089>The faint shape over there in the distance was Mt. Fuji.
+<ptT0089>A forma vaga la na distancia era o Monte Fuji.
+
+//TEXT
+<enT0090>Standing on high ground like this, I could even see the different wards of the city, faintly.
+<ptT0090>Estando em terreno elevado assim, eu conseguia ate ver os diferentes bairros da cidade, ao longe.
+
+//TEXT 【Yuki】
+<enT0091>"The bright future we all heard about in the Shouwa era is right here in front of us. Yep."
+<ptT0091>"O futuro brilhante que todos ouvimos falar na era Shouwa esta bem aqui na nossa frente. E sim."
+
+//TEXT 【Yuki】
+<enT0092>"The voices that spoke of the future were filled with hope."
+<ptT0092>"As vozes que falavam do futuro estavam cheias de esperanca."
+
+//TEXT 【Yuki】
+<enT0093>"One train ride from the boonies, all the way into the inner city."
+<ptT0093>"Uma viagem de trem das rocas ate o centro da cidade."
+
+//TEXT 【Yuki】
+<enT0094>"Not that I have any complaints."
+<ptT0094>"Nao e que eu tenha reclamacoes."
+
+//TEXT
+<enT0095>I had no complaints.
+<ptT0095>Eu nao tinha reclamacoes.
+
+//TEXT
+<enT0096>My generation isn't so spoiled that we would complain about it.
+<ptT0096>Minha geracao nao e mimada o suficiente para reclamar disso.
+
+//TEXT
+<enT0097>A wise man once said this.
+<ptT0097>Um homem sabio disse isso uma vez.
+
+//TEXT 【Yuki】
+<enT0098>"We've worked all our lives to guarantee everything you call normal!"
+<ptT0098>"Trabalhamos a vida toda para garantir tudo o que voces chamam de normal!"
+
+//TEXT
+<enT0099>Don't take your day-to-day life for granted!
+<ptT0099>Nao ache que sua vida cotidiana e garantida!
+
+//TEXT
+<enT0100>I guess that was what he meant.
+<ptT0100>Acho que era isso que ele quis dizer.
+
+//TEXT
+<enT0101>I really am grateful.
+<ptT0101>Eu realmente sou grata.
+
+//TEXT
+<enT0102>But still, there's one other thing I'd say to him...
+<ptT0102>Mas ainda assim, tenho mais uma coisa a dizer para ele...
+
+//TEXT
+<enT0103>What we see now is all that was left after that bright future they envisioned crumbled to the ground.
+<ptT0103>O que vemos agora e tudo o que sobrou depois que aquele futuro brilhante que eles imaginaram desmoronou.
+
+//TEXT
+<enT0104>That bright future has already passed us by.
+<ptT0104>Aquele futuro brilhante ja passou por nos.
+
+//TEXT
+<enT0105>How could something like this show us the way forward? Show us the future?
+<ptT0105>Como algo assim poderia nos mostrar o caminho a seguir? Mostrar-nos o futuro?
+
+//TEXT
+<enT0106>It can't.
+<ptT0106>Nao pode.
+
+//TEXT
+<enT0107>So,
+<ptT0107>Entao,
+
+//TEXT
+<enT0108> I'm not complaining about anything, but...
+<ptT0108> nao estou reclamando de nada, mas...
+
+//TEXT 【Yuki】
+<enT0109>"I wish they would tear down those old apartments."
+<ptT0109>"Queria que demolissem aqueles predios velhos."
+
+//TEXT
+<enT0110>God didn't put any effort into designing the sky, but he could at least make that happen, right?
+<ptT0110>Deus nao fez esforco nenhum para criar o ceu, mas poderia pelo menos fazer isso acontecer, certo?
+
+//TEXT
+<enT0111>If the sky isn't going to change, then at least get rid of those.
+<ptT0111>Se o ceu nao vai mudar, que pelo menos se livre daquilo.
+
+//TEXT
+<enT0112>If God doesn't, people will.
+<ptT0112>Se Deus nao fizer, as pessoas farao.
+
+//TEXT
+<enT0113>And then maybe we'll be able to see a bit of the future?
+<ptT0113>E ai talvez a gente consiga ver um pouco do futuro?
+
+//TEXT
+<enT0114>I sincerely doubt that, though.
+<ptT0114>Sinceramente, eu duvido disso, no entanto.
+
+//TEXT
+<enT0115>If I'm still alive in ten or twenty years, when I'm thirty or forty, will this scene have changed at all?
+<ptT0115>Se eu ainda estiver viva daqui a dez ou vinte anos, quando tiver trinta ou quarenta, essa cena vai ter mudado?
+
+//TEXT
+<enT0116>Well, it's not like it's going to change from one day to the next.
+<ptT0116>Bom, nao e que vai mudar de um dia para o outro.
+
+//TEXT
+<enT0117>If those apartments suddenly disappeared and those smokestacks were ripped from the earth, for instance... If the scenery changed like that every day, it could only be...
+<ptT0117>Se aqueles predios de repente desaparecessem e aquelas chamines fossem arrancadas da terra, por exemplo... Se a paisagem mudasse assim todo dia, so poderia ser...
+
+//TEXT
+<enT0118>Because lots of people were dying (heh).
+<ptT0118>Porque muita gente estava morrendo (heh).
+
+//TEXT
+<enT0119>For instance, that might happen if there was a war, or an earthquake, or if Mars suddenly attacked... Or even if we saw the advent of the Great King of Angolmois.
+<ptT0119>Por exemplo, isso poderia acontecer se houvesse uma guerra, ou um terremoto, ou se Marte de repente atacasse... Ou ate se vissemos o advento do Grande Rei de Angolmois.
+
+//TEXT
+<enT0120>In other words, there would have to be some sort of cataclysm.
+<ptT0120>Em outras palavras, teria que haver algum tipo de cataclismo.
+
+//TEXT
+<enT0121>For instance...
+<ptT0121>Por exemplo...
+
+//TEXT
+<enT0122>I sat and imagined...
+<ptT0122>Eu me sentei e imaginei...
+
+//TEXT
+<enT0123>A cataclysm hitting this city...
+<ptT0123>Um cataclismo atingindo esta cidade...
+
+//TEXT
+<enT0124>An amazing cataclysm.
+<ptT0124>Um cataclismo incrivel.
+
+//TEXT
+<enT0125>I imagined the sky full of shooting stars, with the ground splitting in two and molten fire erupting from the crevasse.
+<ptT0125>Eu imaginei o ceu cheio de estrelas cadentes, com o chao se partindo em dois e fogo derretido explodindo da fenda.
+
+//TEXT 【Yuki】
+<enT0126>"Hahaha... That's awfully morbid."
+<ptT0126>"Hahaha... Isso e muito macabro."
+
+//TEXT
+<enT0127>I sat on the roof, looked out at the city, and imagined the end of the world.
+<ptT0127>Sentei no terraco, olhei para a cidade e imaginei o fim do mundo.
+
+//TEXT
+<enT0128>But...
+<ptT0128>Mas...
+
+//TEXT
+<enT0129>......
+<ptT0129>......
+
+//TEXT
+<enT0130>For a girl my age, dressed like this, maybe it's normal to think like that.
+<ptT0130>Para uma garota da minha idade, vestida assim, talvez seja normal pensar dessa forma.
+
+//TEXT
+<enT0131>That the world could go to hell. Something like that.
+<ptT0131>Que o mundo pode ir pro inferno. Algo assim.
+
+//TEXT
+<enT0132>Everyone could just go die. Something like that.
+<ptT0132>Todo mundo podia simplesmente morrer. Algo assim.
+
+//TEXT
+<enT0133>So, well, if you think of it like that, I'm a perfect specimen.
+<ptT0133>Entao, bom, pensando assim, sou um exemplar perfeito.
+
+//TEXT
+<enT0134>Very well made.
+<ptT0134>Muito bem feita.
+
+//TEXT 【Yuki】
+<enT0135>"Right..."
+<ptT0135>"E..."
+
+//TEXT
+<enT0136>"Huh? You're..."
+<ptT0136>"Ha? Voce e..."
+
+//TEXT 【Yuki】
+<enT0137>"Huh?"
+<ptT0137>"Ha?"
+
+//TEXT
+<enT0138>When I turned around, I saw an unfamiliar face.
+<ptT0138>Quando me virei, vi um rosto desconhecido.
+
+//TEXT
+<enT0139>No. Upon closer inspection, it was a face I recognized.
+<ptT0139>Nao. Olhando com mais atencao, era um rosto que eu reconhecia.
+
+//TEXT
+<enT0140>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
+<ptT0140>Nos dois eramos da mesma sala na escola. Ele sentava tres lugares na diagonal a minha frente. O nome dele era...
+
+//TEXT 【Yuki】
+<enT0141>"Mamiya Takuji."
+<ptT0141>"Mamiya Takuji."
+
+//TEXT 【Takuji】
+<enT0142>"Why are you here?"
+<ptT0142>"Por que voce esta aqui?"
+
+//TEXT 【Yuki】
+<enT0143>"..."
+<ptT0143>"..."
+
+//TEXT 【Yuki】
+<enT0144>"What's it matter to you?"
+<ptT0144>"O que isso tem a ver com voce?"
+
+//TEXT 【Takuji】
+<enT0145>"Oh, no. I didn't mean it like that."
+<ptT0145>"Ah, nao. Nao quis dizer assim."
+
+//TEXT 【Yuki】
+<enT0146>"Where I go is none of your business."
+<ptT0146>"Onde eu vou nao e da sua conta."
+
+//TEXT 【Takuji】
+<enT0147>"W-Well, that's true, but..."
+<ptT0147>"B-Bom, isso e verdade, mas..."
+
+//TEXT 【Yuki】
+<enT0148>"..."
+<ptT0148>"..."
+
+//TEXT 【Yuki】
+<enT0149>"I have to say I'm surprised."
+<ptT0149>"Tenho que dizer que estou surpresa."
+
+//TEXT 【Takuji】
+<enT0150>"Huh? Why's that?"
+<ptT0150>"Ha? Por que?"
+
+//TEXT 【Yuki】
+<enT0151>"I never would have imagined that you could work up the courage to talk to a girl you didn't know."
+<ptT0151>"Nunca imaginaria que voce teria coragem de falar com uma garota que nao conhecia."
+
+//TEXT 【Takuji】
+<enT0152>"W-Well, that's..."
+<ptT0152>"B-Bom, isso..."
+
+//TEXT 【Yuki】
+<enT0153>"Sorry, I take that back."
+<ptT0153>"Desculpa, me retrato."
+
+//TEXT 【Takuji】
+<enT0154>"Huh?"
+<ptT0154>"Ha?"
+
+//TEXT 【Yuki】
+<enT0155>"I never would have imagined that you could work up the courage to talk to anyone you didn't know, regardless of their gender."
+<ptT0155>"Nunca imaginaria que voce teria coragem de falar com qualquer pessoa que nao conhecia, independente do genero."
+
+//TEXT 【Takuji】
+<enT0156>"Th-That's not..."
+<ptT0156>"I-Isso nao..."
+
+//TEXT 【Yuki】
+<enT0157>"Not what?"
+<ptT0157>"Nao o que?"
+
+//TEXT 【Takuji】
+<enT0158>"Not completely untrue."
+<ptT0158>"Nao completamente errado."
+
+//TEXT 【Yuki】
+<enT0159>"Nevertheless, you did manage to talk to me."
+<ptT0159>"Mesmo assim, voce conseguiu me falar."
+
+//TEXT 【Takuji】
+<enT0160>"W-Well..."
+<ptT0160>"B-Bom..."
+
+//TEXT 【Yuki】
+<enT0161>"Well?"
+<ptT0161>"E entao?"
+
+//TEXT 【Takuji】
+<enT0162>"..."
+<ptT0162>"..."
+
+//TEXT 【Yuki】
+<enT0163>"The silent treatment, huh? Oh, that's right. Mamiya-kun."
+<ptT0163>"O tratamento do silencio, huh? Ah, e mesmo. Mamiya-kun."
+
+//TEXT 【Takuji】
+<enT0164>"Y-Yes?"
+<ptT0164>"S-Sim?"
+
+//TEXT 【Yuki】
+<enT0165>"Do you smoke 'Never Knows Best' or anything like that?"
+<ptT0165>"Voce fuma 'Never Knows Best' ou algo assim?"
+
+//TEXT 【Takuji】
+<enT0166>"Ah, no. Tobacco is kind of..."
+<ptT0166>"Ah, nao. Tabaco e meio..."
+
+//TEXT 【Yuki】
+<enT0167>"Oh. You don't smoke."
+<ptT0167>"Ah. Voce nao fuma."
+
+//TEXT 【Takuji】
+<enT0168>"Yeah."
+<ptT0168>"E."
+
+//TEXT 【Yuki】
+<enT0169>"But I get it. I know why you talked to me."
+<ptT0169>"Mas eu entendo. Sei por que voce me falou."
+
+//TEXT 【Takuji】
+<enT0170>"Huh?"
+<ptT0170>"Ha?"
+
+//TEXT 【Yuki】
+<enT0171>"You know, I wonder how long I've been here."
+<ptT0171>"Sabe, fico me perguntando ha quanto tempo estou aqui."
+
+//TEXT 【Yuki】
+<enT0172>"How long I've been me."
+<ptT0172>"Ha quanto tempo tenho sido eu."
+
+//TEXT 【Takuji】
+<enT0173>"U-Um..."
+<ptT0173>"U-Um..."
+
+//TEXT 【Yuki】
+<enT0174>"Just kidding."
+<ptT0174>"So de brincadeira."
+
+//TEXT 【Takuji】
+<enT0175>"R-Right..."
+<ptT0175>"C-Certo..."
+
+//TEXT 【Takuji】
+<enT0176>"..."
+<ptT0176>"..."
+
+//TEXT 【Takuji】
+<enT0177>"Minakami-san, how long have you been here?"
+<ptT0177>"Minakami-san, ha quanto tempo voce esta aqui?"
+
+//TEXT 【Yuki】
+<enT0178>"How about you? How long have you been there?"
+<ptT0178>"E voce? Ha quanto tempo voce esta ai?"
+
+//TEXT 【Takuji】
+<enT0179>"I-I've been here a long time."
+<ptT0179>"F-Faz um bom tempo que estou aqui."
+
+//TEXT 【Yuki】
+<enT0180>"Oh. I've been here for a while too, but I never noticed you."
+<ptT0180>"Ah. Eu tambem estou aqui faz um tempo, mas nunca percebi voce."
+
+//TEXT 【Takuji】
+<enT0181>"I-I don't really stand out very much."
+<ptT0181>"E-Eu realmente nao me destaco muito."
+
+//TEXT 【Yuki】
+<enT0182>"You're right about that. You don't leave much of an impression."
+<ptT0182>"Voce tem razao nisso. Voce nao causa muita impressao."
+
+//TEXT 【Takuji】
+<enT0183>"What were you looking at from up here?"
+<ptT0183>"O que voce estava olhando la de cima?"
+
+//TEXT 【Yuki】
+<enT0184>"Nothing, really. I was looking at the sky."
+<ptT0184>"Nada, realmente. Eu estava olhando para o ceu."
+
+//TEXT 【Takuji】
+<enT0185>"I see."
+<ptT0185>"Entendo."
+
+//TEXT 【Yuki】
+<enT0186>"You know, if God..."
+<ptT0186>"Sabe, se Deus..."
+
+//TEXT 【Takuji】
+<enT0187>"Huh?"
+<ptT0187>"Ha?"
+
+//TEXT 【Yuki】
+<enT0188>"It's just, I was thinking, why didn't God make the sky a different color every day of the week?"
+<ptT0188>"E que eu estava pensando, por que Deus nao fez o ceu de uma cor diferente para cada dia da semana?"
+
+//TEXT 【Takuji】
+<enT0189>"Why should the color of the sky change?"
+<ptT0189>"Por que a cor do ceu deveria mudar?"
+
+//TEXT 【Yuki】
+<enT0190>"Wouldn't it be nice if it did?"
+<ptT0190>"Nao seria bom se mudasse?"
+
+//TEXT 【Takuji】
+<enT0191>"..."
+<ptT0191>"..."
+
+//TEXT 【Takuji】
+<enT0192>"Yeah, I think it would be nice, but..."
+<ptT0192>"Sim, acho que seria bom, mas..."
+
+//TEXT 【Yuki】
+<enT0193>"But?"
+<ptT0193>"Mas?"
+
+//TEXT 【Takuji】
+<enT0194>"I think that might be a problem for other people."
+<ptT0194>"Acho que isso poderia ser um problema para outras pessoas."
+
+//TEXT 【Yuki】
+<enT0195>"Why?"
+<ptT0195>"Por que?"
+
+//TEXT 【Takuji】
+<enT0196>"If every day changed so much..."
+<ptT0196>"Se todo dia mudasse tanto..."
+
+//TEXT 【Takuji】
+<enT0197>"The scenery would change too much, right? If the sky were a different color every day."
+<ptT0197>"A paisagem mudaria demais, nao seria? Se o ceu fosse de uma cor diferente todo dia."
+
+//TEXT 【Yuki】
+<enT0198>"It would be nice."
+<ptT0198>"Seria bom."
+
+//TEXT 【Takuji】
+<enT0199>"For you, maybe."
+<ptT0199>"Para voce, talvez."
+
+//TEXT 【Yuki】
+<enT0200>"And for you too, right?"
+<ptT0200>"E para voce tambem, certo?"
+
+//TEXT 【Takuji】
+<enT0201>"..."
+<ptT0201>"..."
+
+//TEXT 【Takuji】
+<enT0202>"Yeah."
+<ptT0202>"Sim."
+
+//TEXT 【Takuji】
+<enT0203>"If the sky was different every day..."
+<ptT0203>"Se o ceu fosse diferente todo dia..."
+
+//TEXT 【Takuji】
+<enT0204>"If the scenery was different every day..."
+<ptT0204>"Se a paisagem fosse diferente todo dia..."
+
+//TEXT 【Takuji】
+<enT0205>"I could probably... be a little more..."
+<ptT0205>"Eu provavelmente poderia... ser um pouco mais..."
+
+//TEXT 【Yuki】
+<enT0206>"A little more what?"
+<ptT0206>"Um pouco mais o que?"
+
+//TEXT 【Takuji】
+<enT0207>"Nevermind..."
+<ptT0207>"Deixa pra la..."
+
+//TEXT
+<enT0208>Yuki, sometimes I think about these things.
+<ptT0208>Yuki, as vezes eu penso nessas coisas.
+
+//TEXT
+<enT0209>Where is the limit of the world?
+<ptT0209>Onde esta o limite do mundo?
+
+//TEXT
+<enT0210>The very edge of the edge of the world.
+<ptT0210>A beira mais extrema do mundo.
+
+//TEXT
+<enT0211>If such a place existed...
+<ptT0211>Se tal lugar existisse...
+
+//TEXT
+<enT0212>Suppose I was able to stand in that place. Could I look at the scenery from that edge, just like anywhere else?
+<ptT0212>Suponha que eu conseguisse ficar naquele lugar. Eu poderia olhar para a paisagem daquela beira, igual a qualquer outro lugar?
+
+//TEXT
+<enT0213>If I think it's normal to wonder about these things... Does that make me weird?
+<ptT0213>Se eu acho normal pensar nessas coisas... Isso me torna estranha?
+
+//TEXT
+<enT0214>I mean, that's the edge of the world.
+<ptT0214>Quero dizer, e a beira do mundo.
+
+//TEXT
+<enT0215>It's the limit of the world.
+<ptT0215>E o limite do mundo.
+
+//TEXT
+<enT0216>If I could see that with my own two eyes, wouldn't the limit of the world become the same as my own limit?
+<ptT0216>Se eu pudesse ver isso com meus proprios olhos, o limite do mundo nao se tornaria o meu proprio limite?
+
+//TEXT
+<enT0217>Wouldn't the world, viewed from that spot... be the world that I see? Wouldn't that be my world?
+<ptT0217>O mundo, visto daquele lugar... nao seria o mundo que eu enxergo? Nao seria esse o meu mundo?
+
+//TEXT
+<enT0218>The limit of the world would become the limit of my world.
+<ptT0218>O limite do mundo se tornaria o limite do meu mundo.
+
+//TEXT
+<enT0219>The world is that which I see, touch, and feel.
+<ptT0219>O mundo e aquilo que eu vejo, toco e sinto.
+
+//TEXT
+<enT0220>Then what is the world?
+<ptT0220>Entao o que e o mundo?
+
+//TEXT
+<enT0221>What is the difference between me and the world?
+<ptT0221>Qual e a diferenca entre mim e o mundo?
+
+//TEXT
+<enT0222>Is there a difference?
+<ptT0222>Ha uma diferenca?
+
+//TEXT
+<enT0223>The difference between me and the world.
+<ptT0223>A diferenca entre mim e o mundo.
+
+//TEXT
+<enT0224>This is what I have to say.
+<ptT0224>E o que tenho a dizer.
+
+//TEXT
+<enT0225>There is no difference between me and the world.
+<ptT0225>Nao ha diferenca entre mim e o mundo.
+
+//TEXT
+<enT0226>Of that I am certain.
+<ptT0226>Disso tenho certeza.
+
+//TEXT
+<enT0227>That conviction leads me to another question.
+<ptT0227>Essa convicao me leva a outra pergunta.
+
+//TEXT
+<enT0228>What is a world that also includes other people?
+<ptT0228>O que e um mundo que tambem inclui outras pessoas?
+
+//TEXT
+<enT0229>If I am the world, then what about the other people?
+<ptT0229>Se eu sou o mundo, entao o que dizer das outras pessoas?
+
+//TEXT
+<enT0230>Do they have worlds too?
+<ptT0230>Elas tambem tem mundos?
+
+//TEXT
+<enT0231>Then are they separate worlds that don't intersect?
+<ptT0231>Sao mundos separados que nao se cruzam?
+
+//TEXT
+<enT0232>Or is it possible for them to intersect?
+<ptT0232>Ou e possivel que se cruzem?
+
+//TEXT
+<enT0233>Out of all the worlds and all the souls... Is it only possible for each soul to see one single world?
+<ptT0233>Dentre todos os mundos e todas as almas... E possivel que cada alma so consiga ver um unico mundo?
+
+//TEXT
+<enT0234>The scene I saw at the end of the world.
+<ptT0234>A cena que vi no fim do mundo.
+
+//TEXT
+<enT0235>The limit of the world.
+<ptT0235>O limite do mundo.
+
+//TEXT
+<enT0236>The furthest scene.
+<ptT0236>A cena mais distante.
+
+//TEXT
+<enT0237>At that time, were you looking at the edge of the world too?
+<ptT0237>Naquela epoca, voce tambem estava olhando para a beira do mundo?
+
+//TEXT
+<enT0238>The sky you saw at the edge of the world.
+<ptT0238>O ceu que voce viu na beira do mundo.
+
+//TEXT
+<enT0239>The sky at the limit of the world.
+<ptT0239>O ceu no limite do mundo.
+
+//TEXT
+<enT0240>The furthest sky.
+<ptT0240>O ceu mais distante.
+
+//TEXT
+<enT0241>Will I be able to see it with you?
+<ptT0241>Serei capaz de ve-lo com voce?
+
+//TEXT
+<enT0242>Will I be able to see the end of the same world with you?
+<ptT0242>Serei capaz de ver o fim do mesmo mundo com voce?
+
+//TEXT
+<enT0243>Even as we stand under different skies, we look out from under the same sky.
+<ptT0243>Mesmo estando sob ceus diferentes, olhamos de baixo do mesmo ceu.
+
+//TEXT
+<enT0244>Sometimes I think about these things.
+<ptT0244>As vezes penso nessas coisas.
+
+//TEXT
+<enT0245>Even as I think back upon...
+<ptT0245>Mesmo enquanto relembro...
+
+//TEXT
+<enT0246>That hill covered in sunflowers.
+<ptT0246>Aquela colina coberta de girassois.
+
+///================================================================================
+
+//OTHER
+<enZ0001>1-2_0000.bss
+<ptZ0001>1-2_0000.bss
+
+//OTHER
+<enZ0002>
+<ptZ0002>
+
+//OTHER
+<enZ0003>Down the Rabbit-Hole II
+<ptZ0003>Down the Rabbit-Hole II
+
+//OTHER
+<enZ0004>map005
+<ptZ0004>map005
+
+//OTHER
+<enZ0005>sp0003a
+<ptZ0005>sp0003a
+
+//OTHER
+<enZ0006>sp0003b
+<ptZ0006>sp0003b
+
+//OTHER
+<enZ0007>sp0003c
+<ptZ0007>sp0003c
+
+//OTHER
+<enZ0008>map023
+<ptZ0008>map023
+
+//OTHER
+<enZ0009>black
+<ptZ0009>black
+
+//OTHER
+<enZ0010>se200
+<ptZ0010>se200
+
+//OTHER
+<enZ0011>ev0001_l
+<ptZ0011>ev0001_l
+
+//OTHER
+<enZ0012>yuki_000001
+<ptZ0012>yuki_000001
+
+//OTHER
+<enZ0013>yuki_000002_a
+<ptZ0013>yuki_000002_a
+
+//OTHER
+<enZ0014>yuki_000002_b
+<ptZ0014>yuki_000002_b
+
+//OTHER
+<enZ0015>yuki_000002_c
+<ptZ0015>yuki_000002_c
+
+//OTHER
+<enZ0016>yuki_000002_d
+<ptZ0016>yuki_000002_d
+
+//OTHER
+<enZ0017>bgm017
+<ptZ0017>bgm017
+
+//OTHER
+<enZ0018>ev0001
+<ptZ0018>ev0001
+
+//OTHER
+<enZ0019>map004
+<ptZ0019>map004
+
+//OTHER
+<enZ0020>sp0008a
+<ptZ0020>sp0008a
+
+//OTHER
+<enZ0021>map003
+<ptZ0021>map003
+
+//OTHER
+<enZ0022>yuki_001225
+<ptZ0022>yuki_001225
+
+//OTHER
+<enZ0023>yuki_001226
+<ptZ0023>yuki_001226
+
+//OTHER
+<enZ0024>yuki_001227
+<ptZ0024>yuki_001227
+
+//OTHER
+<enZ0025>yuki_001228
+<ptZ0025>yuki_001228
+
+//OTHER
+<enZ0026>yuki_001229
+<ptZ0026>yuki_001229
+
+//OTHER
+<enZ0027>yuki_001230
+<ptZ0027>yuki_001230
+
+//OTHER
+<enZ0028>yuki_001231
+<ptZ0028>yuki_001231
+
+//OTHER
+<enZ0029>yuki_001232
+<ptZ0029>yuki_001232
+
+//OTHER
+<enZ0030>yuki_001233
+<ptZ0030>yuki_001233
+
+//OTHER
+<enZ0031>yuki_001234
+<ptZ0031>yuki_001234
+
+//OTHER
+<enZ0032>taku_000025
+<ptZ0032>taku_000025
+
+//OTHER
+<enZ0033>yuki_001235
+<ptZ0033>yuki_001235
+
+//OTHER
+<enZ0034>ev6001a
+<ptZ0034>ev6001a
+
+//OTHER
+<enZ0035>yuki_001236
+<ptZ0035>yuki_001236
+
+//OTHER
+<enZ0036>taku_000026
+<ptZ0036>taku_000026
+
+//OTHER
+<enZ0037>yuki_001237
+<ptZ0037>yuki_001237
+
+//OTHER
+<enZ0038>yuki_001238
+<ptZ0038>yuki_001238
+
+//OTHER
+<enZ0039>taku_000027
+<ptZ0039>taku_000027
+
+//OTHER
+<enZ0040>yuki_001239
+<ptZ0040>yuki_001239
+
+//OTHER
+<enZ0041>taku_000028
+<ptZ0041>taku_000028
+
+//OTHER
+<enZ0042>yuki_001240
+<ptZ0042>yuki_001240
+
+//OTHER
+<enZ0043>yuki_001241
+<ptZ0043>yuki_001241
+
+//OTHER
+<enZ0044>taku_000029
+<ptZ0044>taku_000029
+
+//OTHER
+<enZ0045>yuki_001242
+<ptZ0045>yuki_001242
+
+//OTHER
+<enZ0046>taku_000030
+<ptZ0046>taku_000030
+
+//OTHER
+<enZ0047>yuki_001243
+<ptZ0047>yuki_001243
+
+//OTHER
+<enZ0048>taku_000031
+<ptZ0048>taku_000031
+
+//OTHER
+<enZ0049>yuki_001244
+<ptZ0049>yuki_001244
+
+//OTHER
+<enZ0050>taku_000032
+<ptZ0050>taku_000032
+
+//OTHER
+<enZ0051>yuki_001245
+<ptZ0051>yuki_001245
+
+//OTHER
+<enZ0052>taku_000033
+<ptZ0052>taku_000033
+
+//OTHER
+<enZ0053>yuki_001246
+<ptZ0053>yuki_001246
+
+//OTHER
+<enZ0054>taku_000034
+<ptZ0054>taku_000034
+
+//OTHER
+<enZ0055>yuki_001247
+<ptZ0055>yuki_001247
+
+//OTHER
+<enZ0056>taku_000035
+<ptZ0056>taku_000035
+
+//OTHER
+<enZ0057>yuki_001248
+<ptZ0057>yuki_001248
+
+//OTHER
+<enZ0058>taku_000036
+<ptZ0058>taku_000036
+
+//OTHER
+<enZ0059>yuki_001249
+<ptZ0059>yuki_001249
+
+//OTHER
+<enZ0060>taku_000037
+<ptZ0060>taku_000037
+
+//OTHER
+<enZ0061>yuki_001250
+<ptZ0061>yuki_001250
+
+//OTHER
+<enZ0062>taku_000038
+<ptZ0062>taku_000038
+
+//OTHER
+<enZ0063>yuki_001251
+<ptZ0063>yuki_001251
+
+//OTHER
+<enZ0064>taku_000039
+<ptZ0064>taku_000039
+
+//OTHER
+<enZ0065>yuki_001252
+<ptZ0065>yuki_001252
+
+//OTHER
+<enZ0066>yuki_001253
+<ptZ0066>yuki_001253
+
+//OTHER
+<enZ0067>taku_000040
+<ptZ0067>taku_000040
+
+//OTHER
+<enZ0068>yuki_001254
+<ptZ0068>yuki_001254
+
+//OTHER
+<enZ0069>taku_000041
+<ptZ0069>taku_000041
+
+//OTHER
+<enZ0070>taku_000042
+<ptZ0070>taku_000042
+
+//OTHER
+<enZ0071>taku_000043
+<ptZ0071>taku_000043
+
+//OTHER
+<enZ0072>yuki_001255
+<ptZ0072>yuki_001255
+
+//OTHER
+<enZ0073>taku_000044
+<ptZ0073>taku_000044
+
+//OTHER
+<enZ0074>yuki_001256
+<ptZ0074>yuki_001256
+
+//OTHER
+<enZ0075>taku_000045
+<ptZ0075>taku_000045
+
+//OTHER
+<enZ0076>yuki_001257
+<ptZ0076>yuki_001257
+
+//OTHER
+<enZ0077>taku_000046
+<ptZ0077>taku_000046
+
+//OTHER
+<enZ0078>yuki_001258
+<ptZ0078>yuki_001258
+
+//OTHER
+<enZ0079>taku_000047
+<ptZ0079>taku_000047
+
+//OTHER
+<enZ0080>yuki_001259
+<ptZ0080>yuki_001259
+
+//OTHER
+<enZ0081>taku_000048
+<ptZ0081>taku_000048
+
+//OTHER
+<enZ0082>yuki_001260
+<ptZ0082>yuki_001260
+
+//OTHER
+<enZ0083>taku_000049
+<ptZ0083>taku_000049
+
+//OTHER
+<enZ0084>yuki_001261
+<ptZ0084>yuki_001261
+
+//OTHER
+<enZ0085>taku_000050
+<ptZ0085>taku_000050
+
+//OTHER
+<enZ0086>taku_000051
+<ptZ0086>taku_000051
+
+//OTHER
+<enZ0087>yuki_001262
+<ptZ0087>yuki_001262
+
+//OTHER
+<enZ0088>taku_000052
+<ptZ0088>taku_000052
+
+//OTHER
+<enZ0089>yuki_001263
+<ptZ0089>yuki_001263
+
+//OTHER
+<enZ0090>taku_000053
+<ptZ0090>taku_000053
+
+//OTHER
+<enZ0091>taku_000054
+<ptZ0091>taku_000054
+
+//OTHER
+<enZ0092>yuki_001264
+<ptZ0092>yuki_001264
+
+//OTHER
+<enZ0093>taku_000055
+<ptZ0093>taku_000055
+
+//OTHER
+<enZ0094>yuki_001265
+<ptZ0094>yuki_001265
+
+//OTHER
+<enZ0095>taku_000056
+<ptZ0095>taku_000056
+
+//OTHER
+<enZ0096>taku_000057
+<ptZ0096>taku_000057
+
+//OTHER
+<enZ0097>taku_000058
+<ptZ0097>taku_000058
+
+//OTHER
+<enZ0098>taku_000059
+<ptZ0098>taku_000059
+
+//OTHER
+<enZ0099>taku_000060
+<ptZ0099>taku_000060
+
+//OTHER
+<enZ0100>yuki_001266
+<ptZ0100>yuki_001266
+
+//OTHER
+<enZ0101>taku_000061
+<ptZ0101>taku_000061
+
+//OTHER
+<enZ0102>ev6001b
+<ptZ0102>ev6001b
+
+//OTHER
+<enZ0103>map022
+<ptZ0103>map022
+
+//OTHER
+<enZ0104>sp0023
+<ptZ0104>sp0023
+
+//OTHER
+<enZ0105>map035
+<ptZ0105>map035
+
+//OTHER
+<enZ0106>sp0024
+<ptZ0106>sp0024
+
+//OTHER
+<enZ0107>white
+<ptZ0107>white
+
+//OTHER
+<enZ0108>data02101.arc
+<ptZ0108>data02101.arc
+
+//OTHER
+<enZ0109>sp0001a
+<ptZ0109>sp0001a
+
+//OTHER
+<enZ0110>1-2_0712
+<ptZ0110>1-2_0712
+

@@ -1,0 +1,51 @@
+Você é um tradutor técnico EN->PT-BR trabalhando num patch de fă para o jogo "Subarashiki Hibi". Seu lote é o BATCH 4 de 4, com 29 arquivos.
+
+DIRETÓRIO DE TRABALHO: translation-workspace/source/
+
+FERRAMENTAS: já estão em translation-workspace/source/(bgi_dump.py, bgi_insert.py, bgi_common.py, bgi_config.py, bgi_setup.py) e translation-workspace/tools/ (mesmas cópias + GLOSSARY.md).
+
+SAÍDA FINAL: translation-workspace/output/
+
+ARQUIVOS DO SEU LOTE (nomes sem extensão, cada um tem um dump .txt já gerado ao lado, ex: "2_0715" tem "2_0715.txt"):
+
+2_0715, 2_0718_saviour, 1-2_0714, 1-1_0713_dream, 4_0704, 3_0711_trans, 2_0717_kimi, 2_0717_saviour, 6-3, 1-1_0719_escape, 1-2_0719, 3_0705, 3_0710_trans, 2_0712, 2_0703, 2_0718_kimi, 7-3_endofsky, 4_0000, 2_0702_22, 1-2_0000, 2_0713_tkj-dzk, 6-1, 1-1_0719_yk-kg, 1-1_0716_furo, 1-1_0720_dream, 2_0716_kyon, 3_0711t_aym, start6, 2_0702_11
+
+LEIA PRIMEIRO: translation-workspace/tools/GLOSSARY.md
+
+contém as regras de tradução (sem acentos, nomes próprios, o que não traduzir, tom/estilo) e translation-
+
+workspace/source/2_0702_11.txt como exemplo de arquivo já traduzido corretamente (compare os pares <en...>/<pt...> nele para entender o padrão esperado).
+
+O QUE FAZER, para cada arquivo do seu lote:
+
+1. Abra o arquivo "<nome>.txt" em translation-workspace/source/. Ele contém pares de linhas
+
+<enXNNNN>texto original e <ptXNNNN>texto (hoje é uma cópia do inglês - você deve substituir Só o conteúdo depois de <ptXNNNN> pela tradução).
+
+2. Edite CADA linha <pt...> com a tradução para português do Brasil, seguindo TODAS as regras do GLOSSARY.md:
+
+SEM NENHUM acento ou cedilha (o jogo não suporta, é limitação técnica confirmada). Ex: "nao", "voce", "coracao", "esta", "ate", "e" (verbo).
+
+Blocos //NAME: nomes próprios de personagens
+
+permanecem idênticos ao inglês (não traduza "Takuji", "Zakuro", "Yuki" etc.)
+
+- Blocos //OTHER (marcados com <ptZ...>): a MAIORIA são identificadores técnicos (nomes de arquivo tipo "algo.bss", IDs de voz tipo "taku_000123", IDs de som "se246"/"bgm020", nomes de sprite/cena "bg1023b") esses NÃO devem ser traduzidos, copie o valor de <en...> exatamente igual para <pt...>. Só traduza se for claramente texto legível em prosa (frase com sentido, não um código).
+
+- Blocos //TEXT: é o diálogo/narração real do jogo - traduza normalmente para um português coloquial e natural (adolescentes do ensino médio conversando), preservando pontuação, aspas e reticências.
+
+- CONTEÚDO SEXUAL EXPLÍCITO: não traduza. Se um trecho descrever ato sexual explícito, copie o texto em inglês literalmente para a linha <pt...> (deixe idêntico ao <en...>) em vez de traduzir. Isso vale para a cena inteira quando ela for claramente desse tipo de conteúdo.
+
+NÃO altere as tags <en...>/<pt...>, a estrutura de linhas, os comentários //NAME //TEXT //OTHER, nem os marcadores
+
+【Nome】
+
+3. Depois de traduzir TODOS os arquivos do lote, para CADA arquivo rode, dentro de translation-workspace/source/: python3 bgi_insert.py ../output <nome_do_arquivo> (isso gera o binário traduzido final em translation-workspace/output/<nome_do_arquivo>)
+
+4. Depois de gerar todos os binários do lote, valide rodando, para cada um:
+
+cd ../output && python3 bgi_dump.py <nome_do_arquivo> Isso deve rodar sem erro. Se der erro em algum arquivo, NÃO ignore - investigue e corrija (geralmente é um caractere fora do encoding cp932, como acento esquecido, aspas curvas """יוויין em vez de retas, ou travessão especial; troque por equivalente ASCII simples).
+
+5. Ao final, rode: grep -c "^<pt" <nome>.txt para cada arquivo e confirme que o número de linhas <pt> é igual ao número de linhas <en> em cada arquivo (nenhuma linha faltando).
+
+Ao terminar, responda com: lista dos arquivos processados, quantos passaram na validação sem erro, e quaisquer trechos que você decidiu deixar em inglês por serem conteúdo explícito (arquivo + contexto breve).
