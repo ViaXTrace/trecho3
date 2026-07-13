@@ -10,51 +10,51 @@
 
 //TEXT BACKLOG
 <enT0001>Oh! We have our pockets full.
-<ptT0001>Oh! We have our pockets full.
+<ptT0001>Ah! Temos nossos bolsos cheios.
 
 //TEXT BACKLOG
 <enT0002>Our lady-loves,―phantasms of our brains,
-<ptT0002>Our lady-loves,―phantasms of our brains,
+<ptT0002>Nossas amadas, — fantasmas de nossos cerebros,
 
 //TEXT BACKLOG
 <enT0003>―Dream-fancies blown into soap-bubbles!
-<ptT0003>―Dream-fancies blown into soap-bubbles!
+<ptT0003>— Fantasias sonhadas sopradas em bolhas de sabao!
 
 //TEXT BACKLOG
 <enT0004>Come! Take it,
-<ptT0004>Come! Take it,
+<ptT0004>Venha! Pegue,
 
 //TEXT BACKLOG
 <enT0005>and change 
-<ptT0005>and change 
+<ptT0005>e mude 
 
 //TEXT BACKLOG
 <enT0006>feigned love-words into true.
-<ptT0006>feigned love-words into true.
+<ptT0006>palavras de amor fingidas em verdadeiras.
 
 //TEXT BACKLOG
 <enT0007>I breathed my sighs and moans haphazard-wise;
-<ptT0007>I breathed my sighs and moans haphazard-wise;
+<ptT0007>Respirei meus suspiros e gemidos ao acaso;
 
 //TEXT BACKLOG
 <enT0008>Call all these wandering love-birds home to nest.
-<ptT0008>Call all these wandering love-birds home to nest.
+<ptT0008>Chame todos esses passarinhos de amor errantes para casa para fazer o ninho.
 
 //TEXT BACKLOG
 <enT0009>Come! Take it.
-<ptT0009>Come! Take it.
+<ptT0009>Venha! Pegue.
 
 //TEXT BACKLOG
 <enT0010>You'll see that I was in these lettered lines,
-<ptT0010>You'll see that I was in these lettered lines,
+<ptT0010>Voce vera que eu estava nestas linhas escritas,
 
 //TEXT BACKLOG
 <enT0011>―Eloquent all the more, the less sincere!
-<ptT0011>―Eloquent all the more, the less sincere!
+<ptT0011>— Quanto mais eloquente, menos sincero!
 
 //TEXT BACKLOG
 <enT0012>―Take it, and make an end!
-<ptT0012>―Take it, and make an end!
+<ptT0012>— Pegue, e acabe com isso!
 
 //TEXT BACKLOG
 <enT0013>Edmond Rostand
@@ -70,131 +70,131 @@
 
 //TEXT
 <enT0016>A Friday afternoon.
-<ptT0016>A Friday afternoon.
+<ptT0016>Uma tarde de sexta-feira.
 
 //TEXT
 <enT0017>They're the final hours of the week, and because of that, the busiest.
-<ptT0017>They're the final hours of the week, and because of that, the busiest.
+<ptT0017>Sao as horas finais da semana, e por causa disso, as mais ocupadas.
 
 //TEXT
 <enT0018>I was on a rooftop that overlooked a station crowded with people.
-<ptT0018>I was on a rooftop that overlooked a station crowded with people.
+<ptT0018>Eu estava em um telhado que tinha vista para uma estacao lotada de pessoas.
 
 //TEXT
 <enT0019>Seeing all those people caught within the city's turmoil made the location seem so serene.
-<ptT0019>Seeing all those people caught within the city's turmoil made the location seem so serene.
+<ptT0019>Ver todas aquelas pessoas presas na agitacao da cidade fazia o local parecer tao sereno.
 
 //TEXT
 <enT0020>Anyone loafing around in such a spot at this time of day...
-<ptT0020>Anyone loafing around in such a spot at this time of day...
+<ptT0020>Qualquer um vagando por um lugar assim a esta hora do dia...
 
 //TEXT
 <enT0021>Was either cutting class, a NEET, or me.
-<ptT0021>Was either cutting class, a NEET, or me.
+<ptT0021>Era ou quem estava matando aula, um NEET, ou eu.
 
 //TEXT
 <enT0022>"Haa..."
-<ptT0022>"Haa..."
+<ptT0022>"Aah..."
 
 //TEXT
 <enT0023>"All a woman needs in life are
-<ptT0023>"All a woman needs in life are
+<ptT0023>"Tudo o que uma mulher precisa na vida sao
 
 //TEXT
 <enT0024> cigarettes,
-<ptT0024> cigarettes,
+<ptT0024> cigarros,
 
 //TEXT
 <enT0025> a roof,
-<ptT0025> a roof,
+<ptT0025> um teto,
 
 //TEXT
 <enT0026> and
-<ptT0026> and
+<ptT0026> e
 
 //TEXT
 <enT0027> a frilly dress, right?"
-<ptT0027> a frilly dress, right?"
+<ptT0027> um vestido babado, nao e?"
 
 //TEXT
 <enT0028>This brand of cigarettes isn't very popular, but I prefer the kind no one else smokes.
-<ptT0028>This brand of cigarettes isn't very popular, but I prefer the kind no one else smokes.
+<ptT0028>Essa marca de cigarro nao e muito popular, mas prefiro o tipo que ninguem mais fuma.
 
 //TEXT
 <enT0029>A Friday sky.
-<ptT0029>A Friday sky.
+<ptT0029>Um ceu de sexta-feira.
 
 //TEXT
 <enT0030>The sky didn't care that it was the weekend. It hadn't changed one bit.
-<ptT0030>The sky didn't care that it was the weekend. It hadn't changed one bit.
+<ptT0030>O ceu nao se importava que era fim de semana. Ele nao tinha mudado nem um pouco.
 
 //TEXT
 <enT0031>Though I suppose that's to be expected. It would be a problem if the sky changed every week.
-<ptT0031>Though I suppose that's to be expected. It would be a problem if the sky changed every week.
+<ptT0031>Embora eu ache que isso era de se esperar. Seria um problema se o ceu mudasse toda semana.
 
 //TEXT
 <enT0032>A crisis suddenly hitting us after every weekend! Hah. What kind of anime or manga would that be from?
-<ptT0032>A crisis suddenly hitting us after every weekend! Hah. What kind of anime or manga would that be from?
+<ptT0032>Uma crise subitamente nos atingindo depois de cada fim de semana! Hah. De que tipo de anime ou manga seria isso?
 
 //TEXT
 <enT0033>A very ordinary weekend.
-<ptT0033>A very ordinary weekend.
+<ptT0033>Um fim de semana muito comum.
 
 //TEXT
 <enT0034>Underneath this sky.
-<ptT0034>Underneath this sky.
+<ptT0034>Debaixo deste ceu.
 
 //TEXT
 <enT0035>It was, in a way, inevitable that we'd meet.
-<ptT0035>It was, in a way, inevitable that we'd meet.
+<ptT0035>Era, de certa forma, inevitavel que nos encontrassemos.
 
 //TEXT
 <enT0036>It was, in a way, inevitable that we'd pass each other by.
-<ptT0036>It was, in a way, inevitable that we'd pass each other by.
+<ptT0036>Era, de certa forma, inevitavel que nos cruzassemos.
 
 //TEXT
 <enT0037>He and I met here.
-<ptT0037>He and I met here.
+<ptT0037>Ele e eu nos encontramos aqui.
 
 //TEXT
 <enT0038>And we passed each other by.
-<ptT0038>And we passed each other by.
+<ptT0038>E nos cruzamos.
 
 //TEXT
 <enT0039>Even at the very beginning, and even in the future, he and I would never walk the same path.
-<ptT0039>Even at the very beginning, and even in the future, he and I would never walk the same path.
+<ptT0039>Mesmo no comeco, e mesmo no futuro, ele e eu nunca andariamos pelo mesmo caminho.
 
 //TEXT
 <enT0040>It was inevitable that we wouldn't.
-<ptT0040>It was inevitable that we wouldn't.
+<ptT0040>Era inevitavel que nao fariamos.
 
 //TEXT
 <enT0041>Underneath a Friday sky.
-<ptT0041>Underneath a Friday sky.
+<ptT0041>Debaixo de um ceu de sexta-feira.
 
 //TEXT
 <enT0042>The weekend wouldn't be the end of the world.
-<ptT0042>The weekend wouldn't be the end of the world.
+<ptT0042>O fim de semana nao seria o fim do mundo.
 
 //TEXT
 <enT0043>It would be a very ordinary weekend.
-<ptT0043>It would be a very ordinary weekend.
+<ptT0043>Seria um fim de semana muito comum.
 
 //TEXT
 <enT0044>He was there.
-<ptT0044>He was there.
+<ptT0044>Ele estava la.
 
 //TEXT
 <enT0045>When I turned around, I saw an unfamiliar face.
-<ptT0045>When I turned around, I saw an unfamiliar face.
+<ptT0045>Quando me virei, vi um rosto desconhecido.
 
 //TEXT
 <enT0046>No. Upon closer inspection, it was a face I recognized.
-<ptT0046>No. Upon closer inspection, it was a face I recognized.
+<ptT0046>Nao. Ao olhar mais de perto, era um rosto que eu reconhecia.
 
 //TEXT
 <enT0047>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
-<ptT0047>We were both in the same class at school. He sat three seats diagonally ahead of me. His name was...
+<ptT0047>Nos dois estavamos na mesma classe na escola. Ele sentava tres lugares na diagonal a minha frente. O nome dele era...
 
 //TEXT 【Yuki】
 <enT0048>"Mamiya Takuji."
@@ -202,7 +202,7 @@
 
 //TEXT 【Takuji】
 <enT0049>"Why are you here?"
-<ptT0049>"Why are you here?"
+<ptT0049>"Por que voce esta aqui?"
 
 //TEXT 【Yuki】
 <enT0050>"..."
@@ -210,19 +210,19 @@
 
 //TEXT 【Yuki】
 <enT0051>"What's it matter to you?"
-<ptT0051>"What's it matter to you?"
+<ptT0051>"O que isso tem a ver com voce?"
 
 //TEXT 【Takuji】
 <enT0052>"Oh, no. I didn't mean it like that."
-<ptT0052>"Oh, no. I didn't mean it like that."
+<ptT0052>"Ah, nao. Eu quis dizer assim nao."
 
 //TEXT 【Yuki】
 <enT0053>"Where I go is none of your business."
-<ptT0053>"Where I go is none of your business."
+<ptT0053>"Onde eu vou nao e da sua conta."
 
 //TEXT 【Takuji】
 <enT0054>"W-Well, that's true, but..."
-<ptT0054>"W-Well, that's true, but..."
+<ptT0054>"B-Bom, isso e verdade, mas..."
 
 //TEXT 【Yuki】
 <enT0055>"..."
@@ -230,55 +230,55 @@
 
 //TEXT 【Yuki】
 <enT0056>"I have to say I'm surprised."
-<ptT0056>"I have to say I'm surprised."
+<ptT0056>"Tenho que admitir que estou surpresa."
 
 //TEXT 【Takuji】
 <enT0057>"Huh? Why's that?"
-<ptT0057>"Huh? Why's that?"
+<ptT0057>"Ha? Por que?"
 
 //TEXT 【Yuki】
 <enT0058>"I never would have imagined that you could work up the courage to talk to a girl you didn't know."
-<ptT0058>"I never would have imagined that you could work up the courage to talk to a girl you didn't know."
+<ptT0058>"Eu nunca teria imaginado que voce teria coragem de falar com uma garota que voce nao conhecia."
 
 //TEXT 【Takuji】
 <enT0059>"W-Well, that's..."
-<ptT0059>"W-Well, that's..."
+<ptT0059>"B-Bom, isso e..."
 
 //TEXT 【Yuki】
 <enT0060>"Sorry, I take that back."
-<ptT0060>"Sorry, I take that back."
+<ptT0060>"Desculpa, eu retiro o que disse."
 
 //TEXT 【Takuji】
 <enT0061>"Huh?"
-<ptT0061>"Huh?"
+<ptT0061>"Ha?"
 
 //TEXT 【Yuki】
 <enT0062>"I never would have imagined that you could work up the courage to talk to anyone you didn't know, regardless of their gender."
-<ptT0062>"I never would have imagined that you could work up the courage to talk to anyone you didn't know, regardless of their gender."
+<ptT0062>"Nunca imaginei que voce teria coragem de falar com alguem que nao conhece, independente do genero."
 
 //TEXT 【Takuji】
 <enT0063>"Th-That's not..."
-<ptT0063>"Th-That's not..."
+<ptT0063>"N-Nao e..."
 
 //TEXT 【Yuki】
 <enT0064>"Not what?"
-<ptT0064>"Not what?"
+<ptT0064>"Nao e o que?"
 
 //TEXT 【Takuji】
 <enT0065>"Not completely untrue."
-<ptT0065>"Not completely untrue."
+<ptT0065>"Nao e completamente falso."
 
 //TEXT 【Yuki】
 <enT0066>"Nevertheless, you did manage to talk to me."
-<ptT0066>"Nevertheless, you did manage to talk to me."
+<ptT0066>"Mas mesmo assim, voce conseguiu falar comigo."
 
 //TEXT 【Takuji】
 <enT0067>"W-Well..."
-<ptT0067>"W-Well..."
+<ptT0067>"B-Bem..."
 
 //TEXT 【Yuki】
 <enT0068>"Well?"
-<ptT0068>"Well?"
+<ptT0068>"Bem?"
 
 //TEXT 【Takuji】
 <enT0069>"..."
@@ -286,43 +286,43 @@
 
 //TEXT 【Yuki】
 <enT0070>"The silent treatment, huh? Oh, that's right. Mamiya-kun."
-<ptT0070>"The silent treatment, huh? Oh, that's right. Mamiya-kun."
+<ptT0070>"O tratamento de silencio, hein? Ah, isso mesmo. Mamiya-kun."
 
 //TEXT 【Takuji】
 <enT0071>"Y-Yes?"
-<ptT0071>"Y-Yes?"
+<ptT0071>"S-Sim?"
 
 //TEXT 【Yuki】
 <enT0072>"Do you smoke 'Never Knows Best' or anything like that?"
-<ptT0072>"Do you smoke 'Never Knows Best' or anything like that?"
+<ptT0072>"Voce fuma 'Never Knows Best' ou algo assim?"
 
 //TEXT 【Takuji】
 <enT0073>"Ah, no. Tobacco is kind of..."
-<ptT0073>"Ah, no. Tobacco is kind of..."
+<ptT0073>"Ah, nao. Cigarro e meio..."
 
 //TEXT 【Yuki】
 <enT0074>"Oh. You don't smoke."
-<ptT0074>"Oh. You don't smoke."
+<ptT0074>"Ah. Voce nao fuma."
 
 //TEXT 【Takuji】
 <enT0075>"Yeah."
-<ptT0075>"Yeah."
+<ptT0075>"E."
 
 //TEXT 【Yuki】
 <enT0076>"But I get it. I know why you talked to me."
-<ptT0076>"But I get it. I know why you talked to me."
+<ptT0076>"Mas eu entendo. Sei por que voce falou comigo."
 
 //TEXT 【Takuji】
 <enT0077>"Huh?"
-<ptT0077>"Huh?"
+<ptT0077>"Ha?"
 
 //TEXT 【Yuki】
 <enT0078>"You know, I wonder how long I've been here."
-<ptT0078>"You know, I wonder how long I've been here."
+<ptT0078>"Sabe, me pergunto a quanto tempo estou aqui."
 
 //TEXT 【Yuki】
 <enT0079>"How long I've been me."
-<ptT0079>"How long I've been me."
+<ptT0079>"A quanto tempo eu sou eu."
 
 //TEXT 【Takuji】
 <enT0080>"U-Um..."
@@ -330,11 +330,11 @@
 
 //TEXT 【Yuki】
 <enT0081>"Just kidding."
-<ptT0081>"Just kidding."
+<ptT0081>"Brincadeira."
 
 //TEXT 【Takuji】
 <enT0082>"R-Right..."
-<ptT0082>"R-Right..."
+<ptT0082>"C-Certo..."
 
 //TEXT 【Takuji】
 <enT0083>"..."
@@ -342,83 +342,83 @@
 
 //TEXT 【Takuji】
 <enT0084>"Minakami-san, how long have you been here?"
-<ptT0084>"Minakami-san, how long have you been here?"
+<ptT0084>"Minakami-san, ha quanto tempo voce esta aqui?"
 
 //TEXT 【Yuki】
 <enT0085>"How about you? How long have you been there?"
-<ptT0085>"How about you? How long have you been there?"
+<ptT0085>"E voce? Ha quanto tempo voce esta ai?"
 
 //TEXT 【Takuji】
 <enT0086>"I-I've been here a long time."
-<ptT0086>"I-I've been here a long time."
+<ptT0086>"E-Eu estou aqui ha bastante tempo."
 
 //TEXT 【Yuki】
 <enT0087>"Oh. I've been here for quite a while too, but I never noticed you."
-<ptT0087>"Oh. I've been here for quite a while too, but I never noticed you."
+<ptT0087>"Ah. Eu tambem ja estou aqui ha um tempinho, mas nunca te vi."
 
 //TEXT 【Takuji】
 <enT0088>"I-I don't really stand out very much."
-<ptT0088>"I-I don't really stand out very much."
+<ptT0088>"E-Eu nao chamo muita atencao."
 
 //TEXT 【Yuki】
 <enT0089>"You're right about that. You don't leave much of an impression."
-<ptT0089>"You're right about that. You don't leave much of an impression."
+<ptT0089>"Isso mesmo. Voce nao marca muito."
 
 //TEXT 【Takuji】
 <enT0090>"What were you looking at from up here?"
-<ptT0090>"What were you looking at from up here?"
+<ptT0090>"O que voce estava olhando daqui de cima?"
 
 //TEXT 【Yuki】
 <enT0091>"Nothing, really. I was looking at the sky."
-<ptT0091>"Nothing, really. I was looking at the sky."
+<ptT0091>"Nada, na verdade. Eu estava olhando o ceu."
 
 //TEXT 【Takuji】
 <enT0092>"I see."
-<ptT0092>"I see."
+<ptT0092>"Entendo."
 
 //TEXT 【Yuki】
 <enT0093>"You know, if God..."
-<ptT0093>"You know, if God..."
+<ptT0093>"Sabe, se Deus..."
 
 //TEXT 【Takuji】
 <enT0094>"Huh?"
-<ptT0094>"Huh?"
+<ptT0094>"Eh?"
 
 //TEXT 【Yuki】
 <enT0095>"Ah, sorry. It's nothing."
-<ptT0095>"Ah, sorry. It's nothing."
+<ptT0095>"Ah, desculpa. Nao e nada."
 
 //TEXT 【Takuji】
 <enT0096>"God?"
-<ptT0096>"God?"
+<ptT0096>"Deus?"
 
 //TEXT 【Yuki】
 <enT0097>"Well... Don't worry about it."
-<ptT0097>"Well... Don't worry about it."
+<ptT0097>"Bem... Nao se preocupa com isso."
 
 //TEXT
 <enT0098>Why did I suddenly utter the word "God"?
-<ptT0098>Why did I suddenly utter the word "God"?
+<ptT0098>Por que eu de repente disse a palavra "Deus"?
 
 //TEXT
 <enT0099>It's not like a god exists in this world.
-<ptT0099>It's not like a god exists in this world.
+<ptT0099>Nao e como se um deus existisse neste mundo.
 
 //TEXT
 <enT0100>I wonder why.
-<ptT0100>I wonder why.
+<ptT0100>Me pergunto por que.
 
 //TEXT
 <enT0101>When I looked up at the blue sky, that word just came out.
-<ptT0101>When I looked up at the blue sky, that word just came out.
+<ptT0101>Quando eu olhei pro ceu azul, aquela palavra simplesmente saiu.
 
 //TEXT
 <enT0102>God, huh?
-<ptT0102>God, huh?
+<ptT0102>Deus, hein?
 
 //TEXT
 <enT0103>That's something unrelated to me, of course.
-<ptT0103>That's something unrelated to me, of course.
+<ptT0103>Isso nao tem nada a ver comigo, claro.
 
 //TEXT 【Yuki】
 <enT0104>"Ah..."
@@ -426,23 +426,23 @@
 
 //TEXT 【Yuki】
 <enT0105>"What the hell? He left."
-<ptT0105>"What the hell? He left."
+<ptT0105>"Que diabos? Ele foi embora."
 
 //TEXT 【Yuki】
 <enT0106>"He really doesn't stand out, though."
-<ptT0106>"He really doesn't stand out, though."
+<ptT0106>"Ele realmente nao chama atencao, hein."
 
 //TEXT
 <enT0107>Before I knew it, Mamiya Takuji had already vanished.
-<ptT0107>Before I knew it, Mamiya Takuji had already vanished.
+<ptT0107>Antes que eu percebesse, Mamiya Takuji ja tinha sumido.
 
 //TEXT
 <enT0108>Which left me all alone, looking out from under this sky.
-<ptT0108>Which left me all alone, looking out from under this sky.
+<ptT0108>O que me deixou sozinho, observando de baixo deste ceu.
 
 //TEXT
 <enT0109>Looking at this world...
-<ptT0109>Looking at this world...
+<ptT0109>Olhando para este mundo...
 
 ///================================================================================
 

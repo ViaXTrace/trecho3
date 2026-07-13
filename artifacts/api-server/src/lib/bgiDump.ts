@@ -9,6 +9,8 @@ export interface EnEntry {
 export interface ParsedDump {
   lines: string[];
   enEntries: EnEntry[];
+  /** Current `pt` text for each `T` id, as already present on disk. */
+  ptEntries: Map<number, string>;
   setPt: (id: number, text: string) => void;
 }
 
@@ -28,6 +30,7 @@ export function escapeText(text: string): string {
 export function parseDump(content: string): ParsedDump {
   const lines = content.split("\n");
   const enEntries: EnEntry[] = [];
+  const ptEntries = new Map<number, string>();
   const ptLineIndexById = new Map<number, number>();
   const ptPrefixById = new Map<number, string>();
 
@@ -40,6 +43,7 @@ export function parseDump(content: string): ParsedDump {
     if (lang === "en") {
       enEntries.push({ id, text });
     } else {
+      ptEntries.set(id, text);
       ptLineIndexById.set(id, idx);
       ptPrefixById.set(id, `<pt${marker}${idStr}>`);
     }
@@ -50,9 +54,10 @@ export function parseDump(content: string): ParsedDump {
     const prefix = ptPrefixById.get(id);
     if (idx === undefined || prefix === undefined) return;
     lines[idx] = `${prefix}${escapeText(text)}`;
+    ptEntries.set(id, text);
   };
 
-  return { lines, enEntries, setPt };
+  return { lines, enEntries, ptEntries, setPt };
 }
 
 export function countTotalLines(content: string): number {
