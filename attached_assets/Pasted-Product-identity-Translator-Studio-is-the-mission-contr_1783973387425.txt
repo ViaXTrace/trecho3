@@ -1,0 +1,25 @@
+Product identity: "Translator Studio" is the mission control for a fan-translation team turning the Japanese visual novel "Subarashiki Hibi" into Portuguese (Brazil). It ingests 113 original binary script files, machine-translates the dialogue with the team's own AI provider key, and re-packs each file back into the game's exact original binary format -- like a translation assembly line with a control room view over every file's progress.
+Vibe: Dense and information-rich, like a build/CI dashboard -- every file's status visible at a glance across 113 rows, not a handful of cards. Prioritize clarity and polish, but this should feel like a product someone chose to run a serious localization operation, not a generic admin template. Make a bold, deliberate color choice tied to translation/language work (not a gray SaaS default) that someone would remember. Optimize for information density: users want to scan 113 files' status without hunting through pages.
+Do not use emojis anywhere in the UI.
+Pages:
+/ -- Files dashboard: a dense, sortable/filterable table or list of all script files (from useListFiles), each row showing filename, status (pending/queued/translating/done/error), a progress indicator (translatedLines / totalLines, plus skippedLines), and a per-file "Translate" action (useTranslateFile). Include a persistent header/summary strip driven by useGetStats (totalFiles, doneFiles, errorFiles, translatingFiles, totalLines, translatedLines) and a prominent "Translate All" action (useTranslateAllFiles) that queues every pending/errored file. Support polling (refetchInterval, e.g. every 3-5s) so in-progress files visibly update. Files in "error" status should show their errorMessage and allow retry.
+- /settings -- Provider settings: an API base URL field (defaults from useGetSettings, e.g. an OpenAI-compatible endpoint) and an API key field (write-only -- the server never returns the key, only hasApiKey: boolean). Saving baseUrl/apiKey via useUpdateSettings automatically triggers server-side model auto-detection; show the resulting models list as a picker for model, plus a manual "Re-detect models" button (useDetectModels) with loading/empty/error states (e.g. no key configured yet, or detection failed with lastDetectError). Also expose concurrency and batchSize as numeric controls (these control translation throughput -- label them so users understand they trade speed for provider rate limits). This is a supporting screen but deserves the same design care as the dashboard -- no generic bare form.
+Data types:
+- Settings: { baseUrl: string, hasApiKey: boolean, model: string | null, models: string[], concurrency: number, batchSize: number, lastDetectedAt: string | null, lastDetectError: string | null }
+- SettingsUpdate (input): { baseUrl?: string, apiKey?: string, model?: string, concurrency?: number, batchSize?: number }
+- ScriptFile: { filename: string, status: "pending" | "queued" | "translating" | "done" | "error", totalLines: number, translatedLines: number, skippedLines: number, errorMessage: string | null, updatedAt: string }
+- Stats: { totalFiles: number, doneFiles: number, errorFiles:number, translatingFiles: number, totalLines: number, translatedLines: number }
+
+Available API hooks (from codegen, use ALL of them):
+- `useGetSettings`, `getGetSettingsQueryKey` -- GET /settings -> Settings
+- `useUpdateSettings` -- PUT /settings, mutate({ data: SettingsUpdate }) -> Settings
+- `useDetectModels` -- POST /settings/detect-models, mutate({}) -> Settings
+- `useListFiles`, `getListFilesQueryKey` -- GET /files -> ScriptFile[]
+- `useGetStats`, `getGetStatsQueryKey` -- GET /files/stats -> Stats
+- `useTranslateAllFiles` -- POST /files/translate-all, mutate({}) -> { queued: number }
+- `useGetFile`, `getGetFileQueryKey(filename)` -- GET /files/{filename} -> ScriptFile
+- `useTranslateFile` -- POST /files/{filename}/translate, mutate({ filename }) -> ScriptFile
+
+Mutations for settings/detect-models return errors as ApiError with a JSON body `{ error: string }` on 400 (e.g. missing API key). Surface that message in the UI (toast or inline), don't just fail silently.
+
+You have full creative freedom over layout, colors, typography, hierarchy, motion, and component choices. Use ALL the provided hooks -- the product surface is fixed, express it beautifully rather than inventing new entities or routes. Add tasteful micro-interactions (status transitions, hover states, satisfying feedback when queuing translations) and a well-crafted empty/loading state for both pages.

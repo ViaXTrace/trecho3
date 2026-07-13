@@ -3,13 +3,17 @@ info:
   # Do not change the title, if the title changes, the import paths will be broken
   title: Api
   version: 0.1.0
-  description: API specification
+  description: Translator Studio API — mission control for the Subarashiki Hibi PT-BR fan translation
 servers:
   - url: /api
     description: Base API path
 tags:
   - name: health
     description: Health operations
+  - name: settings
+    description: AI provider settings
+  - name: files
+    description: Script file translation pipeline
 paths:
   /healthz:
     get:
@@ -24,6 +28,146 @@ paths:
             application/json:
               schema:
                 $ref: "#/components/schemas/HealthStatus"
+  /settings:
+    get:
+      operationId: getSettings
+      tags: [settings]
+      summary: Get provider settings
+      responses:
+        "200":
+          description: Current settings
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Settings"
+    put:
+      operationId: updateSettings
+      tags: [settings]
+      summary: Update provider settings
+      description: Updating baseUrl/apiKey automatically triggers server-side model auto-detection.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/SettingsUpdate"
+      responses:
+        "200":
+          description: Updated settings
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Settings"
+        "400":
+          description: Invalid input
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /settings/detect-models:
+    post:
+      operationId: detectModels
+      tags: [settings]
+      summary: Re-detect available models from the configured provider
+      responses:
+        "200":
+          description: Settings with refreshed models list
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Settings"
+        "400":
+          description: Detection failed (e.g. no API key configured)
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /files:
+    get:
+      operationId: listFiles
+      tags: [files]
+      summary: List all script files
+      responses:
+        "200":
+          description: All script files
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/ScriptFile"
+  /files/stats:
+    get:
+      operationId: getStats
+      tags: [files]
+      summary: Aggregate translation stats across all files
+      responses:
+        "200":
+          description: Stats
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Stats"
+  /files/translate-all:
+    post:
+      operationId: translateAllFiles
+      tags: [files]
+      summary: Queue every pending/errored file for translation
+      responses:
+        "200":
+          description: Number of files queued
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/TranslateAllResult"
+  /files/{filename}:
+    get:
+      operationId: getFile
+      tags: [files]
+      summary: Get a single script file's status
+      parameters:
+        - name: filename
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Script file
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ScriptFile"
+        "404":
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
+  /files/{filename}/translate:
+    post:
+      operationId: translateFile
+      tags: [files]
+      summary: Queue a single file for translation
+      parameters:
+        - name: filename
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Script file with updated status
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ScriptFile"
+        "404":
+          description: Not found
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/ErrorResponse"
 components:
   schemas:
     HealthStatus:
@@ -33,4 +177,116 @@ components:
           type: string
       required:
         - status
-
+    ErrorResponse:
+      type: object
+      required: [error]
+      properties:
+        error:
+          type: string
+    Settings:
+      type: object
+      required:
+        [
+          baseUrl,
+          hasApiKey,
+          model,
+          models,
+          concurrency,
+          batchSize,
+          lastDetectedAt,
+          lastDetectError,
+        ]
+      properties:
+        baseUrl:
+          type: string
+        hasApiKey:
+          type: boolean
+        model:
+          type: ["string", "null"]
+        models:
+          type: array
+          items:
+            type: string
+        concurrency:
+          type: integer
+        batchSize:
+          type: integer
+        lastDetectedAt:
+          type: ["string", "null"]
+          format: date-time
+        lastDetectError:
+          type: ["string", "null"]
+    SettingsUpdate:
+      type: object
+      properties:
+        baseUrl:
+          type: string
+        apiKey:
+          type: string
+        model:
+          type: string
+        concurrency:
+          type: integer
+          minimum: 1
+        batchSize:
+          type: integer
+          minimum: 1
+    ScriptFile:
+      type: object
+      required:
+        [
+          filename,
+          status,
+          totalLines,
+          translatedLines,
+          skippedLines,
+          errorMessage,
+          updatedAt,
+        ]
+      properties:
+        filename:
+          type: string
+        status:
+          type: string
+          enum: [pending, queued, translating, done, error]
+        totalLines:
+          type: integer
+        translatedLines:
+          type: integer
+        skippedLines:
+          type: integer
+        errorMessage:
+          type: ["string", "null"]
+        updatedAt:
+          type: string
+          format: date-time
+    Stats:
+      type: object
+      required:
+        [
+          totalFiles,
+          doneFiles,
+          errorFiles,
+          translatingFiles,
+          totalLines,
+          translatedLines,
+        ]
+      properties:
+        totalFiles:
+          type: integer
+        doneFiles:
+          type: integer
+        errorFiles:
+          type: integer
+        translatingFiles:
+          type: integer
+        totalLines:
+          type: integer
+        translatedLines:
+          type: integer
+    TranslateAllResult:
+      type: object
+      required: [queued]
+      properties:
+        queued:
+          type: integer

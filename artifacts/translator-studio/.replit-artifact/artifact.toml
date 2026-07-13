@@ -1,0 +1,27 @@
+kind = "web"
+previewPath = "/"
+title = "Translator Studio"
+version = "1.0.0"
+id = "artifacts/translator-studio"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24674
+
+[services.development]
+run = "pnpm --filter @workspace/translator-studio run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/translator-studio", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/translator-studio/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24674"
+BASE_PATH = "/"

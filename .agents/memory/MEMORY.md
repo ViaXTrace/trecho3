@@ -1,0 +1,1 @@
+- [BGI script translation pipeline](bgi-translation-pipeline.md) — dump/insert format contract, glossary-driven skip logic, and why binary repacking shells out to Python.
